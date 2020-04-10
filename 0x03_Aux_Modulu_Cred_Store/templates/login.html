@@ -1,0 +1,140 @@
+{% extends "base.html" %}
+{% block body %}
+<section class="hero is-white is-medium">
+  <nav class="navbar is-transparent">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="https://github.com/anfederico/Flaskex/raw/master/media/flaskex-logo.png" alt="Flaskex">
+        <h6 href="/" class="subtitle"><strong>Flaskex</strong></h6>
+      </a>
+      <div id="navbar-burger-id" class="navbar-burger burger" data-target="navbar-menu-id">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+    <div id="navbar-menu-id" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item">
+          <div class="field">
+            <p class="control has-icons-left">
+              <input class="login-input input is-small is-success" type="text" id="login-user" placeholder="Username">
+                <span class="icon is-small is-left">
+                  <i class="fa fa-user"></i>
+                </span>
+            </p>
+          </div>
+        </a>
+        <a class="navbar-item">
+          <div class="field">
+            <p class="control has-icons-left">
+              <input class="login-input input is-small is-success" type="password" id="login-pass" placeholder="Password">
+                <span class="icon is-small is-left">
+                  <i class="fa fa-lock"></i>
+                </span>
+            </p>
+          </div>
+        </a>
+        <span class="navbar-item">
+          <a id="login-button" class="button is-primary is-inverted">
+            <span class="icon">
+              <i class="fa fa-check"></i>
+            </span>
+            <span>Login</span>
+          </a>
+        </span>
+      </div>
+    </div>
+  </nav>
+</section>
+<title>Flaskex</title>
+<section class="hero is-primary is-bold is-medium">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div class="columns">
+        <div class="column is-auto">
+          <br>
+          <p class="title is-2">Flaskex</p>
+          <p class="subtitle is-4"><i>Simple example for rapid prototyping</i></p>
+          <p class="subtitle is-5">&#x2022 Encrypted user authorizaton</p>
+          <p class="subtitle is-5">&#x2022 Ready to go database system</p>
+          <p class="subtitle is-5">&#x2022 User login, signup, and settings</p>           
+        </div>
+        <div class="column is-auto">
+          <div id="signup-box" class="signup-box">
+            <div class="signup-area">
+              <h1 class="title">Sign Up</h1>
+              <div class="field">
+                <p class="control has-icons-left has-icons-right">
+                  <input id="signup-user" class="input is-success" type="text" placeholder="Username">
+                  <span class="icon is-small is-left">
+                    <i class="fa fa-user"></i>
+                  </span>
+                  <span class="icon is-small is-right">
+                    <i class="fa fa-check"></i>
+                  </span>
+                </p>
+              </div>
+              <div class="field">
+                <p class="control has-icons-left has-icons-right">
+                  <input id="signup-mail" class="input is-success" type="text" placeholder="Email">
+                  <span class="icon is-small is-left">
+                    <i class="fa fa-envelope"></i>
+                  </span>
+                  <span class="icon is-small is-right">
+                    <i class="fa fa-check"></i>
+                  </span>
+                </p>
+              </div>
+              <div class="field">
+                <p class="control has-icons-left has-icons-right">
+                  <input id="signup-pass" class="input" type="password" placeholder="Password">
+                  <span class="icon is-small is-left">
+                    <i class="fa fa-lock"></i>
+                  </span>
+                  <span class="icon is-small is-right">
+                    <i class="fa fa-check"></i>
+                  </span>
+                </p>
+              </div>
+              <br>
+              <a id="signup-button" class="form-button button is-primary is-inverted is-outlined">Sign Up</a>
+              <br>
+              <br>
+              <i><a id="feedback" class="feedback"></a></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </div>
+</section>
+<section class="hero">
+  <footer class="footer">
+    <div class="container">
+      <div class="content has-text-centered">
+        <p>
+          <strong>Flaskex</strong> by Anthony Federico
+          <span class="icon is-small">
+            <i class="fa fa-copyright"></i>
+          </span>2017</a>
+        </p>
+        <p>
+          <a class="icon has-text-primary" href="https://github.com/anfederico" target="_blank">
+            <i class="fa fa-globe"></i>
+          </a>          
+          <a class="icon has-text-primary" href="https://github.com/anfederico" target="_blank">
+            <i class="fa fa-github"></i>
+          </a>
+          <a class="icon has-text-primary" href="mailto:anfederico@github.user" target="_blank">
+            <i class="fa fa-envelope"></i>
+          </a>
+        </p>
+      </div>
+    </div>
+  </footer>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="../static/js/scripts.js"></script>
+{% endblock %}

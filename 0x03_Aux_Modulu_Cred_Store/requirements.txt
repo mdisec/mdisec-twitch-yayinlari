@@ -1,4 +1,6 @@
-flask
-flask_sqlalchemy
-flask_migrate
-sqlalchemy
+Flask
+WTForms
+SQLAlchemy
+bcrypt
+requests
+psycopg2
