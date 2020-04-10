@@ -1,15 +1,13 @@
-import datetime
-
-from flask import Flask, request
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
+from flask import request
 from flask_migrate import Migrate
 from sqlalchemy import create_engine
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://test:test@localhost:5432/test"
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://msf:msf@localhost:5432/msf"
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
-
 
 class LogModel(db.Model):
     __tablename__ = 'logs'
@@ -17,7 +15,6 @@ class LogModel(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     ip = db.Column(db.String())
     user_agent = db.Column(db.String())
-    create_date = db.Column(db.DateTime(), default=datetime.datetime.utcnow)
 
     def __init__(self, ip, user_agent):
         self.ip = ip
@@ -26,29 +23,26 @@ class LogModel(db.Model):
     def __repr__(self):
         return f"<Log {self.ip}>"
 
-
-def log_request(ip, user_agent):
+def log_kaydet(ip, user_agent):
     eng = create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
-    try:
-        with eng.connect() as con:
-            query = "INSERT INTO logs (ip, user_agent) VALUES ('{0}','{1}')".format(
-                ip,user_agent
-            )
-            con.execute(query)
-    except Exception as e:
-        pass
+
+    with eng.connect() as con:
+        query = "INSERT INTO logs (ip, user_agent) VALUES ('{0}','{1}')".format(
+            ip,
+            user_agent
+        )
+        con.execute(query)
+
 
 @app.route('/')
 def hello_world():
-    author = request.args.get('author')
 
-    log_request(
+    log_kaydet(
         request.remote_addr,
-        request.headers.get('User-Agent')
+        request.headers.get('user-agent')
     )
-    return "Helloooo {0} !".format(
-        author
-    )
+
+    return 'Hello World!'
 
 
 if __name__ == '__main__':
