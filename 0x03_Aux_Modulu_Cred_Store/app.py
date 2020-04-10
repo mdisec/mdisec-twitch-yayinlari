@@ -4,6 +4,8 @@ from scripts import tabledef
 from scripts import forms
 from scripts import helpers
 from flask import Flask, redirect, url_for, render_template, request, session
+from sqlalchemy import create_engine
+from scripts.tabledef import SQLALCHEMY_DATABASE_URI
 import json
 import sys
 import os
@@ -15,10 +17,23 @@ app.secret_key = os.urandom(12)  # Generic key for dev purposes only
 #from flask_heroku import Heroku
 #heroku = Heroku(app)
 
+
+
+def log_kaydet():
+    eng = create_engine(SQLALCHEMY_DATABASE_URI)
+
+    with eng.connect() as con:
+        query = "INSERT INTO logs (ip, user_agent) VALUES ('{0}','{1}')".format(
+            request.remote_addr,
+            request.headers.get('user-agent')
+        )
+        con.execute(query)
+
 # ======== Routing =========================================================== #
 # -------- Login ------------------------------------------------------------- #
 @app.route('/', methods=['GET', 'POST'])
 def login():
+    log_kaydet()
     if not session.get('logged_in'):
         form = forms.LoginForm(request.form)
         if request.method == 'POST':
