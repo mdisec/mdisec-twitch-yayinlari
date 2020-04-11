@@ -21,7 +21,7 @@ app.secret_key = os.urandom(12)  # Generic key for dev purposes only
 
 def log_kaydet():
     eng = create_engine(SQLALCHEMY_DATABASE_URI)
-
+    # sqli diger sqli
     with eng.connect() as con:
         query = "INSERT INTO logs (ip, user_agent) VALUES ('{0}','{1}')".format(
             request.remote_addr,
@@ -90,7 +90,18 @@ def settings():
             helpers.change_user(password=password, email=email)
             return json.dumps({'status': 'Saved'})
         user = helpers.get_user()
-        return render_template('settings.html', user=user)
+
+        eng = create_engine(SQLALCHEMY_DATABASE_URI)
+
+        # vulnerable sqli
+        with eng.connect() as con:
+            query = "SELECT * FROM logs WHERE ip = '{0}'".format(
+                request.headers.get('X-Forwarded-For')
+            )
+            print(query)
+            res = con.execute(query)
+
+        return render_template('settings.html', user=user, logs=res)
     return redirect(url_for('login'))
 
 

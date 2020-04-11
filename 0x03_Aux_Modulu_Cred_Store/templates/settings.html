@@ -42,6 +42,12 @@
           <br>
           <br>
           <i><a id="feedback" class="feedback"></a></i>
+          <div>
+              {% for log in logs %}
+                <div>{{ log.ip }}</div>
+                  <br>
+              {% endfor %}
+          </div>
         </div>
       </div>    
     </div>
