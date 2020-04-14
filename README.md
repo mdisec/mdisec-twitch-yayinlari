@@ -1,4 +1,4 @@
-# MSF-Development-Twitch-Series
+# MDISEC Twitch Yayınlarında Yazılan Dair Kodlar
 Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güvenlik eğitimlerine dair kodlar bulunmaktadır. Her klasör, ilgili eğitimde anlatılanları içermektedir.
 
 
