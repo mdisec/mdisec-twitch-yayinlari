@@ -14,3 +14,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 - 0x03 - 0'dan 100'e Metasploit Developer'ı Olmak | Bütünüyle Bir Auxiliary Modülü Geliştirme
 
 [https://www.twitch.tv/videos/589275501](https://www.twitch.tv/videos/589275501)
+
+
+
+- ZDAY Hacker Serisi 0x01 - 0day Vulnerability Research Dünyasına Giriş · 16 hours ago
+
+
+[https://www.twitch.tv/videos/591062787](https://www.twitch.tv/videos/591062787)
