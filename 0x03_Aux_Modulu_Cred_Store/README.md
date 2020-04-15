@@ -13,7 +13,7 @@ Enter new password:
 Enter it again: 
 twitch=#
 
-✗ pip -r requirements.txt
+✗ pip install -r requirements.txt
 ✗ export FLASK_APP=app.py   
 ✗ python -m flask run 
 
