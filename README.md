@@ -21,3 +21,6 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
 
 [https://www.twitch.tv/videos/591062787](https://www.twitch.tv/videos/591062787)
+
+- 0x04 - 0'dan 100'e Metasploit Developer'ı Olmak | Exploit Modülü Geliştirmeye Giriş 
+[https://www.twitch.tv/videos/593008248](https://www.twitch.tv/videos/593008248)
