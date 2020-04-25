@@ -34,4 +34,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   2. 0x02 | IDOR Insecure Direct Object Reference Zafiyetleri Hakkında Her şey
      * [https://www.twitch.tv/videos/597782271](https://www.twitch.tv/videos/597782271)
+  
+  3. 0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti
+     * [https://www.twitch.tv/videos/601669993](https://www.twitch.tv/videos/601669993)
+
 </details>
