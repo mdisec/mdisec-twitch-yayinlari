@@ -3,7 +3,7 @@
 
 Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güvenlik eğitimlerine dair kodlar bulunmaktadır. Her klasör, ilgili eğitimde anlatılanları içermektedir.
 
-## Eğitim serileri
+## Yayın kataloğu
 
 <details>
   <summary>0'dan 100'e - Metasploit Developer'ı Olmak</summary>
@@ -39,6 +39,14 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   3. 0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti
      * [https://www.twitch.tv/videos/601669993](https://www.twitch.tv/videos/601669993)
+
+</details>
+
+<details>
+  <summary>Mobil Malware</summary>
+
+  1. 0x01 | BTC Stealer Zararlısı ile Mobil Malware Dünyasına Giriş /w @0xabc0
+     * [https://www.twitch.tv/videos/611273156](https://www.twitch.tv/videos/611273156)
 
 </details>
 
