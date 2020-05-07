@@ -33,10 +33,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | SQL Injection'ı Bütünüyle Anlamak
      * [https://www.twitch.tv/videos/595111162](https://www.twitch.tv/videos/595111162)
-
   2. 0x02 | IDOR Insecure Direct Object Reference Zafiyetleri Hakkında Her şey
      * [https://www.twitch.tv/videos/597782271](https://www.twitch.tv/videos/597782271)
-
   3. 0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti
      * [https://www.twitch.tv/videos/601669993](https://www.twitch.tv/videos/601669993)
 
@@ -55,5 +53,6 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | HackerOne Yayını! Hacking ve BugBounty Hakkında Her Şey /w @utkusen & @umr4n6
      * [https://www.twitch.tv/videos/606367716](https://www.twitch.tv/videos/606367716)
-
+  2. 0x02 | Kanlı-Canlı Blue Team'in Hayatı (splunk + sysmon + zeek + suricata) /w @caliskanfurkan_
+     * [https://www.twitch.tv/videos/613223050](https://www.twitch.tv/videos/613223050)
 </details>
