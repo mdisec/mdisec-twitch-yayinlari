@@ -57,4 +57,6 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/606367716](https://www.twitch.tv/videos/606367716)
   2. 0x02 | Kanlı-Canlı Blue Team'in Hayatı (splunk + sysmon + zeek + suricata) /w @caliskanfurkan_
      * [https://www.twitch.tv/videos/613223050](https://www.twitch.tv/videos/613223050)
+  3. 0x03 | Pazar goygoy'u & Web Security Academy lab'ına kafa üstü dalış
+     * [https://www.twitch.tv/videos/616972912](https://www.twitch.tv/videos/616972912)
 </details>
