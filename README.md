@@ -41,6 +41,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
      * [https://www.twitch.tv/videos/620066004](https://www.twitch.tv/videos/620066004)
+  6. 0x06 | Web Security 0x06 | Siber Güvenlik Üzerine Goygoy ve Web Security Academiy 2nd Edition
+     * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
 
 </details>
 
