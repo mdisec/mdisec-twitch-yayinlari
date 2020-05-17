@@ -41,7 +41,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
      * [https://www.twitch.tv/videos/620066004](https://www.twitch.tv/videos/620066004)
-  6. 0x06 | Web Security 0x06 | Siber Güvenlik Üzerine Goygoy ve Web Security Academiy 2nd Edition
+  6. 0x06 | Siber Güvenlik Üzerine Goygoy ve Web Security Academy 2nd Edition
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
 
 </details>
@@ -63,4 +63,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/613223050](https://www.twitch.tv/videos/613223050)
   3. 0x03 | Pazar goygoy'u & Web Security Academy lab'ına kafa üstü dalış
      * [https://www.twitch.tv/videos/616972912](https://www.twitch.tv/videos/616972912)
+  4. 0x04 | Siber Güvenlik Goygoyu ve akabinde Tabiki Teknik-Taktik-Kanlı-Canlı Eğitim /w Ayşe Bilge @abilgegunduz
+     * [https://www.twitch.tv/videos/623873004](https://www.twitch.tv/videos/623873004)
+
 </details>
