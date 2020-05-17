@@ -63,4 +63,6 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/613223050](https://www.twitch.tv/videos/613223050)
   3. 0x03 | Pazar goygoy'u & Web Security Academy lab'ına kafa üstü dalış
      * [https://www.twitch.tv/videos/616972912](https://www.twitch.tv/videos/616972912)
+  3. 0x04 | Özel Yayın | Siber Güvenlik Goygoyu ve akabinde Tabiki Teknik-Taktik-Kanlı-Canlı Eğitim /w Ayşe Bilge @ abilgegunduz
+     * [https://www.twitch.tv/videos/623873004](https://www.twitch.tv/videos/623873004)
 </details>
