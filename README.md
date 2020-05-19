@@ -11,13 +11,14 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   1. 0x01 | İlk Yayın & Giriş
      * [https://www.twitch.tv/videos/586348522](https://www.twitch.tv/videos/586348522)
   2. 0x02 | Vulnerable Uygulama Yazıp, Auxiliary Modülü Geliştirmeye Giriş
-     * [https://www.twitch.tv/videos/586761795](https://www.twitch.tv/videos/586761795)
+     * [https://www.twitch.tv/videos/586761795](https://www.twitch.tv/videos/586761795) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x02_Aux_Modulu_Giris/)
   3. 0x03 | Bütünüyle Bir Auxiliary Modülü Geliştirme
-     * [https://www.twitch.tv/videos/589457635](https://www.twitch.tv/videos/589457635)
+     * [https://www.twitch.tv/videos/589457635](https://www.twitch.tv/videos/589457635) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x03_Aux_Modulu_Cred_Store/)
   4. 0x04 | Exploit Modülü Geliştirmeye Giriş
-     * [https://www.twitch.tv/videos/593008248](https://www.twitch.tv/videos/593008248)
+     * [https://www.twitch.tv/videos/593008248](https://www.twitch.tv/videos/593008248) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x04_Exploit_Modulu_VestaCP/)
   5. 0x05 | Shellcode Nedir? MSF Payload Üretim Mimarisine Giriş \w @egeblc
      * [https://www.twitch.tv/videos/604445231](https://www.twitch.tv/videos/604445231)
+
 </details>
 
 <details>
