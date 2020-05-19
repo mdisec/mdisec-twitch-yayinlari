@@ -39,7 +39,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   3. 0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti
      * [https://www.twitch.tv/videos/601669993](https://www.twitch.tv/videos/601669993)
   4. 0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır?
-     * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454)
+     * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454) - [**Yayın özeti belge**](docs/Web_Security_101/0x04_Bir_Hackerin_Gozunden_Web/README.md)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
      * [https://www.twitch.tv/videos/620066004](https://www.twitch.tv/videos/620066004)
   6. 0x06 | Siber Güvenlik Üzerine Goygoy ve Web Security Academy 2nd Edition
