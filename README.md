@@ -6,6 +6,30 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 ## Yayın kataloğu
 
 <details>
+  <summary>HackerConf 2020</summary>
+
+  1. [EN] Opening & Keynote by Chloé Messdaghi
+     * [https://www.twitch.tv/videos/630401704](https://www.twitch.tv/videos/630401704)
+  2. [TR] Bir Red Team Serüveni by Barkın Kılıç
+     * [https://www.twitch.tv/videos/630401702](https://www.twitch.tv/videos/630401702)
+  3. [EN] Deep Dive into Binary Genetics: Detecting code re-use by CFG analysis by Usama Saqib
+     * [https://www.twitch.tv/videos/630401703](https://www.twitch.tv/videos/630401703)
+  4. [TR] Hacking Android Games For Fun & Profit by Ahmet Bilal Can
+     * [https://www.twitch.tv/videos/630425611](https://www.twitch.tv/videos/630425611)
+  5. [TR] 'JUST CHATTING' WITH SPONSORS
+     * [https://www.twitch.tv/videos/630425609](https://www.twitch.tv/videos/630425609)
+  6. [TR] Halka Açık Ekran Görüntülerinde "Image Processing" ile Hassas Veri Arama ("ShotLooter") by Utku Şen
+     * [https://www.twitch.tv/videos/630425607](https://www.twitch.tv/videos/630425607)
+  7. [EN] Windows Firewall is Enabled By Default: Exploiting Microsoft Protocols by Hossam Mohamed
+     * [https://www.twitch.tv/videos/630425608](https://www.twitch.tv/videos/630425608)
+  8. [TR] Siber Puzzle Tehdit Avı: Bir APT Saldırısının Analizi by Alparslan Akyıldız
+     * [https://www.twitch.tv/videos/630425612](https://www.twitch.tv/videos/630425612)
+  9. [TR] Kapanış with Perfect Trio Can Yıldızlı & Koryak Uzan ve MDISEC
+     * [https://www.twitch.tv/videos/630425610](https://www.twitch.tv/videos/630425610)
+
+</details>
+
+<details>
   <summary>0'dan 100'e - Metasploit Developer'ı Olmak</summary>
 
   1. 0x01 | İlk Yayın & Giriş
