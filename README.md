@@ -70,3 +70,28 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/623873004](https://www.twitch.tv/videos/623873004)
 
 </details>
+
+<details>
+  <summary>HackerConf</summary>
+
+  1. [EN] Opening & Keynote by Chloé Messdaghi @ChloeMessdaghi
+     * [https://www.twitch.tv/videos/630401704](https://www.twitch.tv/videos/630401704)
+  2. [TR] Bir Red Team Serüveni by Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/630401702](https://www.twitch.tv/videos/630401702)
+  3. [EN] Deep Dive into Binary Genetics: Detecting code re-use by CFG analysis by Usama Saqib
+     * [https://www.twitch.tv/videos/630401703](https://www.twitch.tv/videos/630401703)
+  4. [TR] Hacking Android Games For Fun & Profit by Ahmet Bilal Can @0xabc0
+     * [https://www.twitch.tv/videos/630425611](https://www.twitch.tv/videos/630425611)
+  5. [TR] JUST CHATTING' WITH SPONSORS
+     * [https://www.twitch.tv/videos/630425609](https://www.twitch.tv/videos/630425609)
+  6. [TR] Halka Açık Ekran Görüntülerinde "Image Processing" ile Hassas Veri Arama ("ShotLooter") by Utku Şen @utkusen
+     * [https://www.twitch.tv/videos/630425607](https://www.twitch.tv/videos/630425607)
+  7. [EN] Windows Firewall is Enabled By Default: Exploiting Microsoft Protocols by Hossam Mohamed @_wazehell
+     * [https://www.twitch.tv/videos/630425608](https://www.twitch.tv/videos/630425608)
+  8. [TR] Siber Puzzle Tehdit Avı: Bir APT Saldırısının Analizi by Alparslan Akyıldız
+     * [https://www.twitch.tv/videos/630425612](https://www.twitch.tv/videos/630425612)
+  9. [TR] Kapanış with Perfect Trio Can Yıldızlı & Koryak Uzan ve MDISEC
+     * [https://www.twitch.tv/videos/630425610](https://www.twitch.tv/videos/630425610)
+     
+
+</details>
