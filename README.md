@@ -44,6 +44,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/620066004](https://www.twitch.tv/videos/620066004)
   6. 0x06 | Siber Güvenlik Üzerine Goygoy ve Web Security Academy 2nd Edition
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
+  7. 0x07 | XML external entity (XXE) Injection
+     * [https://www.twitch.tv/videos/625002543](https://www.twitch.tv/videos/625002543)
 
 </details>
 
