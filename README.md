@@ -46,6 +46,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
   7. 0x07 | XML external entity (XXE) Injection
      * [https://www.twitch.tv/videos/625002543](https://www.twitch.tv/videos/625002543)
+  8. 0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1
+     * [https://www.twitch.tv/videos/631760884](https://www.twitch.tv/videos/631760884)
 
 </details>
 
@@ -93,5 +95,4 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   9. [TR] Kapanış with Perfect Trio Can Yıldızlı & Koryak Uzan ve MDISEC
      * [https://www.twitch.tv/videos/630425610](https://www.twitch.tv/videos/630425610)
      
-
 </details>
