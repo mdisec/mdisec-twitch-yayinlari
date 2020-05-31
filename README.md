@@ -72,6 +72,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/616972912](https://www.twitch.tv/videos/616972912)
   4. 0x04 | Siber Güvenlik Goygoyu ve akabinde Tabiki Teknik-Taktik-Kanlı-Canlı Eğitim /w Ayşe Bilge @abilgegunduz
      * [https://www.twitch.tv/videos/623873004](https://www.twitch.tv/videos/623873004)
+  5. 0x05 | Siber güvenlik üzerine teknik-taktik muhabbet
+     * [https://www.twitch.tv/videos/637419886](https://www.twitch.tv/videos/637419886)
 
 </details>
 
