@@ -62,6 +62,14 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
+  <summary>Network Hacker</summary>
+
+  1. 0x01 | Karanlığı Aydınlat /w Barknkilic
+     * [https://www.twitch.tv/videos/638434083](https://www.twitch.tv/videos/638434083)
+
+</details>
+
+<details>
   <summary>Özel Yayınlar</summary>
 
   1. 0x01 | HackerOne Yayını! Hacking ve BugBounty Hakkında Her Şey /w @utkusen & @umr4n6
