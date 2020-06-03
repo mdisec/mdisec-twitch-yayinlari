@@ -82,6 +82,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/623873004](https://www.twitch.tv/videos/623873004)
   5. 0x05 | Siber güvenlik üzerine teknik-taktik muhabbet
      * [https://www.twitch.tv/videos/637419886](https://www.twitch.tv/videos/637419886)
+  6. 0x06 | CTO ile siber güvenlik üzerine teknik-taktik sohbet /w Oğuzhan YILMAZ
+     * [https://www.twitch.tv/videos/640273582](https://www.twitch.tv/videos/640273582)
 
 </details>
 
