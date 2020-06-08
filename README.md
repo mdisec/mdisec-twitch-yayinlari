@@ -64,8 +64,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 <details>
   <summary>Network Hacker</summary>
 
-  1. 0x01 | Karanlığı Aydınlat /w Barknkilic
+  1. 0x01 | Karanlığı Aydınlat /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/638434083](https://www.twitch.tv/videos/638434083)
+  2. 0x02 | Ağ Protokollerine Fısılda /w Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/645094492](https://www.twitch.tv/videos/645094492)
 
 </details>
 
