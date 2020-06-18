@@ -50,6 +50,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/631760884](https://www.twitch.tv/videos/631760884)
   9. 0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2
      * [https://www.twitch.tv/videos/633696324](https://www.twitch.tv/videos/633696324)
+  10. 0x0A | Web Security Academy'den Devam Ediyoruz
+      * [https://www.twitch.tv/videos/647062163](https://www.twitch.tv/videos/647062163)
+  11. 0x0B | Web Security Academy'de XSS Çözmeye Devam
+      * [https://www.twitch.tv/videos/653702937](https://www.twitch.tv/videos/653702937)
 
 </details>
 
