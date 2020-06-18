@@ -10,14 +10,19 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | İlk Yayın & Giriş
      * [https://www.twitch.tv/videos/586348522](https://www.twitch.tv/videos/586348522)
+     * [https://www.youtube.com/watch?v=oKUzpaWxrfY](https://www.youtube.com/watch?v=oKUzpaWxrfY)
   2. 0x02 | Vulnerable Uygulama Yazıp, Auxiliary Modülü Geliştirmeye Giriş
      * [https://www.twitch.tv/videos/586761795](https://www.twitch.tv/videos/586761795) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x02_Aux_Modulu_Giris/)
+     * [https://www.youtube.com/watch?v=STaFfB9SEtQ](https://www.youtube.com/watch?v=STaFfB9SEtQ)
   3. 0x03 | Bütünüyle Bir Auxiliary Modülü Geliştirme
      * [https://www.twitch.tv/videos/589457635](https://www.twitch.tv/videos/589457635) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x03_Aux_Modulu_Cred_Store/)
+     * [https://www.youtube.com/watch?v=Llw3C-49yGI](https://www.youtube.com/watch?v=Llw3C-49yGI)
   4. 0x04 | Exploit Modülü Geliştirmeye Giriş
      * [https://www.twitch.tv/videos/593008248](https://www.twitch.tv/videos/593008248) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x04_Exploit_Modulu_VestaCP/)
+     * [https://www.youtube.com/watch?v=azKgRvD5FM0](https://www.youtube.com/watch?v=azKgRvD5FM0)
   5. 0x05 | Shellcode Nedir? MSF Payload Üretim Mimarisine Giriş \w @egeblc
      * [https://www.twitch.tv/videos/604445231](https://www.twitch.tv/videos/604445231)
+     * [https://www.youtube.com/watch?v=cy_1LTDjOcs](https://www.youtube.com/watch?v=cy_1LTDjOcs)
 
 </details>
 
@@ -26,6 +31,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | 0day Vulnerability Research Dünyasına Giriş
      * [https://www.twitch.tv/videos/591402933](https://www.twitch.tv/videos/591402933)
+     * [https://www.youtube.com/watch?v=S1GKkBGkf6Q](https://www.youtube.com/watch?v=S1GKkBGkf6Q)
 
 </details>
 
@@ -34,22 +40,30 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | SQL Injection'ı Bütünüyle Anlamak
      * [https://www.twitch.tv/videos/595111162](https://www.twitch.tv/videos/595111162)
+     * [https://www.youtube.com/watch?v=WtHnT73NaaQ](https://www.youtube.com/watch?v=WtHnT73NaaQ)
   2. 0x02 | IDOR Insecure Direct Object Reference Zafiyetleri Hakkında Her şey
      * [https://www.twitch.tv/videos/597782271](https://www.twitch.tv/videos/597782271)
+     * [https://www.youtube.com/watch?v=TsJ2XPuGe1k](https://www.youtube.com/watch?v=TsJ2XPuGe1k)
   3. 0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti
      * [https://www.twitch.tv/videos/601669993](https://www.twitch.tv/videos/601669993)
+     * [https://www.youtube.com/watch?v=CKHai0OW6BY](https://www.youtube.com/watch?v=CKHai0OW6BY)
   4. 0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır?
      * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454) - [**Yayın özeti belge**](docs/Web_Security_101/0x04_Bir_Hackerin_Gozunden_Web/README.md)
+     * [https://www.youtube.com/watch?v=3AgDSw0I89A](https://www.youtube.com/watch?v=3AgDSw0I89A)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
      * [https://www.twitch.tv/videos/620066004](https://www.twitch.tv/videos/620066004)
   6. 0x06 | Siber Güvenlik Üzerine Goygoy ve Web Security Academy 2nd Edition
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
+     * [https://www.youtube.com/watch?v=IfYyFMydLV4](https://www.youtube.com/watch?v=IfYyFMydLV4)
   7. 0x07 | XML external entity (XXE) Injection
      * [https://www.twitch.tv/videos/625002543](https://www.twitch.tv/videos/625002543)
+     * [https://www.youtube.com/watch?v=-BPnSQou8yw](https://www.youtube.com/watch?v=-BPnSQou8yw)
   8. 0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1
      * [https://www.twitch.tv/videos/631760884](https://www.twitch.tv/videos/631760884)
+     * [https://www.youtube.com/watch?v=NFD3vZ-lIgI](https://www.youtube.com/watch?v=NFD3vZ-lIgI)
   9. 0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2
      * [https://www.twitch.tv/videos/633696324](https://www.twitch.tv/videos/633696324)
+     * [https://www.youtube.com/watch?v=xXbDhyKo9B8](https://www.youtube.com/watch?v=xXbDhyKo9B8)
   10. 0x0A | Web Security Academy'den Devam Ediyoruz
       * [https://www.twitch.tv/videos/647062163](https://www.twitch.tv/videos/647062163)
   11. 0x0B | Web Security Academy'de XSS Çözmeye Devam
