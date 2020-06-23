@@ -74,6 +74,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/645094492](https://www.twitch.tv/videos/645094492)
   3. 0x03 | VLAN, ICMP ve MITM Saldırıları /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/651833521](https://www.twitch.tv/videos/651833521)
+  4. 0x04 | Yetkilerini Aş /w Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/658410127](https://www.twitch.tv/videos/658410127)
 
 </details>
 
