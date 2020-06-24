@@ -18,6 +18,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/593008248](https://www.twitch.tv/videos/593008248) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x04_Exploit_Modulu_VestaCP/)
   5. 0x05 | Shellcode Nedir? MSF Payload Üretim Mimarisine Giriş \w @egeblc
      * [https://www.twitch.tv/videos/604445231](https://www.twitch.tv/videos/604445231)
+  6. 0x06 | Meterpreter nedir ve nasıl çalışır? \w @egeblc
+     * [https://www.twitch.tv/videos/660338600](https://www.twitch.tv/videos/660338600)
 
 </details>
 
