@@ -56,6 +56,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/647062163](https://www.twitch.tv/videos/647062163)
   11. 0x0B | Web Security Academy'de XSS Çözmeye Devam
       * [https://www.twitch.tv/videos/653702937](https://www.twitch.tv/videos/653702937)
+  12. 0x0C | Deserialization Zafiyetlerini Anlamak
+      * [https://www.twitch.tv/videos/667200179](https://www.twitch.tv/videos/667200179) - Episode 1
+      * [https://www.twitch.tv/videos/667200155](https://www.twitch.tv/videos/667200155) - Episode 2
 
 </details>
 
