@@ -59,6 +59,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   12. 0x0C | Deserialization Zafiyetlerini Anlamak
       * [https://www.twitch.tv/videos/667200179](https://www.twitch.tv/videos/667200179) - Episode 1
       * [https://www.twitch.tv/videos/667200155](https://www.twitch.tv/videos/667200155) - Episode 2
+  13. 0x0D | Deserialization Exploitation
+      * [https://www.twitch.tv/videos/670847022](https://www.twitch.tv/videos/670847022)
 
 </details>
 
