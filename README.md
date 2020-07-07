@@ -85,6 +85,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/658410127](https://www.twitch.tv/videos/658410127)
   5. 0x05 | Windows ve Etki Alanı Dünyasına Giriş /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/665179900](https://www.twitch.tv/videos/665179900)
+  6. 0x06 | Kerberos Nedir Ne Değildir? /w Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/671842462](https://www.twitch.tv/videos/671842462)
 
 </details>
 
