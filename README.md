@@ -67,8 +67,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 <details>
   <summary>Mobil Malware</summary>
 
-  1. 0x01 | BTC Stealer Zararlısı ile Mobil Malware Dünyasına Giriş /w @0xabc0
+  1. 0x01 | BTC Stealer Zararlısı ile Mobil Malware Dünyasına Giriş /w Ahmet Bilal Can @0xabc0
      * [https://www.twitch.tv/videos/611273156](https://www.twitch.tv/videos/611273156)
+  2. 0x02 | Mobil Zararlı Analizi Araç Gereçleri /w Ahmet Bilal Can @0xabc0
+     * [https://www.twitch.tv/videos/673801071](https://www.twitch.tv/videos/673801071)
 
 </details>
 
