@@ -54,6 +54,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=3AgDSw0I89A](https://www.youtube.com/watch?v=3AgDSw0I89A)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
      * [https://www.twitch.tv/videos/620066004](https://www.twitch.tv/videos/620066004)
+     * [https://www.youtube.com/watch?v=iYPqOWJR1nY](https://www.youtube.com/watch?v=iYPqOWJR1nY)
   6. 0x06 | Siber Güvenlik Üzerine Goygoy ve Web Security Academy 2nd Edition
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
      * [https://www.youtube.com/watch?v=IfYyFMydLV4](https://www.youtube.com/watch?v=IfYyFMydLV4)
@@ -68,8 +69,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=xXbDhyKo9B8](https://www.youtube.com/watch?v=xXbDhyKo9B8)
   10. 0x0A | Web Security Academy'den Devam Ediyoruz
       * [https://www.twitch.tv/videos/647062163](https://www.twitch.tv/videos/647062163)
+      * [https://www.youtube.com/watch?v=ebLgQiG7ACw](https://www.youtube.com/watch?v=ebLgQiG7ACw)
   11. 0x0B | Web Security Academy'de XSS Çözmeye Devam
       * [https://www.twitch.tv/videos/653702937](https://www.twitch.tv/videos/653702937)
+      * [https://www.youtube.com/watch?v=Cy9qGc_A_Ic](https://www.youtube.com/watch?v=Cy9qGc_A_Ic)
   12. 0x0C | Deserialization Zafiyetlerini Anlamak
       * [https://www.twitch.tv/videos/667200179](https://www.twitch.tv/videos/667200179) - Episode 1
       * [https://www.twitch.tv/videos/667200155](https://www.twitch.tv/videos/667200155) - Episode 2
@@ -93,10 +96,13 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | Karanlığı Aydınlat /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/638434083](https://www.twitch.tv/videos/638434083)
+     * [https://www.youtube.com/watch?v=FRRk9swhkTo](https://www.youtube.com/watch?v=FRRk9swhkTo)
   2. 0x02 | Ağ Protokollerine Fısılda /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/645094492](https://www.twitch.tv/videos/645094492)
+     * [https://www.youtube.com/watch?v=bagwT2KO-gY](https://www.youtube.com/watch?v=bagwT2KO-gY)
   3. 0x03 | VLAN, ICMP ve MITM Saldırıları /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/651833521](https://www.twitch.tv/videos/651833521)
+     * [https://www.youtube.com/watch?v=jtVYkmNYDgU](https://www.youtube.com/watch?v=jtVYkmNYDgU)
   4. 0x04 | Yetkilerini Aş /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/658410127](https://www.twitch.tv/videos/658410127)
   5. 0x05 | Windows ve Etki Alanı Dünyasına Giriş /w Barkın Kılıç @Barknkilic
