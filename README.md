@@ -137,21 +137,30 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. [EN] Opening & Keynote by Chloé Messdaghi @ChloeMessdaghi
      * [https://www.twitch.tv/videos/630401704](https://www.twitch.tv/videos/630401704)
+     * [https://www.youtube.com/watch?v=MZGuYMxyhQ8](https://www.youtube.com/watch?v=MZGuYMxyhQ8)
   2. [TR] Bir Red Team Serüveni by Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/630401702](https://www.twitch.tv/videos/630401702)
+     * [https://www.youtube.com/watch?v=765F9C5YlKU](https://www.youtube.com/watch?v=765F9C5YlKU)
   3. [EN] Deep Dive into Binary Genetics: Detecting code re-use by CFG analysis by Usama Saqib
      * [https://www.twitch.tv/videos/630401703](https://www.twitch.tv/videos/630401703)
+     * [https://www.youtube.com/watch?v=C3fB4X1Vezg](https://www.youtube.com/watch?v=C3fB4X1Vezg)
   4. [TR] Hacking Android Games For Fun & Profit by Ahmet Bilal Can @0xabc0
      * [https://www.twitch.tv/videos/630425611](https://www.twitch.tv/videos/630425611)
+     * [https://www.youtube.com/watch?v=ixRcso3W5EA](https://www.youtube.com/watch?v=ixRcso3W5EA)
   5. [TR] JUST CHATTING' WITH SPONSORS
      * [https://www.twitch.tv/videos/630425609](https://www.twitch.tv/videos/630425609)
+     * [https://www.youtube.com/watch?v=vw4cLiwPTMg](https://www.youtube.com/watch?v=vw4cLiwPTMg)
   6. [TR] Halka Açık Ekran Görüntülerinde "Image Processing" ile Hassas Veri Arama ("ShotLooter") by Utku Şen @utkusen
      * [https://www.twitch.tv/videos/630425607](https://www.twitch.tv/videos/630425607)
+     * [https://www.youtube.com/watch?v=KtECdl_mPvY](https://www.youtube.com/watch?v=KtECdl_mPvY)
   7. [EN] Windows Firewall is Enabled By Default: Exploiting Microsoft Protocols by Hossam Mohamed @_wazehell
      * [https://www.twitch.tv/videos/630425608](https://www.twitch.tv/videos/630425608)
+     * [https://www.youtube.com/watch?v=u07WM3lEceA](https://www.youtube.com/watch?v=u07WM3lEceA)
   8. [TR] Siber Puzzle Tehdit Avı: Bir APT Saldırısının Analizi by Alparslan Akyıldız
      * [https://www.twitch.tv/videos/630425612](https://www.twitch.tv/videos/630425612)
+     * [https://www.youtube.com/watch?v=2D3f8f0Y9lg](https://www.youtube.com/watch?v=2D3f8f0Y9lg)
   9. [TR] Kapanış with Perfect Trio Can Yıldızlı & Koryak Uzan ve MDISEC
      * [https://www.twitch.tv/videos/630425610](https://www.twitch.tv/videos/630425610)
+     * [https://www.youtube.com/watch?v=EybV9yjISUg](https://www.youtube.com/watch?v=EybV9yjISUg)
      
 </details>
