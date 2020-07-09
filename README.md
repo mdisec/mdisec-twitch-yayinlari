@@ -23,6 +23,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   5. 0x05 | Shellcode Nedir? MSF Payload Üretim Mimarisine Giriş \w @egeblc
      * [https://www.twitch.tv/videos/604445231](https://www.twitch.tv/videos/604445231)
      * [https://www.youtube.com/watch?v=cy_1LTDjOcs](https://www.youtube.com/watch?v=cy_1LTDjOcs)
+  6. 0x06 | Meterpreter nedir ve nasıl çalışır? \w @egeblc
+     * [https://www.twitch.tv/videos/660338600](https://www.twitch.tv/videos/660338600)
 
 </details>
 
@@ -68,14 +70,21 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/647062163](https://www.twitch.tv/videos/647062163)
   11. 0x0B | Web Security Academy'de XSS Çözmeye Devam
       * [https://www.twitch.tv/videos/653702937](https://www.twitch.tv/videos/653702937)
+  12. 0x0C | Deserialization Zafiyetlerini Anlamak
+      * [https://www.twitch.tv/videos/667200179](https://www.twitch.tv/videos/667200179) - Episode 1
+      * [https://www.twitch.tv/videos/667200155](https://www.twitch.tv/videos/667200155) - Episode 2
+  13. 0x0D | Deserialization Exploitation
+      * [https://www.twitch.tv/videos/670847022](https://www.twitch.tv/videos/670847022)
 
 </details>
 
 <details>
   <summary>Mobil Malware</summary>
 
-  1. 0x01 | BTC Stealer Zararlısı ile Mobil Malware Dünyasına Giriş /w @0xabc0
+  1. 0x01 | BTC Stealer Zararlısı ile Mobil Malware Dünyasına Giriş /w Ahmet Bilal Can @0xabc0
      * [https://www.twitch.tv/videos/611273156](https://www.twitch.tv/videos/611273156)
+  2. 0x02 | Mobil Zararlı Analizi Araç Gereçleri /w Ahmet Bilal Can @0xabc0
+     * [https://www.twitch.tv/videos/673801071](https://www.twitch.tv/videos/673801071)
 
 </details>
 
@@ -88,6 +97,12 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/645094492](https://www.twitch.tv/videos/645094492)
   3. 0x03 | VLAN, ICMP ve MITM Saldırıları /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/651833521](https://www.twitch.tv/videos/651833521)
+  4. 0x04 | Yetkilerini Aş /w Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/658410127](https://www.twitch.tv/videos/658410127)
+  5. 0x05 | Windows ve Etki Alanı Dünyasına Giriş /w Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/665179900](https://www.twitch.tv/videos/665179900)
+  6. 0x06 | Kerberos Nedir Ne Değildir? /w Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/671842462](https://www.twitch.tv/videos/671842462)
 
 </details>
 
