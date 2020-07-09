@@ -117,6 +117,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | HackerOne Yayını! Hacking ve BugBounty Hakkında Her Şey /w @utkusen & @umr4n6
      * [https://www.twitch.tv/videos/606367716](https://www.twitch.tv/videos/606367716)
+     * [https://www.youtube.com/watch?v=GMi87PFsgd4](https://www.youtube.com/watch?v=GMi87PFsgd4)
   2. 0x02 | Kanlı-Canlı Blue Team'in Hayatı (splunk + sysmon + zeek + suricata) /w @caliskanfurkan_
      * [https://www.twitch.tv/videos/613223050](https://www.twitch.tv/videos/613223050)
   3. 0x03 | Pazar goygoy'u & Web Security Academy lab'ına kafa üstü dalış
