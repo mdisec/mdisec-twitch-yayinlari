@@ -109,7 +109,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/665179900](https://www.twitch.tv/videos/665179900)
   6. 0x06 | Kerberos Nedir Ne Değildir? /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/671842462](https://www.twitch.tv/videos/671842462)
-
+  7. 0x07 | Kerberos ve AD Atakları /w Barkın Kılıç @Barknkilic
+     * [https://www.twitch.tv/videos/685522897](https://www.twitch.tv/videos/685522897)
 </details>
 
 <details>
