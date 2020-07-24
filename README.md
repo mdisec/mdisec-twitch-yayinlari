@@ -111,6 +111,15 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/671842462](https://www.twitch.tv/videos/671842462)
   7. 0x07 | Kerberos ve AD Atakları /w Barkın Kılıç @Barknkilic
      * [https://www.twitch.tv/videos/685522897](https://www.twitch.tv/videos/685522897)
+
+</details>
+
+<details>
+  <summary>OSCE Hazırlık</summary>
+
+  1. 0x01 | Plan ve program
+     * [https://www.twitch.tv/videos/687589134](https://www.twitch.tv/videos/687589134)
+
 </details>
 
 <details>
