@@ -119,6 +119,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | Plan ve program
      * [https://www.twitch.tv/videos/687589134](https://www.twitch.tv/videos/687589134)
+  2. 0x02 | Practical Reverse Engineering Okumaya Devam
+     * [https://www.twitch.tv/videos/692465518](https://www.twitch.tv/videos/692465518)
 
 </details>
 
