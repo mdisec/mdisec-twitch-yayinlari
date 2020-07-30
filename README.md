@@ -127,6 +127,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/692465518](https://www.twitch.tv/videos/692465518)
   3. 0x03 | Practical Reverse Engineering Devam Part 2
      * [https://www.twitch.tv/videos/695051786](https://www.twitch.tv/videos/695051786)
+  4. 0x04 | Practical Reverse Engineering Devam Part 3
+     * [https://www.twitch.tv/videos/695487222](https://www.twitch.tv/videos/695487222)
 
 </details>
 
