@@ -25,6 +25,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=cy_1LTDjOcs](https://www.youtube.com/watch?v=cy_1LTDjOcs)
   6. 0x06 | Meterpreter nedir ve nasıl çalışır? \w @egeblc
      * [https://www.twitch.tv/videos/660338600](https://www.twitch.tv/videos/660338600)
+     * [https://www.youtube.com/watch?v=XbfDIaHdy3s](https://www.youtube.com/watch?v=XbfDIaHdy3s)
 
 </details>
 
@@ -76,8 +77,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   12. 0x0C | Deserialization Zafiyetlerini Anlamak
       * [https://www.twitch.tv/videos/667200179](https://www.twitch.tv/videos/667200179) - Episode 1
       * [https://www.twitch.tv/videos/667200155](https://www.twitch.tv/videos/667200155) - Episode 2
+      * [https://www.youtube.com/watch?v=0Oj8FVDcpwU](https://www.youtube.com/watch?v=0Oj8FVDcpwU0) - Episode 1
+      * [https://www.youtube.com/watch?v=wvNGCBDbENY](https://www.youtube.com/watch?v=wvNGCBDbENY) - Episode 2
   13. 0x0D | Deserialization Exploitation
       * [https://www.twitch.tv/videos/670847022](https://www.twitch.tv/videos/670847022)
+      * [https://www.youtube.com/watch?v=kk43YwA6OFI](https://www.youtube.com/watch?v=kk43YwA6OFI)
 
 </details>
 
@@ -129,6 +133,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | Çocuk istismari & pedomap.live projesi
      * [https://www.twitch.tv/videos/689566189](https://www.twitch.tv/videos/689566189)
+     * [https://www.youtube.com/watch?v=47bDJOaxHY0](https://www.youtube.com/watch?v=47bDJOaxHY0)
 
 </details>
 
