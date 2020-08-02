@@ -121,6 +121,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 <details>
   <summary>OSCE Hazırlık</summary>
 
+  OSCE Hazırlık materyallerinin listelendiği repo: [osce-preparation](https://github.com/mdisec/osce-preparation).
+
   1. 0x01 | Plan ve program
      * [https://www.twitch.tv/videos/687589134](https://www.twitch.tv/videos/687589134)
   2. 0x02 | Practical Reverse Engineering Okumaya Devam
@@ -129,6 +131,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/695051786](https://www.twitch.tv/videos/695051786)
   4. 0x04 | Practical Reverse Engineering Devam Part 3
      * [https://www.twitch.tv/videos/695487222](https://www.twitch.tv/videos/695487222)
+  5. 0x05 | Corelan.be Overflow 0x01
+     * [https://www.twitch.tv/videos/698151945](https://www.twitch.tv/videos/698151945)
 
 </details>
 
