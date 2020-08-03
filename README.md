@@ -133,6 +133,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/695487222](https://www.twitch.tv/videos/695487222)
   5. 0x05 | Corelan.be Overflow 0x01
      * [https://www.twitch.tv/videos/698151945](https://www.twitch.tv/videos/698151945)
+  6. 0x06 | Corelan.be Overflow 0x02
+     * [https://www.twitch.tv/videos/699337296](https://www.twitch.tv/videos/699337296)
 
 </details>
 
