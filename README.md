@@ -137,6 +137,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/699337296](https://www.twitch.tv/videos/699337296)
   7. 0x07 | Corelan.be Overflow 0x03
      * [https://www.twitch.tv/videos/700208675](https://www.twitch.tv/videos/700208675)
+  8. 0x08 | Life of Portable Executable (PE) \w Ege Balcı
+     * [https://www.twitch.tv/videos/701386652](https://www.twitch.tv/videos/701386652)
 
 </details>
 
