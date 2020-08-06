@@ -139,6 +139,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/700208675](https://www.twitch.tv/videos/700208675)
   8. 0x08 | Life of Portable Executable (PE) \w Ege Balcı
      * [https://www.twitch.tv/videos/701386652](https://www.twitch.tv/videos/701386652)
+  9. 0x09 | Corelan.be Overflow 0x04 SEH Exploitation
+     * [https://www.twitch.tv/videos/702391815](https://www.twitch.tv/videos/702391815)
 
 </details>
 
