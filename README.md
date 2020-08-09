@@ -141,6 +141,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/701386652](https://www.twitch.tv/videos/701386652)
   9. 0x09 | Corelan.be Overflow 0x04 SEH Exploitation
      * [https://www.twitch.tv/videos/702391815](https://www.twitch.tv/videos/702391815)
+  10. 0x0A | Corelan.be Overflow 0x05 SEH and Moaar!
+      * [https://www.twitch.tv/videos/705249480](https://www.twitch.tv/videos/705249480) - Part 1
+      * [https://www.twitch.tv/videos/705249666](https://www.twitch.tv/videos/705249666) - Part 2
 
 </details>
 
