@@ -119,7 +119,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
-  <summary>OSCE Hazırlık</summary>
+  <summary>Binary Exploitation</summary>
 
   OSCE Hazırlık materyallerinin listelendiği repo: [osce-preparation](https://github.com/mdisec/osce-preparation).
 
@@ -144,6 +144,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   10. 0x0A | Corelan.be Overflow 0x05 SEH and Moaar!
       * [https://www.twitch.tv/videos/705249480](https://www.twitch.tv/videos/705249480) - Part 1
       * [https://www.twitch.tv/videos/705249666](https://www.twitch.tv/videos/705249666) - Part 2
+  11. 0x0B | Corelan.be Overflow 0x06 SafeSEH Bypass
+      * [https://www.twitch.tv/videos/706253983](https://www.twitch.tv/videos/706253983)
 
 </details>
 
