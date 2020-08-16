@@ -148,6 +148,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/706253983](https://www.twitch.tv/videos/706253983)
   12. 0x0C | Corelan.be Overflow 0x06 DEP Data Execution Prevention
       * [https://www.twitch.tv/videos/707115991](https://www.twitch.tv/videos/707115991)
+  13. 0x0D | Corelan.be Overflow 0x06 DEP Bypass and ROP
+      * [https://www.twitch.tv/videos/712079900](https://www.twitch.tv/videos/712079900)
 
 </details>
 
