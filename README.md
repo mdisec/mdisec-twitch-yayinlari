@@ -153,7 +153,6 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/705249480](https://www.twitch.tv/videos/705249480) - Part 1
       * [https://www.twitch.tv/videos/705249666](https://www.twitch.tv/videos/705249666) - Part 2
       * [https://www.youtube.com/watch?v=ZCNv0hwd58c](https://www.youtube.com/watch?v=ZCNv0hwd58c) - Part 1
-      * []() - Part 2
   11. 0x0B | Corelan.be Overflow 0x06 SafeSEH Bypass
       * [https://www.twitch.tv/videos/706253983](https://www.twitch.tv/videos/706253983)
       * [https://www.youtube.com/watch?v=qwpFOrNmsSk](https://www.youtube.com/watch?v=qwpFOrNmsSk)
