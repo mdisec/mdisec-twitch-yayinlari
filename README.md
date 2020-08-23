@@ -127,31 +127,44 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/687589134](https://www.twitch.tv/videos/687589134)
   2. 0x02 | Practical Reverse Engineering Okumaya Devam
      * [https://www.twitch.tv/videos/692465518](https://www.twitch.tv/videos/692465518)
+     * [https://www.youtube.com/watch?v=wbOuHloRkgk](https://www.youtube.com/watch?v=wbOuHloRkgk)
   3. 0x03 | Practical Reverse Engineering Devam Part 2
      * [https://www.twitch.tv/videos/695051786](https://www.twitch.tv/videos/695051786)
+     * [https://www.youtube.com/watch?v=wRFneWtzmRk](https://www.youtube.com/watch?v=wRFneWtzmRk)
   4. 0x04 | Practical Reverse Engineering Devam Part 3
      * [https://www.twitch.tv/videos/695487222](https://www.twitch.tv/videos/695487222)
+     * [https://www.youtube.com/watch?v=281WfO9Zg9w](https://www.youtube.com/watch?v=281WfO9Zg9w)
   5. 0x05 | Corelan.be Overflow 0x01
      * [https://www.twitch.tv/videos/698151945](https://www.twitch.tv/videos/698151945)
+     * [https://www.youtube.com/watch?v=yAKUehUvNFs](https://www.youtube.com/watch?v=yAKUehUvNFs)
   6. 0x06 | Corelan.be Overflow 0x02
      * [https://www.twitch.tv/videos/699337296](https://www.twitch.tv/videos/699337296)
+     * [https://www.youtube.com/watch?v=lmvq_8q8SyU](https://www.youtube.com/watch?v=lmvq_8q8SyU)
   7. 0x07 | Corelan.be Overflow 0x03
      * [https://www.twitch.tv/videos/700208675](https://www.twitch.tv/videos/700208675)
+     * [https://www.youtube.com/watch?v=An2Q-kryt8s](https://www.youtube.com/watch?v=An2Q-kryt8s)
   8. 0x08 | Life of Portable Executable (PE) \w Ege Balcı
      * [https://www.twitch.tv/videos/701386652](https://www.twitch.tv/videos/701386652)
+     * [https://www.youtube.com/watch?v=4pvJwtQVdg4](https://www.youtube.com/watch?v=4pvJwtQVdg4)
   9. 0x09 | Corelan.be Overflow 0x04 SEH Exploitation
      * [https://www.twitch.tv/videos/702391815](https://www.twitch.tv/videos/702391815)
+     * [https://www.youtube.com/watch?v=D_deeN4Ksw8](https://www.youtube.com/watch?v=D_deeN4Ksw8)
   10. 0x0A | Corelan.be Overflow 0x05 SEH and Moaar!
       * [https://www.twitch.tv/videos/705249480](https://www.twitch.tv/videos/705249480) - Part 1
       * [https://www.twitch.tv/videos/705249666](https://www.twitch.tv/videos/705249666) - Part 2
+      * [https://www.youtube.com/watch?v=ZCNv0hwd58c](https://www.youtube.com/watch?v=ZCNv0hwd58c) - Part 1
+      * [https://www.youtube.com/watch?v=p9zXv32pNlc](https://www.youtube.com/watch?v=p9zXv32pNlc) - Part 2
   11. 0x0B | Corelan.be Overflow 0x06 SafeSEH Bypass
       * [https://www.twitch.tv/videos/706253983](https://www.twitch.tv/videos/706253983)
+      * [https://www.youtube.com/watch?v=qwpFOrNmsSk](https://www.youtube.com/watch?v=qwpFOrNmsSk)
   12. 0x0C | Corelan.be Overflow 0x06 DEP Data Execution Prevention
       * [https://www.twitch.tv/videos/707115991](https://www.twitch.tv/videos/707115991)
+      * [https://www.youtube.com/watch?v=zn3vyZ-JPkY](https://www.youtube.com/watch?v=zn3vyZ-JPkY)
   13. 0x0D | Corelan.be Overflow 0x06 DEP Bypass and ROP
       * [https://www.twitch.tv/videos/712079900](https://www.twitch.tv/videos/712079900)
   14. 0x0E | Corelan.be Overflow 0x10 Final
       * [https://www.twitch.tv/videos/713292141](https://www.twitch.tv/videos/713292141)
+      * [https://www.youtube.com/watch?v=dh2sw2eQ34w](https://www.youtube.com/watch?v=dh2sw2eQ34w)
   15. 0x0F | Moaaar! Exploitation & ASLR
       * [https://www.twitch.tv/videos/715862488](https://www.twitch.tv/videos/715862488)
 
