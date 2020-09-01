@@ -82,7 +82,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   13. 0x0D | Deserialization Exploitation
       * [https://www.twitch.tv/videos/670847022](https://www.twitch.tv/videos/670847022)
       * [https://www.youtube.com/watch?v=kk43YwA6OFI](https://www.youtube.com/watch?v=kk43YwA6OFI)
-
+  14. 0x0E | SSL Temelde Nedir ? HSTS
+      * [https://www.twitch.tv/videos/727300811](https://www.twitch.tv/videos/727300811)
 </details>
 
 <details>
@@ -176,7 +177,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   1. 0x01 | Çocuk istismari & pedomap.live projesi
      * [https://www.twitch.tv/videos/689566189](https://www.twitch.tv/videos/689566189)
      * [https://www.youtube.com/watch?v=47bDJOaxHY0](https://www.youtube.com/watch?v=47bDJOaxHY0)
-
+  1. 0x02 | Kör Nokta S1E2 | Sahte Siteler
+     * [https://www.twitch.tv/videos/708117886](https://www.twitch.tv/videos/708117886)
+     
 </details>
 
 <details>
@@ -197,7 +200,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/640273582](https://www.twitch.tv/videos/640273582)
   7. 0x07 | Siber güvenlik soru-cevap ve yeni streaming pc denemeleri
      * [https://www.twitch.tv/videos/645094322](https://www.twitch.tv/videos/645094322)
-
+  8. 0x08 |  Özel Konuk | Seren Porsuk (@_statex) 
+     * [https://www.twitch.tv/videos/723194260](https://www.twitch.tv/videos/723194260)
 </details>
 
 <details>
