@@ -168,6 +168,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=dh2sw2eQ34w](https://www.youtube.com/watch?v=dh2sw2eQ34w)
   15. 0x0F | Moaaar! Exploitation & ASLR
       * [https://www.twitch.tv/videos/715862488](https://www.twitch.tv/videos/715862488)
+  16. 0x10 | Windows Shellcoding - 1
+      * [https://www.twitch.tv/videos/729317036](https://www.twitch.tv/videos/729317036)
 
 </details>
 
