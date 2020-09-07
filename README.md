@@ -84,6 +84,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=kk43YwA6OFI](https://www.youtube.com/watch?v=kk43YwA6OFI)
   14. 0x0E | SSL Temelde Nedir ? HSTS
       * [https://www.twitch.tv/videos/727300811](https://www.twitch.tv/videos/727300811)
+  15. 0x0F | OS Command Injection
+      * [https://www.twitch.tv/videos/734409889](https://www.twitch.tv/videos/734409889)
+
 </details>
 
 <details>
