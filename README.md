@@ -86,6 +86,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/727300811](https://www.twitch.tv/videos/727300811)
   15. 0x0F | OS Command Injection
       * [https://www.twitch.tv/videos/734409889](https://www.twitch.tv/videos/734409889)
+  16. 0x10 | Information Disclosure
+      * [https://www.twitch.tv/videos/736775441](https://www.twitch.tv/videos/736775441)
 
 </details>
 
