@@ -88,6 +88,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/734409889](https://www.twitch.tv/videos/734409889)
   16. 0x10 | Information Disclosure
       * [https://www.twitch.tv/videos/736775441](https://www.twitch.tv/videos/736775441)
+  17. 0x11 | Authentication
+      * [https://www.twitch.tv/videos/743634792](https://www.twitch.tv/videos/743634792)
 
 </details>
 
