@@ -90,6 +90,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/736775441](https://www.twitch.tv/videos/736775441)
   17. 0x11 | Authentication
       * [https://www.twitch.tv/videos/743634792](https://www.twitch.tv/videos/743634792)
+  18. 0x12 | CS253 Sınavına Giriyor MDISEC
+      * [https://www.twitch.tv/videos/748045222](https://www.twitch.tv/videos/748045222)
 
 </details>
 
