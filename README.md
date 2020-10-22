@@ -39,7 +39,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
-  <summary>Web Security 101</summary>
+  <summary>Web Security</summary>
 
   1. 0x01 | SQL Injection'ı Bütünüyle Anlamak
      * [https://www.twitch.tv/videos/595111162](https://www.twitch.tv/videos/595111162)
@@ -94,6 +94,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/748045222](https://www.twitch.tv/videos/748045222)
   19. 0x13 | Host Header Manipulations
       * [https://www.twitch.tv/videos/761496821](https://www.twitch.tv/videos/761496821)
+  20. 0x14 | Back back back tick ^^
+      * [https://www.twitch.tv/videos/775545752](https://www.twitch.tv/videos/775545752)
 
 </details>
 
