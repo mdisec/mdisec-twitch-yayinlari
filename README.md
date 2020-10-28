@@ -183,6 +183,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/715862488](https://www.twitch.tv/videos/715862488)
   16. 0x10 | Windows Shellcoding - 1
       * [https://www.twitch.tv/videos/729317036](https://www.twitch.tv/videos/729317036)
+  17. Final | MDI OSCE Sınavı'na Girdi!
+      * [https://www.twitch.tv/videos/784830991](https://www.twitch.tv/videos/784830991)
 
 </details>
 
