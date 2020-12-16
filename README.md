@@ -102,6 +102,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/807479042](https://www.twitch.tv/videos/807479042)
   23. 0x17 | Server-Side Template Injection Giriş - 1
       * [https://www.twitch.tv/videos/815510114](https://www.twitch.tv/videos/815510114)
+  24. 0x18 | Directory Traversal ../../etc/passwd
+      * [https://www.twitch.tv/videos/839611874](https://www.twitch.tv/videos/839611874)
 
 </details>
 
