@@ -84,26 +84,35 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=kk43YwA6OFI](https://www.youtube.com/watch?v=kk43YwA6OFI)
   14. 0x0E | SSL Temelde Nedir ? HSTS
       * [https://www.twitch.tv/videos/727300811](https://www.twitch.tv/videos/727300811)
+      * [https://www.youtube.com/watch?v=XlgG-Aw2nos](https://www.youtube.com/watch?v=XlgG-Aw2nos)
   15. 0x0F | OS Command Injection
       * [https://www.twitch.tv/videos/734409889](https://www.twitch.tv/videos/734409889)
+      * [https://www.youtube.com/watch?v=X7pzc8zgL6I](https://www.youtube.com/watch?v=X7pzc8zgL6I)
   16. 0x10 | Information Disclosure
       * [https://www.twitch.tv/videos/736775441](https://www.twitch.tv/videos/736775441)
   17. 0x11 | Authentication
       * [https://www.twitch.tv/videos/743634792](https://www.twitch.tv/videos/743634792)
   18. 0x12 | CS253 Sınavına Giriyor MDISEC
       * [https://www.twitch.tv/videos/748045222](https://www.twitch.tv/videos/748045222)
+      * [https://www.youtube.com/watch?v=6QaJ59AMkDg](https://www.youtube.com/watch?v=6QaJ59AMkDg)
   19. 0x13 | Host Header Manipulations
       * [https://www.twitch.tv/videos/761496821](https://www.twitch.tv/videos/761496821)
+      * [https://www.youtube.com/watch?v=I6LZ6e5O-Ao](https://www.youtube.com/watch?v=I6LZ6e5O-Ao)
   20. 0x14 | Back back back tick ^^
       * [https://www.twitch.tv/videos/775545752](https://www.twitch.tv/videos/775545752)
+      * [https://www.youtube.com/watch?v=NDPUSV802xY](https://www.youtube.com/watch?v=NDPUSV802xY)
   21. 0x15 | Yeni Burp Suite 2020.11 ve SSRF Giriş
       * [https://www.twitch.tv/videos/797189256](https://www.twitch.tv/videos/797189256)
+      * [https://www.youtube.com/watch?v=5rbQaOepMls](https://www.youtube.com/watch?v=5rbQaOepMls)
   22. 0x16 | Server-Side Request Forgery Nedir?
       * [https://www.twitch.tv/videos/807479042](https://www.twitch.tv/videos/807479042)
+      * [https://www.youtube.com/watch?v=2ONduwyqYUA](https://www.youtube.com/watch?v=2ONduwyqYUA)
   23. 0x17 | Server-Side Template Injection Giriş - 1
       * [https://www.twitch.tv/videos/815510114](https://www.twitch.tv/videos/815510114)
+      * [https://www.youtube.com/watch?v=w-GbdWzss0g](https://www.youtube.com/watch?v=w-GbdWzss0g)
   24. 0x18 | Directory Traversal ../../etc/passwd
       * [https://www.twitch.tv/videos/839611874](https://www.twitch.tv/videos/839611874)
+      * [https://www.youtube.com/watch?v=wNMyiqixL1g](https://www.youtube.com/watch?v=wNMyiqixL1g)
   25. 0x19 | Source-Code Review SonarSource #CodeChallenge !
       * [https://www.twitch.tv/videos/848618417](https://www.twitch.tv/videos/848618417)
       * [https://www.youtube.com/watch?v=V_ogHUIF8E0](https://www.youtube.com/watch?v=V_ogHUIF8E0)
