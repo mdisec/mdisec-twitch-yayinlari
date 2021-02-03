@@ -132,7 +132,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
    2. 0x02 | CVE-2020-16875 RCE Microsoft Exchange Online Analizi
       * [https://www.twitch.tv/videos/883611601](https://www.twitch.tv/videos/883611601)
       * [https://www.youtube.com/watch?v=wG_9cgX-S3U](https://www.youtube.com/watch?v=wG_9cgX-S3U)
-   3. 0x03 Top 10 Web Hacking Techniques of 2020 Anketi Analizi
+   3. 0x03 | Top 10 Web Hacking Techniques of 2020 Anketi Analizi
       * [https://www.youtube.com/watch?v=X66Chpua0So](https://www.youtube.com/watch?v=X66Chpua0So)
    4. 0x04 | Gitlab Arbitrary File Read Zafiyetinin Analizi
       * [https://www.twitch.tv/videos/887619016](https://www.twitch.tv/videos/887619016)
