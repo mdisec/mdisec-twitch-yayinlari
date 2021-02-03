@@ -215,6 +215,16 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
+  <summary>Güvenli Kod Geliştirme</summary>
+
+  1. 0x01 | Recurity Labs Güvenli Kod Geliştirme Eğitimi
+     * [https://www.twitch.tv/videos/866317945](https://www.twitch.tv/videos/866317945)
+  2. 0x02 | Recurity Labs Güvenli Kod Geliştirme Eğitimi Day-2
+     * [https://www.twitch.tv/videos/872127865](https://www.twitch.tv/videos/872127865)
+
+</details>
+
+<details>
   <summary>Kör Nokta</summary>
 
   1. 0x01 | Çocuk istismari & pedomap.live projesi
