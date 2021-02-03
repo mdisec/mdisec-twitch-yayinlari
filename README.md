@@ -104,6 +104,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/815510114](https://www.twitch.tv/videos/815510114)
   24. 0x18 | Directory Traversal ../../etc/passwd
       * [https://www.twitch.tv/videos/839611874](https://www.twitch.tv/videos/839611874)
+  25. 0x19 | Source-Code Review SonarSource #CodeChallenge!
+      * [https://www.twitch.tv/videos/848692616](https://www.twitch.tv/videos/848692616)
+  26. 0x1A | OAuth Zafiyetleri
+      * [https://www.twitch.tv/videos/897160585](https://www.twitch.tv/videos/897160585)
 
 </details>
 
@@ -193,6 +197,20 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/729317036](https://www.twitch.tv/videos/729317036)
   17. Final | MDI OSCE Sınavı'na Girdi!
       * [https://www.twitch.tv/videos/784830991](https://www.twitch.tv/videos/784830991)
+
+</details>
+
+<details>
+  <summary>Makale Okuma</summary>
+
+  1. 0x01 | Apple'ın 50k Dolarlık Güvenlik Açığının Kanlı-Canlı Analizi
+     * [https://www.twitch.tv/videos/877340442](https://www.twitch.tv/videos/877340442)
+  2. 0x02 | CVE-2020-16875 RCE Microsoft Exchange Online Analizi
+     * [https://www.twitch.tv/videos/884081392](https://www.twitch.tv/videos/884081392)
+  3. 0x03 | USD Değerinde Gitlab Arbitrary File Read Güvenlik Zafiyeti Analizi
+     * [https://www.twitch.tv/videos/887709987](https://www.twitch.tv/videos/887709987)
+  4. 0x04 | USD değerinde 4 Zafiyetin Birleşimiyle Github RCE Analizi
+     * [https://www.twitch.tv/videos/890283025](https://www.twitch.tv/videos/890283025)
 
 </details>
 
