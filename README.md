@@ -116,32 +116,45 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   25. 0x19 | Source-Code Review SonarSource #CodeChallenge !
       * [https://www.twitch.tv/videos/848618417](https://www.twitch.tv/videos/848618417)
       * [https://www.youtube.com/watch?v=V_ogHUIF8E0](https://www.youtube.com/watch?v=V_ogHUIF8E0)
-  26. Recurity Labs Güvenli Kod Geliştirme Eğitimi - 1
-      * [https://www.twitch.tv/videos/866034531](https://www.twitch.tv/videos/866034531)
-      * [https://www.youtube.com/watch?v=sUHGPp8o5U4](https://www.youtube.com/watch?v=sUHGPp8o5U4)
-  27. Recurity Labs Güvenli Kod Geliştirme Eğitimi - 2
-      * [https://www.twitch.tv/videos/872127865](https://www.twitch.tv/videos/872127865)
-      * [https://www.youtube.com/watch?v=VRgLcQIqAyk](https://www.youtube.com/watch?v=VRgLcQIqAyk)
-  28. Makale Okuma 0x01 | Apple'da Bulunan RCE Zafiyetinin Analizi
-      * [https://www.twitch.tv/videos/877256473](https://www.twitch.tv/videos/877256473)
-      * [https://www.youtube.com/watch?v=NDiliDHYE_0](https://www.youtube.com/watch?v=NDiliDHYE_0)
-  29. Makale Okuma 0x02 | CVE-2020-16875 RCE Microsoft Exchange Online Analizi
-      * [https://www.twitch.tv/videos/883611601](https://www.twitch.tv/videos/883611601)
-      * [https://www.youtube.com/watch?v=wG_9cgX-S3U](https://www.youtube.com/watch?v=wG_9cgX-S3U)
-  30. PortSwigger Top 10 Web Hacking Techniques of 2020 Anketi Analizi
-      * [https://www.youtube.com/watch?v=X66Chpua0So](https://www.youtube.com/watch?v=X66Chpua0So)
-  31. Makale Okuma 0x03 | Gitlab Arbitrary File Read Zafiyetinin Analizi
-      * [https://www.twitch.tv/videos/887619016](https://www.twitch.tv/videos/887619016)
-      * [https://www.youtube.com/watch?v=kipB68q-ZnE](https://www.youtube.com/watch?v=kipB68q-ZnE)
-  32. Makale Okuma 0x04 | Github Zincirleme SSRF'ler ile RCE Zafiyetinin Analizi
-      * [https://www.twitch.tv/videos/890162930](https://www.twitch.tv/videos/890162930)
-      * [https://www.youtube.com/watch?v=WgCZ90m6m9M](https://www.youtube.com/watch?v=WgCZ90m6m9M)
-  33. 0x20 | OAuth Zafiyetleri
+  26. 0x1A | OAuth Zafiyetleri
       * [https://www.twitch.tv/videos/897024665](https://www.twitch.tv/videos/897024665)
       * [https://www.youtube.com/watch?v=R8K6e-oTmwo](https://www.youtube.com/watch?v=R8K6e-oTmwo)
 
 
 </details>
+
+<details>
+  <summary>Makale Okuma</summary>
+
+   1. 0x01 | Apple'da Bulunan RCE Zafiyetinin Analizi
+      * [https://www.twitch.tv/videos/877256473](https://www.twitch.tv/videos/877256473)
+      * [https://www.youtube.com/watch?v=NDiliDHYE_0](https://www.youtube.com/watch?v=NDiliDHYE_0)
+   2. 0x02 | CVE-2020-16875 RCE Microsoft Exchange Online Analizi
+      * [https://www.twitch.tv/videos/883611601](https://www.twitch.tv/videos/883611601)
+      * [https://www.youtube.com/watch?v=wG_9cgX-S3U](https://www.youtube.com/watch?v=wG_9cgX-S3U)
+   3. 0x03 | Top 10 Web Hacking Techniques of 2020 Anketi Analizi
+      * [https://www.youtube.com/watch?v=X66Chpua0So](https://www.youtube.com/watch?v=X66Chpua0So)
+   4. 0x04 | Gitlab Arbitrary File Read Zafiyetinin Analizi
+      * [https://www.twitch.tv/videos/887619016](https://www.twitch.tv/videos/887619016)
+      * [https://www.youtube.com/watch?v=kipB68q-ZnE](https://www.youtube.com/watch?v=kipB68q-ZnE)
+   5. 0x05 | Github Zincirleme SSRF'ler ile RCE Zafiyetinin Analizi
+      * [https://www.twitch.tv/videos/890162930](https://www.twitch.tv/videos/890162930)
+      * [https://www.youtube.com/watch?v=WgCZ90m6m9M](https://www.youtube.com/watch?v=WgCZ90m6m9M)
+
+</details>
+
+<details>
+  <summary>Güvenli Kod Geliştirme</summary>
+
+  1. 0x01 | Recurity Labs Güvenli Kod Geliştirme Eğitimi - 1
+      * [https://www.twitch.tv/videos/866034531](https://www.twitch.tv/videos/866034531)
+      * [https://www.youtube.com/watch?v=sUHGPp8o5U4](https://www.youtube.com/watch?v=sUHGPp8o5U4)
+  2. 0x02 | Recurity Labs Güvenli Kod Geliştirme Eğitimi - 2
+      * [https://www.twitch.tv/videos/872127865](https://www.twitch.tv/videos/872127865)
+      * [https://www.youtube.com/watch?v=VRgLcQIqAyk](https://www.youtube.com/watch?v=VRgLcQIqAyk)
+
+</details>
+
 
 <details>
   <summary>Mobil Malware</summary>
