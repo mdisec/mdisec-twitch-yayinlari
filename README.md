@@ -119,6 +119,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   26. 0x1A | OAuth Zafiyetleri
       * [https://www.twitch.tv/videos/897024665](https://www.twitch.tv/videos/897024665)
       * [https://www.youtube.com/watch?v=R8K6e-oTmwo](https://www.youtube.com/watch?v=R8K6e-oTmwo)
+  27. 0x1B | OAuth Zafiyetleri Reloaded
+      * [https://www.twitch.tv/videos/899537119](https://www.twitch.tv/videos/899537119)
+      * [https://www.youtube.com/watch?v=scs6PJ8qMuw](https://www.youtube.com/watch?v=scs6PJ8qMuw)
 
 
 </details>
