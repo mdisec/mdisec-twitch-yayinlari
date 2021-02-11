@@ -143,6 +143,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
    5. 0x05 | Github Zincirleme SSRF'ler ile RCE Zafiyetinin Analizi
       * [https://www.twitch.tv/videos/890162930](https://www.twitch.tv/videos/890162930)
       * [https://www.youtube.com/watch?v=WgCZ90m6m9M](https://www.youtube.com/watch?v=WgCZ90m6m9M)
+   6. 0x06 | pip,npm,gem install Riskleri... Typosquatting & Dependency Confusion Mevzusu
+      * [https://www.twitch.tv/videos/908678053](https://www.twitch.tv/videos/908678053)
+      * [https://www.youtube.com/watch?v=q5F3OUJu8c4](https://www.youtube.com/watch?v=q5F3OUJu8c4)
 
 </details>
 
@@ -279,6 +282,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/645094322](https://www.twitch.tv/videos/645094322)
   8. 0x08 |  Özel Konuk | Seren Porsuk (@_statex) 
      * [https://www.twitch.tv/videos/723194260](https://www.twitch.tv/videos/723194260)
+  9. 0x09 | Güvenlik Ürünlerinin Güvenliği ? since 2015
+     * [https://www.twitch.tv/videos/903697575](https://www.twitch.tv/videos/903697575)
+     * [https://www.youtube.com/watch?v=EpCcm1zgG-w](https://www.youtube.com/watch?v=EpCcm1zgG-w)
 </details>
 
 <details>
