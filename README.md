@@ -297,7 +297,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
-  <summary>HackerConf</summary>
+  <summary>HackerConf 2020</summary>
 
   1. [EN] Opening & Keynote by Chloé Messdaghi @ChloeMessdaghi
      * [https://www.twitch.tv/videos/630401704](https://www.twitch.tv/videos/630401704)
@@ -328,3 +328,39 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=EybV9yjISUg](https://www.youtube.com/watch?v=EybV9yjISUg)
      
 </details>
+
+
+
+<details>
+  <summary>HackerConf 2021</summary>
+
+  1. [TR] Saldırganı Yakalamak - Gökhan Yüceler
+     * [https://www.twitch.tv/videos/912324278](https://www.twitch.tv/videos/912324278)
+     * [https://www.youtube.com/watch?v=2Vo_f1KkhJY](https://www.youtube.com/watch?v=2Vo_f1KkhJY)
+  2. [EN] Just wait and I will tell you why Powershell is still great - Hassam Mohamed
+     * [https://www.twitch.tv/videos/912329566](https://www.twitch.tv/videos/912329566)
+     * [https://www.youtube.com/watch?v=ULwt0uNvoJo](https://www.youtube.com/watch?v=ULwt0uNvoJo)
+  3. [TR] Pandemi Döneminde Online Sınavlarda Nasıl AA Alınır ? - Batuhan & Meryem
+     * [https://www.twitch.tv/videos/912331853](https://www.twitch.tv/videos/912331853)
+     * [https://www.youtube.com/watch?v=VucqK2zcMu8](https://www.youtube.com/watch?v=VucqK2zcMu8)
+  4. [TR] Exploiting ArcSight Logger - Chingiz Safarli
+     * [https://www.twitch.tv/videos/912332820](https://www.twitch.tv/videos/912332820)
+     * [https://www.youtube.com/watch?v=-BOq8TvHDBw](https://www.youtube.com/watch?v=-BOq8TvHDBw)
+  5. [TR] JUST CHATTING' WITH SPONSORS
+     * [https://www.twitch.tv/videos/912334162](https://www.twitch.tv/videos/912334162)
+     * [https://www.youtube.com/watch?v=7ZkVUuooomw](https://www.youtube.com/watch?v=7ZkVUuooomw)
+  6. [TR] EgeBalcı - PTI Team: No Worries We Will Find You
+     * [https://www.twitch.tv/videos/912335555](https://www.twitch.tv/videos/912335555)
+     * [https://www.youtube.com/watch?v=Fxgzrcwljtg](https://www.youtube.com/watch?v=Fxgzrcwljtg)
+  7. [TR] Farklı Dillerde İstismar Etme: Komut Çalıştırma - Selim Enes Karaduman
+     * [https://www.twitch.tv/videos/912337972](https://www.twitch.tv/videos/912337972)
+     * [https://www.youtube.com/watch?v=KvRmC6LUeec](https://www.youtube.com/watch?v=KvRmC6LUeec)
+  8. [TR] 0TL ile İstanbul'u Gezmek ! - Ahmet Bilal Can @0xabc0
+     * [https://www.twitch.tv/videos/912339390](https://www.twitch.tv/videos/912339390)
+     * [https://www.youtube.com/watch?v=9UOmUMqN940](https://www.youtube.com/watch?v=9UOmUMqN940)
+  9. [EN] What is BlackArch ? @noptrix
+     * [https://www.twitch.tv/videos/912340483](https://www.twitch.tv/videos/912340483)
+     * [https://www.youtube.com/watch?v=SQa_FxqOx4U](https://www.youtube.com/watch?v=SQa_FxqOx4U)
+     
+</details>
+
