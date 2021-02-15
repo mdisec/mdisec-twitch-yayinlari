@@ -266,8 +266,12 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   1. 0x01 | Çocuk istismari & pedomap.live projesi
      * [https://www.twitch.tv/videos/689566189](https://www.twitch.tv/videos/689566189)
      * [https://www.youtube.com/watch?v=47bDJOaxHY0](https://www.youtube.com/watch?v=47bDJOaxHY0)
-  1. 0x02 | Kör Nokta S1E2 | Sahte Siteler
+  2. 0x02 | Kör Nokta S1E2 | Sahte Siteler
      * [https://www.twitch.tv/videos/708117886](https://www.twitch.tv/videos/708117886)
+     * [https://www.youtube.com/watch?v=91CkhFN8qdw](https://www.youtube.com/watch?v=91CkhFN8qdw)
+  3. 0x03 | Güvenli İletişim
+     * [https://www.twitch.tv/videos/914097437](https://www.twitch.tv/videos/914097437)
+     * [https://www.youtube.com/watch?v=ly_dhtuL5A8](https://www.youtube.com/watch?v=ly_dhtuL5A8)
      
 </details>
 
