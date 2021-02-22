@@ -304,6 +304,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   10. 0x0A | Intigriti XSS Challenge Çözümü /w Buğra
       * [https://www.twitch.tv/videos/906139611](https://www.twitch.tv/videos/906139611)
       * [https://www.youtube.com/watch?v=uGypW1lSoQI](https://www.youtube.com/watch?v=uGypW1lSoQI)
+  11. 0x0B | 10 ay boyunca her hafta siber güvenlik eğitimi vermek ? MDISEC kanalının hikayesi
+      * [https://www.twitch.tv/videos/920318966](https://www.twitch.tv/videos/920318966)
+      * [https://www.youtube.com/watch?v=1hkzHqtI6iY](https://www.youtube.com/watch?v=1hkzHqtI6iY)
 
 </details>
 
