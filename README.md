@@ -122,6 +122,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   27. 0x1B | OAuth Zafiyetleri Reloaded
       * [https://www.twitch.tv/videos/899537119](https://www.twitch.tv/videos/899537119)
       * [https://www.youtube.com/watch?v=scs6PJ8qMuw](https://www.youtube.com/watch?v=scs6PJ8qMuw)
+  28. 0x1C | Web Cache Nedir ? Web Cache Poisoning Zafiyeti
+      * [https://www.twitch.tv/videos/924318160](https://www.twitch.tv/videos/924318160)
+      * [https://www.youtube.com/watch?v=U5bx4ZXdmRI](https://www.youtube.com/watch?v=U5bx4ZXdmRI)
 
 
 </details>
