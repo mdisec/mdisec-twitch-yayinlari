@@ -149,6 +149,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
    6. 0x06 | pip,npm,gem install Riskleri... Typosquatting & Dependency Confusion Mevzusu
       * [https://www.twitch.tv/videos/908678053](https://www.twitch.tv/videos/908678053)
       * [https://www.youtube.com/watch?v=q5F3OUJu8c4](https://www.youtube.com/watch?v=q5F3OUJu8c4)
+   7. 0x07 | VMware vCenter RCE (CVE-2021-21972) Analizi
+      * [https://www.twitch.tv/videos/926768486](https://www.twitch.tv/videos/926768486)
+      * [https://www.youtube.com/watch?v=mRrAcinvwvE](https://www.youtube.com/watch?v=mRrAcinvwvE)
 
 </details>
 
