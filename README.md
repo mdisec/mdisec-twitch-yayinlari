@@ -313,6 +313,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   11. 0x0B | 10 ay boyunca her hafta siber güvenlik eğitimi vermek ? MDISEC kanalının hikayesi
       * [https://www.twitch.tv/videos/920318966](https://www.twitch.tv/videos/920318966)
       * [https://www.youtube.com/watch?v=1hkzHqtI6iY](https://www.youtube.com/watch?v=1hkzHqtI6iY)
+  12. 0x0C | Operation !SilverFish : Uluslararası Bir Siber Casusluk Operasyonu Perde Arkası
+      * [https://www.twitch.tv/videos/961508374](https://www.twitch.tv/videos/961508374)
+      * [https://www.youtube.com/watch?v=0fllYA9KqI8](https://www.youtube.com/watch?v=0fllYA9KqI8)
+
 
 </details>
 
