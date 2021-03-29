@@ -316,7 +316,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   12. 0x0C | Operation !SilverFish : Uluslararası Bir Siber Casusluk Operasyonu Perde Arkası
       * [https://www.twitch.tv/videos/961508374](https://www.twitch.tv/videos/961508374)
       * [https://www.youtube.com/watch?v=0fllYA9KqI8](https://www.youtube.com/watch?v=0fllYA9KqI8)
-
+  13. 0x0D | Yemeksepeti Vakası Üzerine Sohbet ve Daha Fazlası
+      * [https://www.twitch.tv/videos/967405530](https://www.twitch.tv/videos/967405530)
+      * [https://www.youtube.com/watch?v=UCfeAEodQd8](https://www.youtube.com/watch?v=UCfeAEodQd8)
 
 </details>
 
