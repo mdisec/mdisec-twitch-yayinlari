@@ -35,6 +35,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   1. 0x01 | 0day Vulnerability Research Dünyasına Giriş
      * [https://www.twitch.tv/videos/591402933](https://www.twitch.tv/videos/591402933)
      * [https://www.youtube.com/watch?v=S1GKkBGkf6Q](https://www.youtube.com/watch?v=S1GKkBGkf6Q)
+  2. 0x02 | GravCMS Unauthenticated Arbitrary YAML Write/Update RCE 0day & MSF Development
+     * [https://www.twitch.tv/videos/976640280](https://www.twitch.tv/videos/976640280)
+     * [https://www.youtube.com/watch?v=sh49xqJIl2Q](https://www.youtube.com/watch?v=sh49xqJIl2Q)
 
 </details>
 
