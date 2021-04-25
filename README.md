@@ -284,6 +284,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   3. 0x03 | Güvenli İletişim
      * [https://www.twitch.tv/videos/914097437](https://www.twitch.tv/videos/914097437)
      * [https://www.youtube.com/watch?v=ly_dhtuL5A8](https://www.youtube.com/watch?v=ly_dhtuL5A8)
+  4. 0x04 | Bitcoin ve Kripto Para Alım Satım Platformları ve Siber Güvenlik
+     * [https://www.twitch.tv/videos/1000342581](https://www.twitch.tv/videos/1000342581)
+     * [https://www.youtube.com/watch?v=p1l8ZVv2NQo](https://www.youtube.com/watch?v=p1l8ZVv2NQo)
      
 </details>
 
