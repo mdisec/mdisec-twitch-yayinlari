@@ -153,8 +153,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/908678053](https://www.twitch.tv/videos/908678053)
       * [https://www.youtube.com/watch?v=q5F3OUJu8c4](https://www.youtube.com/watch?v=q5F3OUJu8c4)
    7. 0x07 | VMware vCenter RCE (CVE-2021-21972) Analizi
-      * [https://www.twitch.tv/videos/926768486](https://www.twitch.tv/videos/926768486)
+      * [https://www.twitch.tv/videos/926867627](https://www.twitch.tv/videos/926867627)
       * [https://www.youtube.com/watch?v=mRrAcinvwvE](https://www.youtube.com/watch?v=mRrAcinvwvE)
+   8. 0x08 | PHP Supply Chain Attack on Composer (CVE-2021-29472) Analizi
+      * [https://www.twitch.tv/videos/1009803490](https://www.twitch.tv/videos/1009803490)
+      * [https://www.youtube.com/watch?v=RjKVcYrtl5w](https://www.youtube.com/watch?v=RjKVcYrtl5w)
 
 </details>
 
