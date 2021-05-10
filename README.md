@@ -38,6 +38,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   2. 0x02 | GravCMS Unauthenticated Arbitrary YAML Write/Update RCE 0day & MSF Development
      * [https://www.twitch.tv/videos/976640280](https://www.twitch.tv/videos/976640280)
      * [https://www.youtube.com/watch?v=sh49xqJIl2Q](https://www.youtube.com/watch?v=sh49xqJIl2Q)
+  3. 0x03 | Schlix CMS Kaynak Kod Analizi ve 0day Zafiyet Araştırmacılığı
+     * [https://www.twitch.tv/videos/1016922329](https://www.twitch.tv/videos/1016922329)
+     * [https://www.youtube.com/watch?v=PfxPOMI8v9k](https://www.youtube.com/watch?v=PfxPOMI8v9k)
 
 </details>
 
