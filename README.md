@@ -331,6 +331,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   13. 0x0D | Yemeksepeti Vakası Üzerine Sohbet ve Daha Fazlası
       * [https://www.twitch.tv/videos/967405530](https://www.twitch.tv/videos/967405530)
       * [https://www.youtube.com/watch?v=UCfeAEodQd8](https://www.youtube.com/watch?v=UCfeAEodQd8)
+  14. 0x0E | Schlix CMS'de Zafiyet Bulan @DevilsGrin ve SonarSource ile Statik Kaynak Kod Analizi
+      * [https://www.twitch.tv/videos/1040350233](https://www.twitch.tv/videos/1040350233)
+      * [https://www.youtube.com/watch?v=9QyLka4FpU4](https://www.youtube.com/watch?v=9QyLka4FpU4)
 
 </details>
 
