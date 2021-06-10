@@ -334,6 +334,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   14. 0x0E | Schlix CMS'de Zafiyet Bulan @DevilsGrin ve SonarSource ile Statik Kaynak Kod Analizi
       * [https://www.twitch.tv/videos/1040350233](https://www.twitch.tv/videos/1040350233)
       * [https://www.youtube.com/watch?v=9QyLka4FpU4](https://www.youtube.com/watch?v=9QyLka4FpU4)
+  15. 0x0F | Konuk: Kağan IŞILDAK | Offensive Approach to Online Sandboxes ! Any.run Ciğerini Söktük
+      * [https://www.twitch.tv/videos/1047120796](https://www.twitch.tv/videos/1047120796)
+      * [https://www.youtube.com/watch?v=pu0-Jvg4qQo](https://www.youtube.com/watch?v=pu0-Jvg4qQo)
 
 </details>
 
