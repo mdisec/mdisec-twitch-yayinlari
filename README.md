@@ -337,6 +337,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   15. 0x0F | Konuk: Kağan IŞILDAK | Offensive Approach to Online Sandboxes ! Any.run Ciğerini Söktük
       * [https://www.twitch.tv/videos/1047120796](https://www.twitch.tv/videos/1047120796)
       * [https://www.youtube.com/watch?v=pu0-Jvg4qQo](https://www.youtube.com/watch?v=pu0-Jvg4qQo)
+  16. 0x10 | "SBK, sadece numara girerek istediği kişinin WhatsApp yazışmalarını görebiliyor" Mümkün mü ? EVET !
+      * [https://www.twitch.tv/videos/1072783156](https://www.twitch.tv/videos/1072783156)
+      * [https://www.youtube.com/watch?v=1h5Er4UE9-k](https://www.youtube.com/watch?v=1h5Er4UE9-k)
 
 </details>
 
