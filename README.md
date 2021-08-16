@@ -134,6 +134,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   29. 0x1D | Burp DOM Invader
       * [https://www.twitch.tv/videos/1086833157](https://www.twitch.tv/videos/1086833157)
       * [https://www.youtube.com/watch?v=s63LYfE0HRY](https://www.youtube.com/watch?v=s63LYfE0HRY)
+  30. 0x1E | HTTP Request Smuggling ve HTTP/2 Downgrade Attack Zafiyeti
+      * [https://www.twitch.tv/videos/1117429756](https://www.twitch.tv/videos/1117429756)
+      * [https://www.youtube.com/watch?v=C20e0VYqY84](https://www.youtube.com/watch?v=C20e0VYqY84)
 
 
 </details>
