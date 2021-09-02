@@ -167,6 +167,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
    8. 0x08 | PHP Supply Chain Attack on Composer (CVE-2021-29472) Analizi
       * [https://www.twitch.tv/videos/1009803490](https://www.twitch.tv/videos/1009803490)
       * [https://www.youtube.com/watch?v=RjKVcYrtl5w](https://www.youtube.com/watch?v=RjKVcYrtl5w)
+   9. 0x09 | 50 Milyon Dolarlık :) Atlassian Confluence Kritik Güvenlik Açığı (CVE-2021-26084) Analizi
+      * [https://www.twitch.tv/videos/1136146894](https://www.twitch.tv/videos/1136146894)
+      * [https://www.youtube.com/watch?v=8-W2d1GmwyU](https://www.youtube.com/watch?v=8-W2d1GmwyU)
 
 </details>
 
