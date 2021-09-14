@@ -41,6 +41,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   3. 0x03 | Schlix CMS Kaynak Kod Analizi ve 0day Zafiyet Araştırmacılığı
      * [https://www.twitch.tv/videos/1016922329](https://www.twitch.tv/videos/1016922329)
      * [https://www.youtube.com/watch?v=PfxPOMI8v9k](https://www.youtube.com/watch?v=PfxPOMI8v9k)
+  4. 0x04 | Pardus 21 Linux Distro – Remote Code Execution 0day Güvenlik Açığı ve Analizi
+     * [hhttps://www.twitch.tv/videos/1147792457](https://www.twitch.tv/videos/1147792457)
+     * [https://www.youtube.com/watch?v=ZTutAgjnBp4](https://www.youtube.com/watch?v=ZTutAgjnBp4)
 
 </details>
 
