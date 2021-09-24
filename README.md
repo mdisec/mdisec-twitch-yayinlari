@@ -42,8 +42,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/1016922329](https://www.twitch.tv/videos/1016922329)
      * [https://www.youtube.com/watch?v=PfxPOMI8v9k](https://www.youtube.com/watch?v=PfxPOMI8v9k)
   4. 0x04 | Pardus 21 Linux Distro – Remote Code Execution 0day Güvenlik Açığı ve Analizi
-     * [hhttps://www.twitch.tv/videos/1147792457](https://www.twitch.tv/videos/1147792457)
+     * [https://www.twitch.tv/videos/1147792457](https://www.twitch.tv/videos/1147792457)
      * [https://www.youtube.com/watch?v=ZTutAgjnBp4](https://www.youtube.com/watch?v=ZTutAgjnBp4)
+  5. 0x05 | Pardus LiderAhenk 0day Zafiyeti – Tüm Pardus Bilgisayarlarınız BANA Ait ! (CVE-2021-3825)
+     * [https://www.twitch.tv/videos/1157220423](https://www.twitch.tv/videos/1157220423)
+     * [https://www.youtube.com/watch?v=CMHQwDgi8xY](https://www.youtube.com/watch?v=CMHQwDgi8xY)
 
 </details>
 
