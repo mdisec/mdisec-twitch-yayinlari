@@ -47,6 +47,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   5. 0x05 | Pardus LiderAhenk 0day Zafiyeti – Tüm Pardus Bilgisayarlarınız BANA Ait ! (CVE-2021-3825)
      * [https://www.twitch.tv/videos/1157220423](https://www.twitch.tv/videos/1157220423)
      * [https://www.youtube.com/watch?v=CMHQwDgi8xY](https://www.youtube.com/watch?v=CMHQwDgi8xY)
+  6. 0x06 | HAVELSAN Liman MYS 0day Remote Code Execution
+     * [https://www.twitch.tv/videos/1161923638](https://www.twitch.tv/videos/1161923638)
+     * [https://www.youtube.com/watch?v=1VDS6tP1G6I](https://www.youtube.com/watch?v=1VDS6tP1G6I)
 
 </details>
 
