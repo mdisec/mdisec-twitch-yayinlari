@@ -297,7 +297,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
-  <summary>Kör Nokta</summary
+  <summary>Kör Nokta</summary>
 
   1. 0x01 | Çocuk istismari & pedomap.live projesi
      * [https://www.twitch.tv/videos/689566189](https://www.twitch.tv/videos/689566189)
@@ -311,6 +311,19 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   4. 0x04 | Bitcoin ve Kripto Para Alım Satım Platformları ve Siber Güvenlik
      * [https://www.twitch.tv/videos/1000342581](https://www.twitch.tv/videos/1000342581)
      * [https://www.youtube.com/watch?v=p1l8ZVv2NQo](https://www.youtube.com/watch?v=p1l8ZVv2NQo)
+     
+</details>
+
+<details>
+  <summary>PRODAFT Threat Intel</summary>
+
+  1. 0x01 | Operation !SilverFish : Uluslararası Bir Siber Casusluk Operasyonu Perde Arkası
+      * [https://www.twitch.tv/videos/961508374](https://www.twitch.tv/videos/961508374)
+      * [https://www.youtube.com/watch?v=0fllYA9KqI8](https://www.youtube.com/watch?v=0fllYA9KqI8)
+  2. 0x02 | PRODAFT Threat Intel: Conti Ransomware Group Analysis with Ege Balcı
+     * [https://www.twitch.tv/videos/1220323746](https://www.twitch.tv/videos/1220323746)
+     * [https://www.youtube.com/watch?v=HnUDdA6SHaU](https://www.youtube.com/watch?v=HnUDdA6SHaU)
+
      
 </details>
 
@@ -343,19 +356,16 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   11. 0x0B | 10 ay boyunca her hafta siber güvenlik eğitimi vermek ? MDISEC kanalının hikayesi
       * [https://www.twitch.tv/videos/920318966](https://www.twitch.tv/videos/920318966)
       * [https://www.youtube.com/watch?v=1hkzHqtI6iY](https://www.youtube.com/watch?v=1hkzHqtI6iY)
-  12. 0x0C | Operation !SilverFish : Uluslararası Bir Siber Casusluk Operasyonu Perde Arkası
-      * [https://www.twitch.tv/videos/961508374](https://www.twitch.tv/videos/961508374)
-      * [https://www.youtube.com/watch?v=0fllYA9KqI8](https://www.youtube.com/watch?v=0fllYA9KqI8)
-  13. 0x0D | Yemeksepeti Vakası Üzerine Sohbet ve Daha Fazlası
+  12. 0x0C | Yemeksepeti Vakası Üzerine Sohbet ve Daha Fazlası
       * [https://www.twitch.tv/videos/967405530](https://www.twitch.tv/videos/967405530)
       * [https://www.youtube.com/watch?v=UCfeAEodQd8](https://www.youtube.com/watch?v=UCfeAEodQd8)
-  14. 0x0E | Schlix CMS'de Zafiyet Bulan @DevilsGrin ve SonarSource ile Statik Kaynak Kod Analizi
+  13. 0x0D | Schlix CMS'de Zafiyet Bulan @DevilsGrin ve SonarSource ile Statik Kaynak Kod Analizi
       * [https://www.twitch.tv/videos/1040350233](https://www.twitch.tv/videos/1040350233)
       * [https://www.youtube.com/watch?v=9QyLka4FpU4](https://www.youtube.com/watch?v=9QyLka4FpU4)
-  15. 0x0F | Konuk: Kağan IŞILDAK | Offensive Approach to Online Sandboxes ! Any.run Ciğerini Söktük
+  14. 0x0E | Konuk: Kağan IŞILDAK | Offensive Approach to Online Sandboxes ! Any.run Ciğerini Söktük
       * [https://www.twitch.tv/videos/1047120796](https://www.twitch.tv/videos/1047120796)
       * [https://www.youtube.com/watch?v=pu0-Jvg4qQo](https://www.youtube.com/watch?v=pu0-Jvg4qQo)
-  16. 0x10 | "SBK, sadece numara girerek istediği kişinin WhatsApp yazışmalarını görebiliyor" Mümkün mü ? EVET !
+  15. 0x0F | "SBK, sadece numara girerek istediği kişinin WhatsApp yazışmalarını görebiliyor" Mümkün mü ? EVET !
       * [https://www.twitch.tv/videos/1072783156](https://www.twitch.tv/videos/1072783156)
       * [https://www.youtube.com/watch?v=1h5Er4UE9-k](https://www.youtube.com/watch?v=1h5Er4UE9-k)
 
