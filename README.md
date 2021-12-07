@@ -146,6 +146,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   30. 0x1E | HTTP Request Smuggling ve HTTP/2 Downgrade Attack Zafiyeti
       * [https://www.twitch.tv/videos/1117429756](https://www.twitch.tv/videos/1117429756)
       * [https://www.youtube.com/watch?v=C20e0VYqY84](https://www.youtube.com/watch?v=C20e0VYqY84)
+  31. 0x1F | File Upload Zafiyetleri ve Web Security Academy
+      * [https://www.twitch.tv/videos/1226139712](https://www.twitch.tv/videos/1226139712)
+      * [https://www.youtube.com/watch?v=-Ynsx0z-MsQ](https://www.youtube.com/watch?v=-Ynsx0z-MsQ)
 
 
 </details>
