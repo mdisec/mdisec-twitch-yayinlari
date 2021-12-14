@@ -371,6 +371,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   15. 0x0F | "SBK, sadece numara girerek istediği kişinin WhatsApp yazışmalarını görebiliyor" Mümkün mü ? EVET !
       * [https://www.twitch.tv/videos/1072783156](https://www.twitch.tv/videos/1072783156)
       * [https://www.youtube.com/watch?v=1h5Er4UE9-k](https://www.youtube.com/watch?v=1h5Er4UE9-k)
+  16. 0x10 | Bu mesleğe neden aşığım ! Log4J Güvenlik Zafiyeti
+      * [https://www.twitch.tv/videos/1232701035](https://www.twitch.tv/videos/1232701035)
+      * [https://www.youtube.com/watch?v=qMnoV63PUbo](https://www.youtube.com/watch?v=qMnoV63PUbo)
 
 </details>
 
