@@ -128,7 +128,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   24. 0x18 | Directory Traversal ../../etc/passwd
       * [https://www.twitch.tv/videos/839611874](https://www.twitch.tv/videos/839611874)
       * [https://www.youtube.com/watch?v=wNMyiqixL1g](https://www.youtube.com/watch?v=wNMyiqixL1g)
-  25. 0x19 | Source-Code Review SonarSource #CodeChallenge !
+  25. 0x19 | Source-Code Review SonarSource #CodeChallenge 2020 !
       * [https://www.twitch.tv/videos/848618417](https://www.twitch.tv/videos/848618417)
       * [https://www.youtube.com/watch?v=V_ogHUIF8E0](https://www.youtube.com/watch?v=V_ogHUIF8E0)
   26. 0x1A | OAuth Zafiyetleri
@@ -149,6 +149,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   31. 0x1F | File Upload Zafiyetleri ve Web Security Academy
       * [https://www.twitch.tv/videos/1226139712](https://www.twitch.tv/videos/1226139712)
       * [https://www.youtube.com/watch?v=-Ynsx0z-MsQ](https://www.youtube.com/watch?v=-Ynsx0z-MsQ)
+  32. 0x20 | SonarSource 2021 - Güvenlik Zafiyeti Takvimi Challenge !
+      * [https://www.twitch.tv/videos/1232694851](https://www.twitch.tv/videos/1232694851)
+      * [https://www.youtube.com/watch?v=KoczwcJUagY](https://www.youtube.com/watch?v=KoczwcJUagY)
 
 
 </details>
