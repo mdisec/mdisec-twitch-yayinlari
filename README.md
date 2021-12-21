@@ -377,6 +377,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   16. 0x10 | Bu mesleğe neden aşığım ! Log4J Güvenlik Zafiyeti
       * [https://www.twitch.tv/videos/1232701035](https://www.twitch.tv/videos/1232701035)
       * [https://www.youtube.com/watch?v=qMnoV63PUbo](https://www.youtube.com/watch?v=qMnoV63PUbo)
+  17. 0x11 | Özel Yayın : Selçuk Ermaya (@selcukermaya) ! Authentication ve Authorization Çevresinde Her Şey !
+      * [https://www.twitch.tv/videos/1239004010](https://www.twitch.tv/videos/1239004010)
+      * [https://www.youtube.com/watch?v=OMaTaLTF6_c](https://www.youtube.com/watch?v=OMaTaLTF6_c)
 
 </details>
 
