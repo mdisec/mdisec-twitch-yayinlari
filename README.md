@@ -152,6 +152,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   32. 0x20 | SonarSource 2021 - Güvenlik Zafiyeti Takvimi Challenge !
       * [https://www.twitch.tv/videos/1232694851](https://www.twitch.tv/videos/1232694851)
       * [https://www.youtube.com/watch?v=KoczwcJUagY](https://www.youtube.com/watch?v=KoczwcJUagY)
+  33. 0x21 | PortSwigger Top 10 Web Hacking Techniques of 2021
+      * [https://www.twitch.tv/videos/1267001924](https://www.twitch.tv/videos/1267001924)
+      * [https://www.youtube.com/watch?v=rHxX5LB1--4](https://www.youtube.com/watch?v=rHxX5LB1--4)
 
 
 </details>
