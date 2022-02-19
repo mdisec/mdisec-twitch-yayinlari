@@ -383,6 +383,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   17. 0x11 | Özel Yayın : Selçuk Ermaya (@selcukermaya) ! Authentication ve Authorization Çevresinde Her Şey !
       * [https://www.twitch.tv/videos/1239004010](https://www.twitch.tv/videos/1239004010)
       * [https://www.youtube.com/watch?v=OMaTaLTF6_c](https://www.youtube.com/watch?v=OMaTaLTF6_c)
+  18. 0x12 | kaan ile "Mock" Siber Güvenlik Stajyer Mülakatı
+      * [https://www.twitch.tv/videos/1302297511](https://www.twitch.tv/videos/1302297511)
+      * [https://www.youtube.com/watch?v=nt1-M0LMRw0](https://www.youtube.com/watch?v=nt1-M0LMRw0)
 
 </details>
 
