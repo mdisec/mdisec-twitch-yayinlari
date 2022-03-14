@@ -386,6 +386,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   18. 0x12 | kaan ile "Mock" Siber Güvenlik Stajyer Mülakatı
       * [https://www.twitch.tv/videos/1302297511](https://www.twitch.tv/videos/1302297511)
       * [https://www.youtube.com/watch?v=nt1-M0LMRw0](https://www.youtube.com/watch?v=nt1-M0LMRw0)
+  19. 0x13 | Konuk: Ayşe Bilge (@abilgegunduz) - Modeling Scientist
+      * [https://www.twitch.tv/videos/1421114175](https://www.twitch.tv/videos/1421114175)
+      * [https://www.youtube.com/watch?v=FMo0Fpv_xOw](https://www.youtube.com/watch?v=FMo0Fpv_xOw)
 
 </details>
 
