@@ -389,6 +389,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   19. 0x13 | Konuk: Ayşe Bilge (@abilgegunduz) - Modeling Scientist
       * [https://www.twitch.tv/videos/1421114175](https://www.twitch.tv/videos/1421114175)
       * [https://www.youtube.com/watch?v=FMo0Fpv_xOw](https://www.youtube.com/watch?v=FMo0Fpv_xOw)
+  20. 0x14 | Konuk: Huseyin Babal (@huseyinbabal) - Güvenlik ve Yazılım Geliştiriciliği Üzerine Sohbet
+      * [https://www.twitch.tv/videos/1431696547](https://www.twitch.tv/videos/1431696547)
+      * [https://www.youtube.com/watch?v=SWpzr-_1KK8](https://www.youtube.com/watch?v=SWpzr-_1KK8)
 
 </details>
 
