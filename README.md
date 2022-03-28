@@ -463,3 +463,35 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      
 </details>
 
+
+
+<details>
+  <summary>HackerConf 2022</summary>
+
+  1. [TR] Unknown Effect: Hacking hundreds of environments using misconfigured placeholders - Ozan Olalı
+     * [https://www.twitch.tv/videos/1439117330](https://www.twitch.tv/videos/1439117330)
+     * [https://www.youtube.com/watch?v=4IX6gvDe2D0](https://www.youtube.com/watch?v=4IX6gvDe2D0)
+  2. [TR] Zafiyet Dediğin Kodlarda - Nur Yeşilyurt Gücü
+     * [https://www.twitch.tv/videos/1439120970](https://www.twitch.tv/videos/1439120970)
+     * [https://www.youtube.com/watch?v=1Y7MFPGmhJQ](https://www.youtube.com/watch?v=1Y7MFPGmhJQ)
+  3. [TR] Siber Güvenlik ve İçerik Üreticisinden Havadisler - Utku Şen
+     * [https://www.twitch.tv/videos/1439121408](https://www.twitch.tv/videos/1439121408)
+     * [https://www.youtube.com/watch?v=OGOfemeyG4I](https://www.youtube.com/watch?v=OGOfemeyG4I)
+  4. [TR] 'JUST CHATTING' WITH SPONSORS
+     * [https://www.twitch.tv/videos/1439122231](https://www.twitch.tv/videos/1439122231)
+     * [https://www.youtube.com/watch?v=x8GD6PRNsMM](https://www.youtube.com/watch?v=x8GD6PRNsMM)
+  5. [TR] Reverse Engineering EVM Bytecode in 20 mins - Canberk Bolat
+     * [https://www.twitch.tv/videos/1439122661](https://www.twitch.tv/videos/1439122661)
+     * [https://www.youtube.com/watch?v=3JdSJsQdwbw](https://www.youtube.com/watch?v=3JdSJsQdwbw)
+  6. [TR] PTI Stories 0x02: VoIP Dialer - Ege Balcı
+     * [https://www.twitch.tv/videos/1439123901](https://www.twitch.tv/videos/1439123901)
+     * [https://www.youtube.com/watch?v=b0MiklpQvDM](https://www.youtube.com/watch?v=b0MiklpQvDM)
+  7. [TR] SGX'teki hayalet - İrem
+     * [https://www.twitch.tv/videos/1439123372](https://www.twitch.tv/videos/1439123372)
+     * [https://www.youtube.com/watch?v=G_4UZXoS1pw](https://www.youtube.com/watch?v=G_4UZXoS1pw)
+  8. [TR] Women in Cyber Açık Mikrofonu - Ece, Umran, İlkay, Nur
+     * [https://www.twitch.tv/videos/1434478524](https://www.twitch.tv/videos/1434478524)
+     * [https://www.youtube.com/watch?v=UknK5pPj6-c](https://www.youtube.com/watch?v=UknK5pPj6-c)
+     
+</details>
+
