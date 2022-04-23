@@ -155,6 +155,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   33. 0x21 | PortSwigger Top 10 Web Hacking Techniques of 2021
       * [https://www.twitch.tv/videos/1267001924](https://www.twitch.tv/videos/1267001924)
       * [https://www.youtube.com/watch?v=rHxX5LB1--4](https://www.youtube.com/watch?v=rHxX5LB1--4)
+  34. 0x22 | 2FA ve Brute-Force İlişkisi - Doğru yaklaşım nedir ?
+      * [https://www.twitch.tv/videos/1463919915](https://www.twitch.tv/videos/1463919915)
+      * [https://www.youtube.com/watch?v=B3tBYLcasss](https://www.youtube.com/watch?v=B3tBYLcasss)
 
 
 </details>
