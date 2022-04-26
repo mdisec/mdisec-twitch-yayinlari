@@ -395,6 +395,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   20. 0x14 | Konuk: Huseyin Babal (@huseyinbabal) - Güvenlik ve Yazılım Geliştiriciliği Üzerine Sohbet
       * [https://www.twitch.tv/videos/1431696547](https://www.twitch.tv/videos/1431696547)
       * [https://www.youtube.com/watch?v=SWpzr-_1KK8](https://www.youtube.com/watch?v=SWpzr-_1KK8)
+  21. 0x15 | Sızma Testi & Siber Güvenlik Uzmanı "Mock" Mülakat - Buğra
+      * [https://www.twitch.tv/videos/1466908924](https://www.twitch.tv/videos/1466908924)
+      * [https://www.youtube.com/watch?v=rsaJr57yZZc](https://www.youtube.com/watch?v=rsaJr57yZZc)
 
 </details>
 
