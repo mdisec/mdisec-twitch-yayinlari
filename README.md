@@ -191,7 +191,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
    9. 0x09 | 50 Milyon Dolarlık :) Atlassian Confluence Kritik Güvenlik Açığı (CVE-2021-26084) Analizi
       * [https://www.twitch.tv/videos/1136146894](https://www.twitch.tv/videos/1136146894)
       * [https://www.youtube.com/watch?v=8-W2d1GmwyU](https://www.youtube.com/watch?v=8-W2d1GmwyU)
-   10. 0x0A | Derinlemesine :) Cloudflare Pages Remote Code Execution Analizi
+  10. 0x0A | Derinlemesine :) Cloudflare Pages Remote Code Execution Analizi
       * [https://www.twitch.tv/videos/1478266986](https://www.twitch.tv/videos/1478266986)
       * [https://www.youtube.com/watch?v=QBxXL1ULIRQ](https://www.youtube.com/watch?v=QBxXL1ULIRQ)
 
