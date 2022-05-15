@@ -409,6 +409,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | Raw Security Goygoy Bölüm 1 - Güvenlik Zafiyeti Araştırmacılığı & Security.txt
      * [https://www.youtube.com/watch?v=t58rKmUuYPo](https://www.youtube.com/watch?v=t58rKmUuYPo)
+  2. 0x02 | Raw Security Sohbetleri - Microsoft Exchange, Blue Team'in Geleceği ve Utku Şen'in Yeni Şarkısı
+     * [https://www.youtube.com/watch?v=IMQVopTsckQ](https://www.youtube.com/watch?v=IMQVopTsckQ)
 
 </details>
 
