@@ -411,6 +411,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=t58rKmUuYPo](https://www.youtube.com/watch?v=t58rKmUuYPo)
   2. 0x02 | Raw Security Sohbetleri - Microsoft Exchange, Blue Team'in Geleceği ve Utku Şen'in Yeni Şarkısı
      * [https://www.youtube.com/watch?v=IMQVopTsckQ](https://www.youtube.com/watch?v=IMQVopTsckQ)
+  3. 0x03 | Raw Security Sohbetleri - Suç tanımında 'iyi niyet' devri ve Çocuk Koruma Vakfı Fundraising
+     * [https://www.youtube.com/watch?v=nmveTFbHnjU](https://www.youtube.com/watch?v=nmveTFbHnjU)
 
 </details>
 
