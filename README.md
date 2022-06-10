@@ -417,6 +417,24 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
+  <summary>MDI Nerede ?</summary>
+
+  1. 0x01 | MDI Nerede ? OSINT Eğitim serisine Giriş
+      * [https://www.twitch.tv/videos/1495158734](https://www.twitch.tv/videos/1495158734)
+      * [https://www.youtube.com/watch?v=1trCYwnBKpE](https://www.youtube.com/watch?v=1trCYwnBKpE)
+
+</details>
+
+<details>
+  <summary>AMA Security</summary>
+
+  1. 0x01 | Auth tokenı nerede tutuyorsunuz? Cookiede mi? Eğer öyleyse nasıl security sağlıyorsunuz? Secure cookie yeterli mi?
+      * [https://www.twitch.tv/videos/1499081694](https://www.twitch.tv/videos/1499081694)
+      * [https://www.youtube.com/watch?v=2P0ReKJY7GE](https://www.youtube.com/watch?v=2P0ReKJY7GE)
+
+</details>
+
+<details>
   <summary>HackerConf 2020</summary>
 
   1. [EN] Opening & Keynote by Chloé Messdaghi @ChloeMessdaghi
