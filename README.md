@@ -413,6 +413,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=IMQVopTsckQ](https://www.youtube.com/watch?v=IMQVopTsckQ)
   3. 0x03 | Raw Security Sohbetleri - Suç tanımında 'iyi niyet' devri ve Çocuk Koruma Vakfı Fundraising
      * [https://www.youtube.com/watch?v=nmveTFbHnjU](https://www.youtube.com/watch?v=nmveTFbHnjU)
+  4. 0x04 | Raw Security Sohbetleri - Bisiklet ve XSS
+     * [https://www.youtube.com/watch?v=z_CIl_wADeQ](https://www.youtube.com/watch?v=z_CIl_wADeQ)
 
 </details>
 
