@@ -158,6 +158,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   34. 0x22 | 2FA ve Brute-Force İlişkisi - Doğru yaklaşım nedir ?
       * [https://www.twitch.tv/videos/1463919915](https://www.twitch.tv/videos/1463919915)
       * [https://www.youtube.com/watch?v=B3tBYLcasss](https://www.youtube.com/watch?v=B3tBYLcasss)
+  35. 0x23 | Parolalar Nasıl Saklanmalı 101 & Hash Cracking'e Dair Her şey
+      * [https://www.twitch.tv/videos/1537659485](https://www.twitch.tv/videos/1537659485)
+      * [https://www.youtube.com/watch?v=FbA9BKMuD4s](https://www.youtube.com/watch?v=FbA9BKMuD4s)
 
 
 </details>
@@ -401,6 +404,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   21. 0x15 | Sızma Testi & Siber Güvenlik Uzmanı "Mock" Mülakat - Buğra
       * [https://www.twitch.tv/videos/1466908924](https://www.twitch.tv/videos/1466908924)
       * [https://www.youtube.com/watch?v=rsaJr57yZZc](https://www.youtube.com/watch?v=rsaJr57yZZc)
+  22. 0x16 | Google CTF 2022 Python Sandbox Escape Challenge | AST parser, decorator, dunder overriding & aklıma gelmeyen bir çok yöntem
+      * [https://www.twitch.tv/videos/1542539293](https://www.twitch.tv/videos/1542539293)
+      * [https://www.youtube.com/watch?v=R3EVzx4ml6I](https://www.youtube.com/watch?v=R3EVzx4ml6I)
 
 </details>
 
