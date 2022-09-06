@@ -407,6 +407,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   22. 0x16 | Google CTF 2022 Python Sandbox Escape Challenge | AST parser, decorator, dunder overriding & aklıma gelmeyen bir çok yöntem
       * [https://www.twitch.tv/videos/1542539293](https://www.twitch.tv/videos/1542539293)
       * [https://www.youtube.com/watch?v=R3EVzx4ml6I](https://www.youtube.com/watch?v=R3EVzx4ml6I)
+  23. 0x17 | HELLOOOO Yine bir yayın klasiği ! Kanlı-Canlı hexacon.fr CTF'i Web Hacking sorusu çözümü | Part 1
+      * [https://www.twitch.tv/videos/1583018517](https://www.twitch.tv/videos/1583018517)
+      * [https://www.youtube.com/watch?v=sk6TSolrm8g](https://www.youtube.com/watch?v=sk6TSolrm8g)
 
 </details>
 
