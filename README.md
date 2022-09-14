@@ -410,6 +410,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   23. 0x17 | HELLOOOO Yine bir yayın klasiği ! Kanlı-Canlı hexacon.fr CTF'i Web Hacking sorusu çözümü | Part 1
       * [https://www.twitch.tv/videos/1583018517](https://www.twitch.tv/videos/1583018517)
       * [https://www.youtube.com/watch?v=sk6TSolrm8g](https://www.youtube.com/watch?v=sk6TSolrm8g)
+  24. 0x18 | GraphQL hacking ! hexacon.fr CTF'i Web Hacking | Part 2
+      * [https://www.twitch.tv/videos/1588502931](https://www.twitch.tv/videos/1588502931)
+      * [https://www.youtube.com/watch?v=5RYZOeHG918](https://www.youtube.com/watch?v=5RYZOeHG918)
 
 </details>
 
