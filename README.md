@@ -11,6 +11,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   1. 0x01 | İlk Yayın & Giriş
      * [https://www.twitch.tv/videos/586348522](https://www.twitch.tv/videos/586348522)
      * [https://www.youtube.com/watch?v=oKUzpaWxrfY](https://www.youtube.com/watch?v=oKUzpaWxrfY)
+     * [https://drive.google.com/file/d/1BUwKP1NuxJQQIghsn7AtNdyPFzMModo9/view?usp=share_link](https://drive.google.com/file/d/1BUwKP1NuxJQQIghsn7AtNdyPFzMModo9/view?usp=share_link)
   2. 0x02 | Vulnerable Uygulama Yazıp, Auxiliary Modülü Geliştirmeye Giriş
      * [https://www.twitch.tv/videos/586761795](https://www.twitch.tv/videos/586761795) - [**Yayında yazılanlar**](docs/Metasploit_Gelistiricisi_Olmak/0x02_Aux_Modulu_Giris/)
      * [https://www.youtube.com/watch?v=STaFfB9SEtQ](https://www.youtube.com/watch?v=STaFfB9SEtQ)
