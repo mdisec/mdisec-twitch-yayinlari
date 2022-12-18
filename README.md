@@ -413,6 +413,12 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   24. 0x18 | GraphQL hacking ! hexacon.fr CTF'i Web Hacking | Part 2
       * [https://www.twitch.tv/videos/1588502931](https://www.twitch.tv/videos/1588502931)
       * [https://www.youtube.com/watch?v=5RYZOeHG918](https://www.youtube.com/watch?v=5RYZOeHG918)
+  25. 0x19 | Kanlı & canlı Hacking Yarışı. MDI 10 dakika içerisinde bölümü geçebildi mi ? Portswigger Challenge
+      * [https://www.twitch.tv/videos/1653434294](https://www.twitch.tv/videos/1653434294)
+      * [https://www.youtube.com/watch?v=ZIfqIoTvxHM](https://www.youtube.com/watch?v=ZIfqIoTvxHM)
+  26. 0x1A | ChatGPT vs Hacker ! SonarSource Kaynak Kod Analizi ile Zafiyet Tespiti Challenge'ı | Part 1
+      * [https://www.twitch.tv/videos/1677502153](https://www.twitch.tv/videos/1677502153)
+      * [https://www.youtube.com/watch?v=Qp8sRedhE-4](https://www.youtube.com/watch?v=Qp8sRedhE-4)
 
 </details>
 
