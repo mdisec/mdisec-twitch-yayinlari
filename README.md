@@ -102,7 +102,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=XlgG-Aw2nos](https://www.youtube.com/watch?v=XlgG-Aw2nos)
   15. 0x0F | OS Command Injection
       * [https://www.twitch.tv/videos/734409889](https://www.twitch.tv/videos/734409889)
-      * [https://www.youtube.com/watch?v=X7pzc8zgL6I](https://www.youtube.com/watch?v=X7pzc8zgL6I)
+      * [https://www.youtube.com/watch?v=Uk4imneVI30](https://www.youtube.com/watch?v=Uk4imneVI30)
   16. 0x10 | Information Disclosure
       * [https://www.twitch.tv/videos/736775441](https://www.twitch.tv/videos/736775441)
   17. 0x11 | Authentication
@@ -419,6 +419,13 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   26. 0x1A | ChatGPT vs Hacker ! SonarSource Kaynak Kod Analizi ile Zafiyet Tespiti Challenge'ı | Part 1
       * [https://www.twitch.tv/videos/1677502153](https://www.twitch.tv/videos/1677502153)
       * [https://www.youtube.com/watch?v=Qp8sRedhE-4](https://www.youtube.com/watch?v=Qp8sRedhE-4)
+  27. 0x1B | ChatGPT vs Hacker ! SonarSource Kaynak Kod Analizi ile Zafiyet Tespiti Challenge'ı | Part 2
+      * [https://www.twitch.tv/videos/1694862889](https://www.twitch.tv/videos/1694862889)
+      * [https://www.youtube.com/watch?v=qovwATaj5uk](https://www.youtube.com/watch?v=qovwATaj5uk)
+  28. 0x1C | 2005'ten 2023 yılına. Benim davam.
+      * [https://www.twitch.tv/videos/1716931487](https://www.twitch.tv/videos/1716931487)
+      * [https://www.youtube.com/watch?v=jqQRGRQXQIc](https://www.youtube.com/watch?v=jqQRGRQXQIc)
+
 
 </details>
 
