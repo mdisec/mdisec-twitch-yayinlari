@@ -161,7 +161,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   35. 0x23 | Parolalar Nasıl Saklanmalı 101 & Hash Cracking'e Dair Her şey
       * [https://www.twitch.tv/videos/1537659485](https://www.twitch.tv/videos/1537659485)
       * [https://www.youtube.com/watch?v=FbA9BKMuD4s](https://www.youtube.com/watch?v=FbA9BKMuD4s)
-
+  36. 0x24 | GraphQL Hacking diye bir şey aslında YOK. Kan-ter-gözyaşı var :)
+      * [https://www.youtube.com/watch?v=T-XMN_p5m4A](https://www.youtube.com/watch?v=T-XMN_p5m4A)
+  37. 0x25 | Google CTF 2023 - Web Challenge UNDER-CONSTRUCTION
+      * [https://www.twitch.tv/videos/1864268182](https://www.twitch.tv/videos/1864268182)
+      * [https://www.youtube.com/watch?v=gYiygXH8A9M](https://www.youtube.com/watch?v=gYiygXH8A9M)
 
 </details>
 
@@ -425,6 +429,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   28. 0x1C | 2005'ten 2023 yılına. Benim davam.
       * [https://www.twitch.tv/videos/1716931487](https://www.twitch.tv/videos/1716931487)
       * [https://www.youtube.com/watch?v=jqQRGRQXQIc](https://www.youtube.com/watch?v=jqQRGRQXQIc)
+  29. 0x1D | ChatGPT vs Hacker ! SonarSource Kaynak Kod Analizi ile Zafiyet Tespiti Challenge'ı | Part 3
+      * [https://www.twitch.tv/videos/1709509186](https://www.twitch.tv/videos/1709509186)
+      * [https://www.youtube.com/watch?v=FKP2RGHDauw](https://www.youtube.com/watch?v=FKP2RGHDauw)
 
 
 </details>
