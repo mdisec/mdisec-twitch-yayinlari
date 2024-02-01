@@ -1,0 +1,361 @@
+# Web Security 0x0C | Deserialization Zafiyetlerini Anlamak Episode 1
+
+Eğitime Giriş - Deserialization
+
+Deserialization Zafiyeti hakkında bazı konuları daha iyi anlamak için öncelikle çalışma ortamımızı kurmamız gerekiyor. Burada eğer bilgisayarınızda php kurulu değilse kurunuz ve daha sonra bu eğitime yönelik bir klasör oluşturarak ilk php dosyanızı oluşturunuz. Bunu yaptıktan sonra çalışma ortamımızda eğitime devam edebiliriz. 
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled.png)
+
+Günümüz web uygulamalarının nasıl çalıştığını, arka planda nelerin döndüğünü daha önceki yazılarda ele almıştık. Şimdi de aslında bazı noktalar buraya dayanmaktadır. Bir HTTP Request ve Response döngüsünde session bilgisi bulunmaktadır, ancak her döngüde yeniden bu bilginin eklenmesi gerekmektedir. Çünkü HTTP protokolünde herhangi bir şekilde tutulmamaktadır bu bilgiler. Şöyle durumlarla karşılaşabiliriz;
+
+Request alındıktan sonra backend tarafı birtakım işler yapmaktadır. Ancak burada herhangi bir state bulunmamaktadır. Bunun yaşattığı en büyük sorunlardan biri de Request-Response döngüsü boyunca ihtiyacınız olan ve ürettiğiniz tüm Array’ler, Hash Tabloları, Değişkenler, Sınıflardan üretilen nesneler döngü bittikten sonra yok olmaktadır. Bu kısım garbage collector (çöp toplama mekanizması) tarafından temizlenmektedir. Başka bir request tekrar geldiğinde ihtiyacınız olan her şey silindiği için tekrar bunları üretmeniz ve kullanmanız gerekmektedir. Dolayısıyla oluşturduğunuz her şeyi tutmanız ve daha sonra erişebilir olmanız gerekiyor. Bu da Serialization ile sağlanmaktadır. Serialization konusunun ortaya çıkışı bu problemlere dayanmaktadır. Yani siz bir veriyi Serialize etmiş olursunuz, örneğin herhangi bir programlama dilinde sahip olduğunuz sınıf üzerindeki verileri temsil eden (represent eden) bir string oluşturup, bu string’i bir yerde saklayıp daha sonra da bu string’den objeyi (nesneyi) direkt dönebilir hale gelmektesiniz.
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled%201.png)
+
+Şimdi de örnek bir kod bloğu üzerinden ilerleyelim.
+
+Buradaki PHP kodunda bir sınıf tanımlandıktan sonra bu sınıftan bir nesne oluşturulmuştur. 
+
+- Burada ‘User’ adında bir sınıf tanımlanmıştır.
+- ‘User’ sınıfında ‘$firstname’ ve ‘$lastname’ olmak üzere 2 özellik (property) bulunmaktadır.
+- Sınıfın bir yapıcı metodu (constructor) ‘__construct’ tanımlanmıştır. Bu constructor’ın görevi de sınıfın örneklerini oluştururken başlangıç değerleri atamaktır.
+- Constructor’ın parametreleri, ‘$firstname’ ve ‘$lastname’ olarak belirlenmiştir. Varsayılan olarak ikisi de boş bir string olarak ayarlanmaktadır..
+- Constructor’ın içerisinde, sınıfa ait özelliklere parametrelerin değerleri atanmaktadır.
+- Son olarak da ‘$user’ adında bir ‘User’ sınıfı örneği oluşturulmaktadır. Bu örnek, “Mehmet” adını ve “INCE” soyadı kullanılarak oluşturulmuştur.
+
+```php
+<?php
+
+class User{
+    var $firstname;
+    var $lastname;
+
+    function _construct($firstname= "", $lastname=""){
+        $this->firstname=$firstname;
+        $this->lastname=$lastname;
+    }
+}
+// User'a ait bilgiler db'den sessionId ile elde edildi. 
+// ve User sınıfı oluşturuldu.
+$user = new User("Mehmet","INCE");
+```
+
+Bu kısımdan sonra buradaki ‘$user’ objesi bir yerde tutulmalıdır. Çünkü Request geldikten sonra bu sınıf oluşmaktadır. Burada her Request-Response döngüsünde gerekli işlemler tekrar edilmek zorundadır. User tekrar geldiğinde buradaki ‘$user’ objesine erişime ihtiyaç duyulur. Tüm ihtiyaç bunun giderilmesine yöneliktir. 
+
+Kodumuzda eğer bu kullanıcıyı konsol ekranına yazdırmak istersek de yapı bu hale gelecektir. Konsola yazdırılmak istendiği takdirde otomatik olarak ‘__toString’ fonksiyonu çağrılacaktır. 
+
+```php
+<?php
+
+class User{
+    var $firstname;
+    var $lastname;
+
+    function __construct($firstname= "", $lastname=""){
+        $this->firstname=$firstname;
+        $this->lastname=$lastname;
+    }
+    function __toString(){
+        return $this->firstname." ".$this->lastname."\n";
+    }
+}
+// User'a ait bilgiler db'den sessionId ile elde edildi. 
+// ve User sınıfı oluşturuldu.
+$user = new User("Mehmet","INCE");
+
+echo $user;
+```
+
+Kodun çıktısı da beklediğimiz gibi bu şekildedir;
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled%202.png)
+
+Biz artık bu kodu her çalıştırdığımızda ilgili fonksiyonlar mecburen çalıştırılacaktır. Ancak biz bunu istemiyoruz. Kullanıcımız tekrar geldiğinde buradaki ‘$user’ objesine tekrardan erişebilme ihtiyacı doğmaktadır. Gerçek hayatta da session’da tutulan bilgiler bu tarz bilgilerdir. Buradaki bilgiler session’a yazılmaktadır. Burada session’dan bunlar elde edilip tekrardan  sınıfa dönmek gerekiyor. İşte Serialization konusunun da en çok işe yaradığı nokta burasıdır. 
+
+```php
+<?php
+
+class User{
+    var $firstname;
+    var $lastname;
+
+    function __construct($firstname= "", $lastname=""){
+        $this->firstname=$firstname;
+        $this->lastname=$lastname;
+    }
+    function __toString(){
+        return $this->firstname." ".$this->lastname."\n";
+    }
+}
+// User'a ait bilgiler db'den sessionId ile elde edildi. 
+// ve User sınıfı oluşturuldu.
+$user = new User("Mehmet","INCE");
+
+$store_somewhere = serialize($user);
+
+echo $store_somewhere;
+```
+
+Yeni kodumuzun çıktısı;
+
+```php
+O:4:"User":2:{s:9:"firstname";s:6:"Mehmet";s:8:"lastname";s:4:"INCE";}
+```
+
+Bu kısma kadar bir sınıf tanımladık, oluşturduğumuz bu sınıftan bir ‘User’ nesnesi oluşturduk. Daha sonra bu sınıfın ‘$firstname’ ve ‘$lastname’ property’lerini tanımladık. Kodumuzun çıktısına bakacak ve soldan sağa okuyacak olursak olursak ‘O’ php objesini temsil etmektedir ve bu obje adının ise 4 karakterli (”User”) olduğu görülmektedir. Buradaki objenin 2 adet property’si vardır. İlk property adının uzunluğu 9 karakterlidir (”firstname”). Bu ilk property’nin değeri ise 6 karakterlidir (”Mehmet”). İkinci property 8 karakterlidir (”lastname”). Bu ikinci porperty değeri ise 4 karakterlidir (”INCE”). Bunun tamamı bir string’dir. 
+
+Şimdi yeni dosyalarımız oluşturalım ve bunlar üzerinden daha ayrıntılı bir şekilde ilerleyelim. 
+
+```php
+Çalışma ortamımızın dizininde yeni php dosyaları oluşturalım;
+touch user.class.php
+touch serialize.php
+touch deserialize.php
+```
+
+Oluşturduğumuz yeni dosyaların içeriği;
+
+```php
+user.class.php dosyası:
+
+<?php
+
+class User{
+    var $firstname;
+    var $lastname;
+
+    function __construct($firstname= "", $lastname=""){
+        $this->firstname=$firstname;
+        $this->lastname=$lastname;
+    }
+    function __toString(){
+        return $this->firstname." ".$this->lastname."\n";
+    }
+}
+```
+
+```php
+serialize.php dosyası:
+
+<?php
+
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+
+//serialization işlemi
+$user = new User("Mehmet","INCE");
+
+$store_somewhere = serialize($user);
+
+echo $store_somewhere;
+```
+
+```php
+deserialize.php dosyası:
+
+<?php
+
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+
+$deserialize_str = 'O:4:"User":2:{s:9:"firstname";s:6:"Mehmet";s:8:"lastname";s:4:"INCE";}'; //serialize dosyasından elde ettiğimiz string'i burada kullanıyoruz.
+$user = unserialize($deserialize_str);
+
+echo $user;
+```
+
+Deserialization işlemini gerçekleştirdiğimizde başarıyla sonuca ulaşabildiğimizi buradaki kod çıktısı ile anlayabiliyoruz. Tekrardan ‘Mehmet INCE’ yi elde etmiş oluyoruz. 
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled%203.png)
+
+Burada aslında yaşananlar temel programlama dili çalışma mantığına dayanmaktadır. PHP Interpreter’i vermiş olduğumuz string ifadeyi kullanarak öncelikle ‘O’ ifadesi ile ‘User’ isimli sınıfı otomatik olarak buldu. Bu sınıfı bulabilmesi için de dosyaların aynı çalışma ortamında olması gerekmektedir. Sınıfı bulunca da tekrar ‘Mehmet INCE’ yi elde etmiş oldu. Burada her seferinde artık yeniden sınıf oluşturmaya ve aynı işlemleri yapmaya gerek kalmamış olmaktadır. Burada sıkça erişmemiz gereken şeyleri serialize edip bir yerde saklayabiliriz. (veritabanına insert edebiliriz). Saklayacağımız şey de serialize edilince string ifadeye dönüşmüş olur. 
+
+Programlama dillerinde magic metotlar bulunmaktadır. Bunlar programlama dili tarafından gerektiği takdirde otomatik olarak çağrılmakta ve kullanılmaktadır. Bu konuya PHP üzerinden bir örnek gösterelim. 
+
+```php
+<?php
+
+class User{
+    var $firstname;
+    var $lastname;
+
+    function __construct($firstname= "", $lastname=""){
+        $this->firstname=$firstname;
+        $this->lastname=$lastname;
+    }
+    function __toString(){
+        return $this->firstname." ".$this->lastname."\n";
+    }
+    function __destruct(){
+        echo "Object destruction: ".$this->firstname." ".$this->lastname."\n";
+    }
+}
+```
+
+```php
+php serialize.php
+```
+
+Görmüş olduğunuz üzere yeniden bir serialization işlemi gerçekleştirdiğimizde herhangi bir şekilde ‘__destruct’ fonksiyonunu çağırmasak bile bu fonksiyon çalıştırılacaktır. PHP burada bu sınıfı oluşturduktan sonra yani User sınıfı ile işi bittikten sonra __destruct() fonksiyonunu çağırmaktadır. Yani __destruct() fonksiyonu otomatik olarak çağrılmaktadır. 
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled%204.png)
+
+Şimdi de şöyle bir yapı düşünelim;
+
+```php
+deserialize.php dosyası:
+<?php
+
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+
+$deserialize_str = 'O:4:"User":2:{s:9:"firstname";s:6:"Mehmet";s:8:"lastname";s:4:"INCE";}';
+
+$user = unserialize($deserialize_str);
+```
+
+```php
+php deserialize.php
+```
+
+Nir sınıf için Serialization işleminde Deserialization işleminde de Interpreter tarafından  o sınıf oluşturulduğu için __destruct() fonksiyonu çağrılmaktadır. 
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled%205.png)
+
+Aynı zamanda başka bir fonksiyon daha bulunmaktadır. 
+
+```php
+//user.class.php dosyasına eklediğimiz kod.
+function __wakeup(){
+        echo "SINIF UYANDIRILDI !!!";
+    }
+```
+
+Şimdi de tekrar deserialization işlemini gerçekleştirdiğimizde önce __wakeup() fonksiyonu daha sonra __destruct() fonksiyonu çağrılmaktadır. Buradan da __wakeup() isimli magic metodun sınıf oluşturulurken çağrılan bir metot olduğunu anlamaktayız. Yani siz sınıf oluşturulurken arka planda başka şeyler yapmak istiyorsanız ve bunun için bir fonksiyon çağırmak istemiyorsanız yapacağınız şey __wakeup() fonksiyonunu tanımlamaktır. 
+
+```php
+php deserialization.php
+```
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled%206.png)
+
+Şimdi de şöyle bir  senaryoyu hayal edelim;
+
+Buradaki objeyi kendi tarafımızda taşımak yerine User’ın cookie’sine vererek buradaki string’i istediğimiz zaman kullanabiliriz. Browser bu değeri geri verecektir ve biz de bunu deserialize edebileceğiz. 
+
+```php
+serialize.php:
+<?php
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+//serialization işlemi
+$user = new User("Mehmet","INCE");
+$store_somewhere = serialize($user);
+$http->set_cookie("User", $store_somewhere);
+```
+
+Artık güvensiz bir kaynaktan aldığınız string’i deserialize etmeye başlıyorsunuz…
+
+```php
+deserialize.php:
+<?php
+
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+
+$deserialize_str = $payload; //UNTRUSTED SOURCE (Güvensiz Kaynak...)
+
+$user = unserialize($deserialize_str);
+
+#echo $user;
+```
+
+Yani  hikayenin geldiği nokta şudur ki PHP Framework’ü bizden aldığı bir veriyi unserialize ederse neler olacak?
+
+Bizim için şöyle bir imkan oluşacaktır;
+
+```php
+serialize.php:
+<?php
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+//serialization işlemi
+$user = new User("Mehmet","INCE");
+$store_somewhere = serialize($user);
+echo $store_somewhere;
+```
+
+```php
+php serialize.php
+```
+
+```php
+Oluşan sonuç:
+O:4:"User":2:{s:9:"firstname";s:6:"Mehmet";s:8:"lastname";s:4:"INCE";}
+Object destruction: Mehmet INCE
+```
+
+Burada oluşan string değerin sizin cookie’nize gelmiş gibi düşünelim. Burada örneğin User yerine MDISEC yazabiliriz. 
+
+```php
+deserialize.php:
+<?php
+
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+$payload = ""; //UNTRUSTED SOURCE
+$payload = 'O:4:"MDISEC":2:{s:9:"firstname";s:6:"Mehmet";s:8:"lastname";s:4:"INCE";}';
+$user = unserialize($payload);
+```
+
+Burada deserialization işlemini gerçekleştirdiğimizde yazdığımız yeni değerin uzunluğu eşleşmeyeceği için hata verecektir. 
+
+```php
+php deserialization.php
+```
+
+```php
+Çıktı:
+[ilker@cyberworld deserialization-course]$ php deserialize.php 
+PHP Warning:  unserialize(): Error at offset 9 of 72 bytes in /home/ilker/pentest/deserialization-course/deserialize.php on line 9
+```
+
+Bu yüzden o kısmı MDISEC ile uyuşacak şekilde 6 yapmalıyız. 
+
+```php
+deserialize.php:
+<?php
+
+require_once("user.class.php"); //bulunduğumuz yerden almasını istiyoruz.
+$payload = ""; //UNTRUSTED SOURCE
+$payload = 'O:6:"MDISEC":2:{s:9:"firstname";s:6:"Mehmet";s:8:"lastname";s:4:"INCE";}';
+$user = unserialize($payload);
+echo $user;
+```
+
+İlgili objeye erişmek istediğiniz an itibariyle hata almaktasınız. Çünkü MDISEC isimli bir sınıf bulamamaktadır. Demek ki burada web uygulaması size ‘User’ isimli bir sınıfı serialize edip göndermiş olsa bile siz bunu değiştirerek istediğiniz sınıfı başlatabilirsiniz. 
+
+```php
+php deserialize.php
+```
+
+```php
+Output:
+[ilker@cyberworld deserialization-course]$ php deserialize.php 
+PHP Fatal error:  Uncaught Error: Object of class __PHP_Incomplete_Class could not be converted to string in /home/ilker/pentest/deserialization-course/deserialize.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ilker/pentest/deserialization-course/deserialize.php on line 11
+```
+
+Bu kısım oldukça tehlikeli bir durumdur. Örneğin buradaki isim Mehmet yerine AHMET olabilir, bunu yazdığımızda olacakları görelim;
+
+```php
+eserialize.php dosyasında değiştirdiğimiz kısım: 
+$payload = 'O:4:"User":2:{s:9:"firstname";s:5:"AHMET";s:8:"lastname";s:4:"INCE";}';
+```
+
+```php
+php deserialize.php
+```
+
+Output:
+
+![Untitled](Web%20Security%200x0C%20Deserialization%20Zafiyetlerini%20An%20807152269cce4617a57cc81b06250dad/Untitled%207.png)
+
+Güvensiz bir kaynaktan aldığınız verileri doğrulamadığınız için bu şekilde sıkıntılar ortaya çıkabilmektedir. 
+
+Burada aynı çalışma ortamındaki (namespace) başka sınıflara da artık erişebilme yeteneğine sahipsiniz. User sınıfı yerine başka bir sınıf da olursa buna erişebilirsiniz. Başka bir sınıfta kritik işlemler yapııyorsa bu işlemleri çalıştırabileceğiniz için oldukça tehlikeli bir hale gelecektir bu durum.
