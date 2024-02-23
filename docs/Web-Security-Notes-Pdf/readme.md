@@ -70,9 +70,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   17. 0x11 | Authentication
       * [https://www.twitch.tv/videos/743634792](https://www.twitch.tv/videos/743634792)
   18. 0x12 | CS253 Sınavına Giriyor MDISEC
+      * [0x12 | CS253 Sınavına Giriyor MDISEC - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x12%20%20%7C%20CS253%20Sınavına%20Giriyor%20MDISEC/0x12%203d08c03a285a4d5e931128b3609b0698.md)
       * [https://www.twitch.tv/videos/748045222](https://www.twitch.tv/videos/748045222)
       * [https://www.youtube.com/watch?v=6QaJ59AMkDg](https://www.youtube.com/watch?v=6QaJ59AMkDg)
   19. 0x13 | Host Header Manipulations
+      * [0x13 | Host Header Manipulations - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x13%20%7C%20Host%20Header%20Manipulations/0x13%20ada5ae96539943db9d14955c71e3b77c.md)
       * [https://www.twitch.tv/videos/761496821](https://www.twitch.tv/videos/761496821)
       * [https://www.youtube.com/watch?v=I6LZ6e5O-Ao](https://www.youtube.com/watch?v=I6LZ6e5O-Ao)
   20. 0x14 | Back back back tick ^^
