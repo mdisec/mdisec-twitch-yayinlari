@@ -19,7 +19,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=CKHai0OW6BY](https://www.youtube.com/watch?v=CKHai0OW6BY)
   4. 0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır?
      * [0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/Bir%20Hacker’ın%20Gözünden%20Modern%20Web%20Nasıl%20Çalışır%20%3F%20%7C%20MDISEC%20Neler%20Anlattı%20%235.pdf)
-     * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454) - [**Yayın özeti belge**](docs/Web_Security_101/0x04_Bir_Hackerin_Gozunden_Web/README.md)
+     * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454)
      * [https://www.youtube.com/watch?v=3AgDSw0I89A](https://www.youtube.com/watch?v=3AgDSw0I89A)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
      * [https://www.twitch.tv/videos/620066004](https://www.twitch.tv/videos/620066004)
