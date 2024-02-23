@@ -5,16 +5,20 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
 ## Yayın ve Notlar kataloğu
 
-  1. 0x01 | SQL Injection'ı Bütünüyle Anlamak
+  1. 0x01 | SQL Injection'ı Bütünüyle Anlamak 
+     * [0x01 | SQL Injection'ı Bütünüyle Anlamak - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x01%20%7C%20SQL%20Injection’ı%20Bütünüyle%20Anlamak/0x01%20104201f95d914f67830bee663ffbdc7f.md)
      * [https://www.twitch.tv/videos/595111162](https://www.twitch.tv/videos/595111162)
      * [https://www.youtube.com/watch?v=WtHnT73NaaQ](https://www.youtube.com/watch?v=WtHnT73NaaQ)
   2. 0x02 | IDOR Insecure Direct Object Reference Zafiyetleri Hakkında Her şey
+     * [0x02 | IDOR Insecure Direct Object Reference Zafiyetleri Hakkında Her şey - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x02%20%20%7C%20IDOR%20Hakkında%20Her%20şey/0x02-IDOR.md)
      * [https://www.twitch.tv/videos/597782271](https://www.twitch.tv/videos/597782271)
      * [https://www.youtube.com/watch?v=TsJ2XPuGe1k](https://www.youtube.com/watch?v=TsJ2XPuGe1k)
   3. 0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti
+     * [0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/Session’ı%20ve%20CSRF%20Zafiyetini%20Anlamak%20&%20SameSite%20Cookie%20Önlemi%20%7C%20MDISEC%20Neler%20Anlattı%20%234.pdf)
      * [https://www.twitch.tv/videos/601669993](https://www.twitch.tv/videos/601669993)
      * [https://www.youtube.com/watch?v=CKHai0OW6BY](https://www.youtube.com/watch?v=CKHai0OW6BY)
   4. 0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır?
+     * [0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/Bir%20Hacker’ın%20Gözünden%20Modern%20Web%20Nasıl%20Çalışır%20%3F%20%7C%20MDISEC%20Neler%20Anlattı%20%235.pdf)
      * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454) - [**Yayın özeti belge**](docs/Web_Security_101/0x04_Bir_Hackerin_Gozunden_Web/README.md)
      * [https://www.youtube.com/watch?v=3AgDSw0I89A](https://www.youtube.com/watch?v=3AgDSw0I89A)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
@@ -24,29 +28,38 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
      * [https://www.youtube.com/watch?v=IfYyFMydLV4](https://www.youtube.com/watch?v=IfYyFMydLV4)
   7. 0x07 | XML external entity (XXE) Injection
+     * [0x07 | XML external entity (XXE) Injection - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XML%20Parserlar%20ve%20XML%20External%20Entity%20(XXE)%20Injection%20%7C%20MDISEC%20Neler%20Anlattı%20%236.pdf)
      * [https://www.twitch.tv/videos/625002543](https://www.twitch.tv/videos/625002543)
      * [https://www.youtube.com/watch?v=-BPnSQou8yw](https://www.youtube.com/watch?v=-BPnSQou8yw)
   8. 0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1
+     * [0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XSS%20Güvenlik%20Zafiyeti%20Hakkında%20Her%20Şey%20Part%20-%201%20%7C%20MDISEC%20Neler%20Anlattı%20%237.pdf) 
      * [https://www.twitch.tv/videos/631760884](https://www.twitch.tv/videos/631760884)
      * [https://www.youtube.com/watch?v=NFD3vZ-lIgI](https://www.youtube.com/watch?v=NFD3vZ-lIgI)
   9. 0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2
+     * [0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XSS%20Güvenlik%20Zafiyeti%20Serüvenine%20Devam%20Part-2%20%7C%20MDISEC%20Neler%20Anlattı%20%238.pdf)
      * [https://www.twitch.tv/videos/633696324](https://www.twitch.tv/videos/633696324)
      * [https://www.youtube.com/watch?v=xXbDhyKo9B8](https://www.youtube.com/watch?v=xXbDhyKo9B8)
   10. 0x0A | Web Security Academy'den Devam Ediyoruz
+      * [0x0A | Web Security Academy'den Devam Ediyoruz - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x0A%20%7C%20Web%20Security%20Academy'den%20Devam%20Ediyoruz%20-%20SQL%20Injection%20Lab%20Çözümleri/Web%20Security%200x0A%20Web%20Security%20Academy'den%20Devam%20E%205d98a1205cb7439db45c8e0570ab118e.md)
       * [https://www.twitch.tv/videos/647062163](https://www.twitch.tv/videos/647062163)
       * [https://www.youtube.com/watch?v=ebLgQiG7ACw](https://www.youtube.com/watch?v=ebLgQiG7ACw)
   11. 0x0B | Web Security Academy'de XSS Çözmeye Devam
+      * [0x0B | Web Security Academy'de XSS Çözmeye Devam - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x0B%20%7C%20Web%20Security%20Academy’de%20XSS%20Cozmeye%20Devam/Web%20Security%200x0B%20Web%20Security%20Academy’de%20XSS%20Cozm%20356d50d1b933477eb37796d3f6bc53d8.md)
       * [https://www.twitch.tv/videos/653702937](https://www.twitch.tv/videos/653702937)
       * [https://www.youtube.com/watch?v=Cy9qGc_A_Ic](https://www.youtube.com/watch?v=Cy9qGc_A_Ic)
   12. 0x0C | Deserialization Zafiyetlerini Anlamak
+      * [0x0C | Deserialization Zafiyetlerini Anlamak - Episode 1 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x0C%20%20%7C%20Deserialization%20Zafiyetlerini%20Anlamak%20Episode%201/0x0C%20807152269cce4617a57cc81b06250dad.md)
+      * [0x0C | Deserialization Zafiyetlerini Anlamak - Episode 2 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x0C%20%7C%20Deserialization%20Zafiyetlerini%20Anlamak%20Episode%202/0x0C%20Deserialization%20Zafiyetlerini%20Anlamak%20Episode%2078d04d91baaa44d0959227e5c55cbc59.md)
       * [https://www.twitch.tv/videos/667200179](https://www.twitch.tv/videos/667200179) - Episode 1
       * [https://www.twitch.tv/videos/667200155](https://www.twitch.tv/videos/667200155) - Episode 2
       * [https://www.youtube.com/watch?v=0Oj8FVDcpwU](https://www.youtube.com/watch?v=0Oj8FVDcpwU0) - Episode 1
       * [https://www.youtube.com/watch?v=wvNGCBDbENY](https://www.youtube.com/watch?v=wvNGCBDbENY) - Episode 2
   13. 0x0D | Deserialization Exploitation
+      * [0x0D | Deserialization Exploitation - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x0D%20%7C%20Deserialization%20Exploitation/0x0D%20e7c75cda4af14d9f8c7d57729ec14f3a.md)
       * [https://www.twitch.tv/videos/670847022](https://www.twitch.tv/videos/670847022)
       * [https://www.youtube.com/watch?v=kk43YwA6OFI](https://www.youtube.com/watch?v=kk43YwA6OFI)
   14. 0x0E | SSL Temelde Nedir ? HSTS
+      * [0x0E | SSL Temelde Nedir ? HSTS - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x0E%20%7C%20SSL%20Temelde%20Nedir%20-%20HSTS/0x0E%2075b658ad3df848cbac9efe8d8fe2eb9e.md)
       * [https://www.twitch.tv/videos/727300811](https://www.twitch.tv/videos/727300811)
       * [https://www.youtube.com/watch?v=XlgG-Aw2nos](https://www.youtube.com/watch?v=XlgG-Aw2nos)
   15. 0x0F | OS Command Injection
