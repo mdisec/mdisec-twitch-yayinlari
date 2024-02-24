@@ -77,7 +77,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [0x13 | Host Header Manipulations - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x13%20%7C%20Host%20Header%20Manipulations/0x13%20ada5ae96539943db9d14955c71e3b77c.md)
       * [https://www.twitch.tv/videos/761496821](https://www.twitch.tv/videos/761496821)
       * [https://www.youtube.com/watch?v=I6LZ6e5O-Ao](https://www.youtube.com/watch?v=I6LZ6e5O-Ao)
-  20. 0x14 | Back back back tick ^^
+  20. 0x14 | Business Vulnerabilities (Back back back tick ^^)
+      * [0x14 | Business Vulnerabilities **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x14%20%7C%20Business%20Logic%20Vulnerabilities%20(Back%20back%20back%20tick%20%5E%5E)/0x14.md)
       * [https://www.twitch.tv/videos/775545752](https://www.twitch.tv/videos/775545752)
       * [https://www.youtube.com/watch?v=NDPUSV802xY](https://www.youtube.com/watch?v=NDPUSV802xY)
   21. 0x15 | Yeni Burp Suite 2020.11 ve SSRF Giriş
