@@ -82,6 +82,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/775545752](https://www.twitch.tv/videos/775545752)
       * [https://www.youtube.com/watch?v=NDPUSV802xY](https://www.youtube.com/watch?v=NDPUSV802xY)
   21. 0x15 | Yeni Burp Suite 2020.11 ve SSRF Giriş
+      * [0x15 | Yeni Burp Suite 2020.11 ve SSRF Giriş - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x15%20%7C%20Yeni%20Burp%20Suite%202020.10%20ve%20SSRF%20Giriş/0x15.md)
       * [https://www.twitch.tv/videos/797189256](https://www.twitch.tv/videos/797189256)
       * [https://www.youtube.com/watch?v=5rbQaOepMls](https://www.youtube.com/watch?v=5rbQaOepMls)
   22. 0x16 | Server-Side Request Forgery Nedir?
