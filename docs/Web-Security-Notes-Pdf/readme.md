@@ -86,6 +86,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/797189256](https://www.twitch.tv/videos/797189256)
       * [https://www.youtube.com/watch?v=5rbQaOepMls](https://www.youtube.com/watch?v=5rbQaOepMls)
   22. 0x16 | Server-Side Request Forgery Nedir?
+      * [0x16 | Server-Side Request Forgery Nedir? **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x16%20%7C%20Server-Side%20Request%20Forgery%20Nedir/0x16%20Server-Side%20Request%20Forgery%20Nedir%20d3c4b2ebcb764d66b80606cea77bf5a5.md)
       * [https://www.twitch.tv/videos/807479042](https://www.twitch.tv/videos/807479042)
       * [https://www.youtube.com/watch?v=2ONduwyqYUA](https://www.youtube.com/watch?v=2ONduwyqYUA)
   23. 0x17 | Server-Side Template Injection Giriş - 1
