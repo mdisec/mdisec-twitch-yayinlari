@@ -32,7 +32,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/625002543](https://www.twitch.tv/videos/625002543)
      * [https://www.youtube.com/watch?v=-BPnSQou8yw](https://www.youtube.com/watch?v=-BPnSQou8yw)
   8. 0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1
-     * [0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XSS%20Güvenlik%20Zafiyeti%20Hakkında%20Her%20Şey%20Part%20-%201%20%7C%20MDISEC%20Neler%20Anlattı%20%237.pdf) 
+     * [0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x08%20%7C%20XSS%20Güvenlik%20Zafiyeti%20Hakkında%20Her%20Şey%20Part-1/0x08%20614d7d291ebe485c8a749b0367dcb928.md) 
      * [https://www.twitch.tv/videos/631760884](https://www.twitch.tv/videos/631760884)
      * [https://www.youtube.com/watch?v=NFD3vZ-lIgI](https://www.youtube.com/watch?v=NFD3vZ-lIgI)
   9. 0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2
