@@ -166,6 +166,13 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   37. 0x25 | Google CTF 2023 - Web Challenge UNDER-CONSTRUCTION
       * [https://www.twitch.tv/videos/1864268182](https://www.twitch.tv/videos/1864268182)
       * [https://www.youtube.com/watch?v=gYiygXH8A9M](https://www.youtube.com/watch?v=gYiygXH8A9M)
+  38. 0x26 | Kanlı-Canlı API Security ve Hacking
+      * [https://www.twitch.tv/videos/2000717193](https://www.twitch.tv/videos/2000717193)
+      * [https://www.youtube.com/watch?v=JvAx_uTbdFk](https://www.youtube.com/watch?v=JvAx_uTbdFk)
+  39. 0x27 | Yapay Zeka Kullanan Uygulamalara Yönelik Siber Saldırılar ve Prompt Injection
+      * [Twitch - Uzun Versiyon](https://www.twitch.tv/videos/2087876569)
+      * [https://www.twitch.tv/videos/2088494737](https://www.twitch.tv/videos/2088494737)
+      * [https://www.youtube.com/watch?v=G_Wxkon354A](https://www.youtube.com/watch?v=G_Wxkon354A)
 
 </details>
 
