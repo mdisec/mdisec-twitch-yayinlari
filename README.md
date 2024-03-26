@@ -164,8 +164,13 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   36. 0x24 | GraphQL Hacking diye bir şey aslında YOK. Kan-ter-gözyaşı var :)
       * [https://www.youtube.com/watch?v=T-XMN_p5m4A](https://www.youtube.com/watch?v=T-XMN_p5m4A)
   37. 0x25 | Google CTF 2023 - Web Challenge UNDER-CONSTRUCTION
-      * [https://www.twitch.tv/videos/1864268182](https://www.twitch.tv/videos/1864268182)
-      * [https://www.youtube.com/watch?v=gYiygXH8A9M](https://www.youtube.com/watch?v=gYiygXH8A9M)
+      * [https://www.twitch.tv/videos/1864268182](https://www.twitch.tv/videos/1864268182) Round 1
+      * [Kanlı-Canlı CTF Challenge 0x01 | Google CTF 2023 "UNDER-CONSTRUCTION" Tek Part](https://www.youtube.com/watch?v=gYiygXH8A9M) Round 1
+      * [https://www.twitch.tv/videos/1868972601](https://www.twitch.tv/videos/1868972601) Round 2
+      * [Kanlı-Canlı CTF Challenge 0x02 | Google CTF 2023 "Veggie Soda" Bölüm-1](https://www.youtube.com/watch?v=PnHObblS1ts)
+      * [Kanlı-Canlı CTF Challenge 0x02 | Google CTF 2023 "Veggie Soda" Bölüm-2](https://www.youtube.com/watch?v=abLd8SSYOLI)
+      * [Kanlı-Canlı CTF Challenge 0x02 | Google CTF 2023 "Veggie Soda" Bölüm-3](https://www.youtube.com/watch?v=a51aE_qj9HE)
+      * [Kanlı-Canlı CTF Challenge 0x02 | Google CTF 2023 "Veggie Soda" Bölüm-4](https://www.youtube.com/watch?v=ZIbSmXleBG4)
   38. 0x26 | Kanlı-Canlı API Security ve Hacking
       * [https://www.twitch.tv/videos/2000717193](https://www.twitch.tv/videos/2000717193)
       * [https://www.youtube.com/watch?v=JvAx_uTbdFk](https://www.youtube.com/watch?v=JvAx_uTbdFk)
