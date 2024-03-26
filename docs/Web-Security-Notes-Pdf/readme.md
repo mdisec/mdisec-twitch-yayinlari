@@ -14,11 +14,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/597782271](https://www.twitch.tv/videos/597782271)
      * [https://www.youtube.com/watch?v=TsJ2XPuGe1k](https://www.youtube.com/watch?v=TsJ2XPuGe1k)
   3. 0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti
-     * [0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/Session’ı%20ve%20CSRF%20Zafiyetini%20Anlamak%20&%20SameSite%20Cookie%20Önlemi%20%7C%20MDISEC%20Neler%20Anlattı%20%234.pdf)
+     * [0x03 | Session'ı ve CSRF Zafiyetini Anlamak. SameSite Cookie Önlemi E-ticareti Nasıl Yok Etti - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x03%20%20%7C%20Session’ı%20ve%20CSRF%20Zafiyetini%20Anlamak%20&%20SameSite%20Cookie%20Önlemi/0x03%20452c28b29ec0467283e5b06561ae63be.md)
      * [https://www.twitch.tv/videos/601669993](https://www.twitch.tv/videos/601669993)
      * [https://www.youtube.com/watch?v=CKHai0OW6BY](https://www.youtube.com/watch?v=CKHai0OW6BY)
   4. 0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır?
-     * [0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/Bir%20Hacker’ın%20Gözünden%20Modern%20Web%20Nasıl%20Çalışır%20%3F%20%7C%20MDISEC%20Neler%20Anlattı%20%235.pdf)
+     * [0x04 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x04%20%20%7C%20Bir%20Hacker’ın%20Gözünden%20Modern%20Web%20Nasıl%20Çalışır%20%3F/0x04%204d165a8660364c42a9c6e24c85bac508.md)
      * [https://www.twitch.tv/videos/615150454](https://www.twitch.tv/videos/615150454)
      * [https://www.youtube.com/watch?v=3AgDSw0I89A](https://www.youtube.com/watch?v=3AgDSw0I89A)
   5. 0x05 | HackerConf.Stream! Goygoy ve Akabinde Web Security Academy'e Dalış
@@ -28,11 +28,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
      * [https://www.youtube.com/watch?v=IfYyFMydLV4](https://www.youtube.com/watch?v=IfYyFMydLV4)
   7. 0x07 | XML external entity (XXE) Injection
-     * [0x07 | XML external entity (XXE) Injection - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XML%20Parserlar%20ve%20XML%20External%20Entity%20(XXE)%20Injection%20%7C%20MDISEC%20Neler%20Anlattı%20%236.pdf)
+     * [0x07 | XML external entity (XXE) Injection - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x07%20%20%7C%20XML%20Parserlar%20ve%20XML%20External%20Entity%20(XXE)%20Injection/0x07%20917a98c84a5f488a9c368d1849e78f6f.md)
      * [https://www.twitch.tv/videos/625002543](https://www.twitch.tv/videos/625002543)
      * [https://www.youtube.com/watch?v=-BPnSQou8yw](https://www.youtube.com/watch?v=-BPnSQou8yw)
   8. 0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1
-     * [0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XSS%20Güvenlik%20Zafiyeti%20Hakkında%20Her%20Şey%20Part%20-%201%20%7C%20MDISEC%20Neler%20Anlattı%20%237.pdf) 
+     * [0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x08%20%7C%20XSS%20Güvenlik%20Zafiyeti%20Hakkında%20Her%20Şey%20Part-1/0x08%20614d7d291ebe485c8a749b0367dcb928.md) 
      * [https://www.twitch.tv/videos/631760884](https://www.twitch.tv/videos/631760884)
      * [https://www.youtube.com/watch?v=NFD3vZ-lIgI](https://www.youtube.com/watch?v=NFD3vZ-lIgI)
   9. 0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2
@@ -90,6 +90,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/807479042](https://www.twitch.tv/videos/807479042)
       * [https://www.youtube.com/watch?v=2ONduwyqYUA](https://www.youtube.com/watch?v=2ONduwyqYUA)
   23. 0x17 | Server-Side Template Injection Giriş - 1
+      * [0x17 | Server-Side Template Injection Giriş - 1 **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x17%20%20%7C%20Server-Side%20Template%20Injection%20Giriş%20-%201/0x17%203128a6c16c47475ea6a66d92718411d9.md)
       * [https://www.twitch.tv/videos/815510114](https://www.twitch.tv/videos/815510114)
       * [https://www.youtube.com/watch?v=w-GbdWzss0g](https://www.youtube.com/watch?v=w-GbdWzss0g)
   24. 0x18 | Directory Traversal ../../etc/passwd
