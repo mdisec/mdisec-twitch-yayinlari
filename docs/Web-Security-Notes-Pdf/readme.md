@@ -28,7 +28,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/622045050](https://www.twitch.tv/videos/622045050)
      * [https://www.youtube.com/watch?v=IfYyFMydLV4](https://www.youtube.com/watch?v=IfYyFMydLV4)
   7. 0x07 | XML external entity (XXE) Injection
-     * [0x07 | XML external entity (XXE) Injection - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XML%20Parserlar%20ve%20XML%20External%20Entity%20(XXE)%20Injection%20%7C%20MDISEC%20Neler%20Anlattı%20%236.pdf)
+     * [0x07 | XML external entity (XXE) Injection - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x07%20%20%7C%20XML%20Parserlar%20ve%20XML%20External%20Entity%20(XXE)%20Injection/0x07%20917a98c84a5f488a9c368d1849e78f6f.md)
      * [https://www.twitch.tv/videos/625002543](https://www.twitch.tv/videos/625002543)
      * [https://www.youtube.com/watch?v=-BPnSQou8yw](https://www.youtube.com/watch?v=-BPnSQou8yw)
   8. 0x08 | XSS Güvenlik Zafiyeti Hakkında Her Şey Part - 1
