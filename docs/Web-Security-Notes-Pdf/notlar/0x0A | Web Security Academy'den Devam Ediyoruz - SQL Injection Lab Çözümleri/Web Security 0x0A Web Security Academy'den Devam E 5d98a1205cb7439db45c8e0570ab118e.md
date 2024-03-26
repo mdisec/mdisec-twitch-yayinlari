@@ -265,7 +265,7 @@ mdisec' UNION SELECT column_name,NULL FROM all_tab_columns WHERE table_name='USE
 
 ![Untitled](Web%20Security%200x0A%20Web%20Security%20Academy'den%20Devam%20E%205d98a1205cb7439db45c8e0570ab118e/Untitled%2030.png)
 
-```python
+```sql
 Tablo adı ve Kolon isimlerimizi not alıyoruz:
 tablo: 
 **USERS_XEDOYY
