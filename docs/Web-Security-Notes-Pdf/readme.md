@@ -90,6 +90,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/807479042](https://www.twitch.tv/videos/807479042)
       * [https://www.youtube.com/watch?v=2ONduwyqYUA](https://www.youtube.com/watch?v=2ONduwyqYUA)
   23. 0x17 | Server-Side Template Injection Giriş - 1
+      * [0x17 | Server-Side Template Injection Giriş - 1 **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x17%20%20%7C%20Server-Side%20Template%20Injection%20Giriş%20-%201/0x17%203128a6c16c47475ea6a66d92718411d9.md)
       * [https://www.twitch.tv/videos/815510114](https://www.twitch.tv/videos/815510114)
       * [https://www.youtube.com/watch?v=w-GbdWzss0g](https://www.youtube.com/watch?v=w-GbdWzss0g)
   24. 0x18 | Directory Traversal ../../etc/passwd
