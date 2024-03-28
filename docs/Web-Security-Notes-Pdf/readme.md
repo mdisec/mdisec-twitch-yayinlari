@@ -36,7 +36,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/631760884](https://www.twitch.tv/videos/631760884)
      * [https://www.youtube.com/watch?v=NFD3vZ-lIgI](https://www.youtube.com/watch?v=NFD3vZ-lIgI)
   9. 0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2
-     * [0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/XSS%20Güvenlik%20Zafiyeti%20Serüvenine%20Devam%20Part-2%20%7C%20MDISEC%20Neler%20Anlattı%20%238.pdf)
+     * [0x09 | XSS Güvenlik Zafiyeti Serüvenine Devam Part 2 - **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x09%20%7C%20XSS%20Güvenlik%20Zafiyeti%20Serüvenine%20Devam%20Part-2/0x09%20770e9a14727f44d080ea40a453968369.md)
      * [https://www.twitch.tv/videos/633696324](https://www.twitch.tv/videos/633696324)
      * [https://www.youtube.com/watch?v=xXbDhyKo9B8](https://www.youtube.com/watch?v=xXbDhyKo9B8)
   10. 0x0A | Web Security Academy'den Devam Ediyoruz
