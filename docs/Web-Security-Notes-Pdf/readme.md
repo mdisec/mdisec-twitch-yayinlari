@@ -94,7 +94,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/815510114](https://www.twitch.tv/videos/815510114)
       * [https://www.youtube.com/watch?v=w-GbdWzss0g](https://www.youtube.com/watch?v=w-GbdWzss0g)
   24. 0x18 | Directory Traversal ../../etc/passwd
+<<<<<<< HEAD
       * [0x18 Directory Traversal - **Makale**](notlar/0x18%20%7C%20Directory%20Traversal/0x18%20f42ee877b4964ce494d8ba9e757caa07.md)
+=======
+      * [0x18 Directory Traversal ../../etc/passwd - **Makale**](notlar/0x18%20%7C%20Directory%20Traversal/0x18%20f42ee877b4964ce494d8ba9e757caa07.md)
+>>>>>>> parent of da6101d (Update readme.md)
       * [https://www.twitch.tv/videos/839611874](https://www.twitch.tv/videos/839611874)
       * [https://www.youtube.com/watch?v=wNMyiqixL1g](https://www.youtube.com/watch?v=wNMyiqixL1g)
   25. 0x19 | Source-Code Review SonarSource #CodeChallenge 2020 !
