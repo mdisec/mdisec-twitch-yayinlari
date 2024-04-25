@@ -597,6 +597,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=IPrRccHlgLM](https://www.youtube.com/watch?v=IPrRccHlgLM)
   6. Sizce bu kod güvenli mi ? Harika bir Express.JS Password Reset Zafiyeti Challenge'ına denk geldim.
      * [https://www.youtube.com/watch?v=pdhIX-vOTgw](https://www.youtube.com/watch?v=pdhIX-vOTgw)
+  7. Regex Güvenlik Açığı Nasıl Oluşur ? NFA ve DFA automata'nın önemi ! Django CVE-2024-27351 Zafiyeti
+     * [https://www.youtube.com/watch?v=hPdcpiRhoy4](https://www.youtube.com/watch?v=hPdcpiRhoy4)
   
 </details>
 
