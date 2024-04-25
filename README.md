@@ -634,4 +634,13 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   * Part - 2 [https://www.twitch.tv/videos/2116227485](https://www.twitch.tv/videos/2116227485)
 </details>
 
+<details>
+  <summary>Canlı yayında Güvenli Kod Geliştirme Challenge'ı</summary>
 
+  Site adresi: https://www.secdim.com
+
+  1. XSS, Path Traversal ve SSRF
+     * [https://www.youtube.com/watch?v=hrj1_-RJpn0](https://www.youtube.com/watch?v=hrj1_-RJpn0)
+  2. Command Injection ve Python
+     * [https://www.youtube.com/watch?v=68d-HSkz0Zg](https://www.youtube.com/watch?v=68d-HSkz0Zg)
+</details>
