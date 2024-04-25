@@ -579,4 +579,21 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=UknK5pPj6-c](https://www.youtube.com/watch?v=UknK5pPj6-c)
      
 </details>
+  
+<details>
+  <summary>Offstream Günlükleri</summary>
 
+  1. CVE-2023-50164: Apache Struts Dosya Yükleme Zafiyeti Nedir ?
+    * [https://www.youtube.com/watch?v=LXLt-DSgonE](https://www.youtube.com/watch?v=LXLt-DSgonE)
+  2. The 'PHP Hack': BCrypt Hash Güvenlik Zafiyetinin Teknik Taktik Analizi [CVE-2023-0567]
+    * [https://www.youtube.com/watch?v=8XzyXRZ157Y](https://www.youtube.com/watch?v=8XzyXRZ157Y)
+  3. SQL Injection Gerçekte Nasıl Engelleniyor ? ORM kullanmak her zaman güvenli mi ?
+    * [https://www.youtube.com/watch?v=x3He68p6b1E](https://www.youtube.com/watch?v=x3He68p6b1E)
+  4. Versiyon Kontrol Sistemleri (Gitlab) Nasıl Hacklenir ? CVE-2023-23946 Git Zafiyeti Detaylı Analizi
+    * [https://www.youtube.com/watch?v=i7Hlrcf7BHc](https://www.youtube.com/watch?v=i7Hlrcf7BHc)
+  5. Yapay Zeka Servislerinde Güvenlik Açıkları Var Mı ? PyTorch Zafiyeti Detaylı Analizi CVE-2023-43654
+    * [https://www.youtube.com/watch?v=IPrRccHlgLM](https://www.youtube.com/watch?v=IPrRccHlgLM)
+  6. Sizce bu kod güvenli mi ? Harika bir Express.JS Password Reset Zafiyeti Challenge'ına denk geldim.
+    * [https://www.youtube.com/watch?v=pdhIX-vOTgw](https://www.youtube.com/watch?v=pdhIX-vOTgw)
+  
+</details>
