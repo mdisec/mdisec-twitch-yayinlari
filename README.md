@@ -597,3 +597,13 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=pdhIX-vOTgw](https://www.youtube.com/watch?v=pdhIX-vOTgw)
   
 </details>
+
+<details>
+  <summary>MDI Experience</summary>
+  1. Özgür Alp ile Bug Bounty ve API Security Üzerine (@ozguralp)
+  
+</details>
+
+
+
+
