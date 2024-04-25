@@ -614,8 +614,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 </details>
 
 <details>
-  <summary>CodeBreakers: From Dev to Hacker with [@usirin](https://www.twitter.com/usirin)</summary>
-
+  <summary>CodeBreakers</summary> 
+  
+  From Dev to Hacker with [usirin](https://www.twitter.com/usirin)
+  
   1. Javascript'e Bir de Hacker Gözünden Bakmak
      * [https://www.youtube.com/watch?v=ZQQobajgv2U](https://www.youtube.com/watch?v=ZQQobajgv2U)
   2. Deep Merge & Prototype Pollution Nedir ?
@@ -624,6 +626,12 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=6ikWMx3lz98](https://www.youtube.com/watch?v=6ikWMx3lz98)
   4. Javascript Dünyasında Backdoor \w @usirin
      * [https://www.youtube.com/watch?v=5Ggl6vz4PV4](https://www.youtube.com/watch?v=5Ggl6vz4PV4)
+  5. JavaScript En Güzel Hedeflerden \w @usirin
+     * [https://www.youtube.com/watch?v=g44Y40SBASM](https://www.youtube.com/watch?v=g44Y40SBASM)
+    
+  Yayınların tam hali
+  * Part - 1 [https://www.twitch.tv/videos/2096493610](https://www.twitch.tv/videos/2096493610)
+  * Part - 2 [https://www.twitch.tv/videos/2116227485](https://www.twitch.tv/videos/2116227485)
 </details>
 
 
