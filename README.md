@@ -357,7 +357,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   2. 0x02 | PRODAFT Threat Intel: Conti Ransomware Group Analysis with Ege Balcı
      * [https://www.twitch.tv/videos/1220323746](https://www.twitch.tv/videos/1220323746)
      * [https://www.youtube.com/watch?v=HnUDdA6SHaU](https://www.youtube.com/watch?v=HnUDdA6SHaU)
-
+  3. 0x03 | FBI, NCA ve EUROPOL ile ortaklaşa gerçekleştirilen LOCKBIT ve OpCronos Operasyonuna Dair Her Şey
+     * [https://www.twitch.tv/videos/2087032226](https://www.twitch.tv/videos/2087032226)
+     * [https://www.youtube.com/watch?v=G4WeE_1Djds](https://www.youtube.com/watch?v=G4WeE_1Djds)
      
 </details>
 
@@ -601,10 +603,27 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 <details>
   <summary>MDI Experience</summary>
   
-  1. Özgür Alp ile Bug Bounty ve API Security Üzerine * [@ozguralp](https://github.com/ozguralp)
-  
+  1. Özgür Alp ile Bug Bounty ve API Security Üzerine
+     * [https://www.youtube.com/watch?v=AR8SrnT_OG8](https://www.youtube.com/watch?v=AR8SrnT_OG8)
+     * [https://www.twitch.tv/videos/1725427494](https://www.twitch.tv/videos/1725427494)
+  2. Ayşe AKTAĞ | Siber Güvenlik'te Kariyer
+     * [https://www.youtube.com/watch?v=AjhmFX52OzQ](https://www.youtube.com/watch?v=AjhmFX52OzQ)
+  3. Semih Gelişli Kimdir ? Siber Güvenlik Üzerine Sohbet
+     * [https://www.youtube.com/watch?v=sRWAuN8MqJM](https://www.youtube.com/watch?v=sRWAuN8MqJM)
+     * [https://www.twitch.tv/videos/2102209356](https://www.twitch.tv/videos/2102209356)
 </details>
 
+<details>
+  <summary>CodeBreakers: From Dev to Hacker with [@usirin](https://www.twitter.com/usirin)</summary>
 
+  1. Javascript'e Bir de Hacker Gözünden Bakmak
+     * [https://www.youtube.com/watch?v=ZQQobajgv2U](https://www.youtube.com/watch?v=ZQQobajgv2U)
+  2. Deep Merge & Prototype Pollution Nedir ?
+     * [https://www.youtube.com/watch?v=u2ENVOSlyTU](https://www.youtube.com/watch?v=u2ENVOSlyTU)
+  3. @usirin Neler Öğrendi ? Genel Değerlendirme
+     * [https://www.youtube.com/watch?v=6ikWMx3lz98](https://www.youtube.com/watch?v=6ikWMx3lz98)
+  4. Javascript Dünyasında Backdoor \w @usirin
+     * [https://www.youtube.com/watch?v=5Ggl6vz4PV4](https://www.youtube.com/watch?v=5Ggl6vz4PV4)
+</details>
 
 
