@@ -357,7 +357,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   2. 0x02 | PRODAFT Threat Intel: Conti Ransomware Group Analysis with Ege Balcı
      * [https://www.twitch.tv/videos/1220323746](https://www.twitch.tv/videos/1220323746)
      * [https://www.youtube.com/watch?v=HnUDdA6SHaU](https://www.youtube.com/watch?v=HnUDdA6SHaU)
-
+  3. 0x03 | FBI, NCA ve EUROPOL ile ortaklaşa gerçekleştirilen LOCKBIT ve OpCronos Operasyonuna Dair Her Şey
+     * [https://www.twitch.tv/videos/2087032226](https://www.twitch.tv/videos/2087032226)
+     * [https://www.youtube.com/watch?v=G4WeE_1Djds](https://www.youtube.com/watch?v=G4WeE_1Djds)
      
 </details>
 
@@ -579,4 +581,68 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=UknK5pPj6-c](https://www.youtube.com/watch?v=UknK5pPj6-c)
      
 </details>
+  
+<details>
+  <summary>Offstream Günlükleri</summary>
 
+  1. CVE-2023-50164: Apache Struts Dosya Yükleme Zafiyeti Nedir ?
+     * [https://www.youtube.com/watch?v=LXLt-DSgonE](https://www.youtube.com/watch?v=LXLt-DSgonE)
+  2. The 'PHP Hack': BCrypt Hash Güvenlik Zafiyetinin Teknik Taktik Analizi [CVE-2023-0567]
+     * [https://www.youtube.com/watch?v=8XzyXRZ157Y](https://www.youtube.com/watch?v=8XzyXRZ157Y)
+  3. SQL Injection Gerçekte Nasıl Engelleniyor ? ORM kullanmak her zaman güvenli mi ?
+     * [https://www.youtube.com/watch?v=x3He68p6b1E](https://www.youtube.com/watch?v=x3He68p6b1E)
+  4. Versiyon Kontrol Sistemleri (Gitlab) Nasıl Hacklenir ? CVE-2023-23946 Git Zafiyeti Detaylı Analizi
+     * [https://www.youtube.com/watch?v=i7Hlrcf7BHc](https://www.youtube.com/watch?v=i7Hlrcf7BHc)
+  5. Yapay Zeka Servislerinde Güvenlik Açıkları Var Mı ? PyTorch Zafiyeti Detaylı Analizi CVE-2023-43654
+     * [https://www.youtube.com/watch?v=IPrRccHlgLM](https://www.youtube.com/watch?v=IPrRccHlgLM)
+  6. Sizce bu kod güvenli mi ? Harika bir Express.JS Password Reset Zafiyeti Challenge'ına denk geldim.
+     * [https://www.youtube.com/watch?v=pdhIX-vOTgw](https://www.youtube.com/watch?v=pdhIX-vOTgw)
+  7. Regex Güvenlik Açığı Nasıl Oluşur ? NFA ve DFA automata'nın önemi ! Django CVE-2024-27351 Zafiyeti
+     * [https://www.youtube.com/watch?v=hPdcpiRhoy4](https://www.youtube.com/watch?v=hPdcpiRhoy4)
+  
+</details>
+
+<details>
+  <summary>MDI Experience</summary>
+  
+  1. Özgür Alp ile Bug Bounty ve API Security Üzerine
+     * [https://www.youtube.com/watch?v=AR8SrnT_OG8](https://www.youtube.com/watch?v=AR8SrnT_OG8)
+     * [https://www.twitch.tv/videos/1725427494](https://www.twitch.tv/videos/1725427494)
+  2. Ayşe AKTAĞ | Siber Güvenlik'te Kariyer
+     * [https://www.youtube.com/watch?v=AjhmFX52OzQ](https://www.youtube.com/watch?v=AjhmFX52OzQ)
+  3. Semih Gelişli Kimdir ? Siber Güvenlik Üzerine Sohbet
+     * [https://www.youtube.com/watch?v=sRWAuN8MqJM](https://www.youtube.com/watch?v=sRWAuN8MqJM)
+     * [https://www.twitch.tv/videos/2102209356](https://www.twitch.tv/videos/2102209356)
+</details>
+
+<details>
+  <summary>CodeBreakers</summary> 
+  
+  From Dev to Hacker with [usirin](https://www.twitter.com/usirin)
+  
+  1. Javascript'e Bir de Hacker Gözünden Bakmak
+     * [https://www.youtube.com/watch?v=ZQQobajgv2U](https://www.youtube.com/watch?v=ZQQobajgv2U)
+  2. Deep Merge & Prototype Pollution Nedir ?
+     * [https://www.youtube.com/watch?v=u2ENVOSlyTU](https://www.youtube.com/watch?v=u2ENVOSlyTU)
+  3. @usirin Neler Öğrendi ? Genel Değerlendirme
+     * [https://www.youtube.com/watch?v=6ikWMx3lz98](https://www.youtube.com/watch?v=6ikWMx3lz98)
+  4. Javascript Dünyasında Backdoor \w @usirin
+     * [https://www.youtube.com/watch?v=5Ggl6vz4PV4](https://www.youtube.com/watch?v=5Ggl6vz4PV4)
+  5. JavaScript En Güzel Hedeflerden \w @usirin
+     * [https://www.youtube.com/watch?v=g44Y40SBASM](https://www.youtube.com/watch?v=g44Y40SBASM)
+    
+  Yayınların tam hali
+  * Part - 1 [https://www.twitch.tv/videos/2096493610](https://www.twitch.tv/videos/2096493610)
+  * Part - 2 [https://www.twitch.tv/videos/2116227485](https://www.twitch.tv/videos/2116227485)
+</details>
+
+<details>
+  <summary>Canlı yayında Güvenli Kod Geliştirme Challenge'ı</summary>
+
+  Site adresi: https://www.secdim.com
+
+  1. XSS, Path Traversal ve SSRF
+     * [https://www.youtube.com/watch?v=hrj1_-RJpn0](https://www.youtube.com/watch?v=hrj1_-RJpn0)
+  2. Command Injection ve Python
+     * [https://www.youtube.com/watch?v=68d-HSkz0Zg](https://www.youtube.com/watch?v=68d-HSkz0Zg)
+</details>
