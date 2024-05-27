@@ -105,10 +105,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/897024665](https://www.twitch.tv/videos/897024665)
       * [https://www.youtube.com/watch?v=R8K6e-oTmwo](https://www.youtube.com/watch?v=R8K6e-oTmwo)
   27. 0x1B | OAuth Zafiyetleri Reloaded
-      * [0x1B | OAuth Zafiyetleri Reloaded](/docs/Web-Security-Notes-Pdf/notlar/0x1B%20%7C%20OAuth%20Zafiyetleri%20Reloaded/0x1B%2007e2b7838da744a287f5d440ea7848a1.md)
+      * [0x1B | OAuth Zafiyetleri Reloaded **Makale**](/docs/Web-Security-Notes-Pdf/notlar/0x1B%20%7C%20OAuth%20Zafiyetleri%20Reloaded/0x1B%2007e2b7838da744a287f5d440ea7848a1.md)
       * [https://www.twitch.tv/videos/899537119](https://www.twitch.tv/videos/899537119)
       * [https://www.youtube.com/watch?v=scs6PJ8qMuw](https://www.youtube.com/watch?v=scs6PJ8qMuw)
   28. 0x1C | Web Cache Nedir ? Web Cache Poisoning Zafiyeti
+      * [0x1C | Web Cache Nedir ? Web Cache Poisoning Zafiyeti **Makale**](notlar/0x1C%20%7C%20Web%20Cache%20Nedir%20%3F%20Web%20cache%20poisoning%20zafiyeti/0x1C%20dbd41e58297e48eebc915c8d3492e66d.md)
       * [https://www.twitch.tv/videos/924318160](https://www.twitch.tv/videos/924318160)
       * [https://www.youtube.com/watch?v=U5bx4ZXdmRI](https://www.youtube.com/watch?v=U5bx4ZXdmRI)
   29. 0x1D | Burp DOM Invader
