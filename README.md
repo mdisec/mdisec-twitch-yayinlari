@@ -178,7 +178,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [Twitch - Uzun Versiyon](https://www.twitch.tv/videos/2087876569)
       * [https://www.twitch.tv/videos/2088494737](https://www.twitch.tv/videos/2088494737)
       * [https://www.youtube.com/watch?v=G_Wxkon354A](https://www.youtube.com/watch?v=G_Wxkon354A)
-
+  40. Canlı yayında Güvenlik Zafiyeti (CVE) Analizi yaparken öğrencisine rastlayan MDISEC ?!
+      * [https://www.twitch.tv/videos/2188463558](https://www.twitch.tv/videos/2188463558)
+      * [https://www.youtube.com/watch?v=fAFFtc4UBf0](https://www.youtube.com/watch?v=fAFFtc4UBf0)
 </details>
 
 <details>
