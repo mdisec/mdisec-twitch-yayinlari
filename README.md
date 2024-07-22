@@ -178,9 +178,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [Twitch - Uzun Versiyon](https://www.twitch.tv/videos/2087876569)
       * [https://www.twitch.tv/videos/2088494737](https://www.twitch.tv/videos/2088494737)
       * [https://www.youtube.com/watch?v=G_Wxkon354A](https://www.youtube.com/watch?v=G_Wxkon354A)
-  40. Canlı yayında Güvenlik Zafiyeti (CVE) Analizi yaparken öğrencisine rastlayan MDISEC ?!
+  40. 0x28 | Canlı yayında Güvenlik Zafiyeti (CVE) Analizi yaparken öğrencisine rastlayan MDISEC ?!
       * [https://www.twitch.tv/videos/2188463558](https://www.twitch.tv/videos/2188463558)
       * [https://www.youtube.com/watch?v=fAFFtc4UBf0](https://www.youtube.com/watch?v=fAFFtc4UBf0)
+   
 </details>
 
 <details>
@@ -603,6 +604,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=hPdcpiRhoy4](https://www.youtube.com/watch?v=hPdcpiRhoy4)
   8. Siber Güvenlik alanında kendini nasıl geliştirebilirsin. Vulnerability Researcher'ın Sabah Rutini !
      * [https://www.youtube.com/watch?v=60Z0k1Osxnc](https://www.youtube.com/watch?v=60Z0k1Osxnc)
+  9. Kritik bir açık buldun ? Peki ya sonra. CVD (Coordinated Vuln Disclosure) Dünyasına Dair Gerçekler !
+     * [https://www.youtube.com/watch?v=VlDFkDJSjZg](https://www.youtube.com/watch?v=VlDFkDJSjZg)
   
 </details>
 
