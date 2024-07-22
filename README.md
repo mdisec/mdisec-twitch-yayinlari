@@ -650,3 +650,18 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   2. Command Injection ve Python
      * [https://www.youtube.com/watch?v=68d-HSkz0Zg](https://www.youtube.com/watch?v=68d-HSkz0Zg)
 </details>
+
+<details>
+  <summary>Golang For Hackers Türkçe</summary>
+
+  Github reposu: [https://github.com/mdisec/golang-for-hackers-turkish-edition](https://github.com/mdisec/golang-for-hackers-turkish-edition)
+  
+  1. 0x01 | Golang For Hackers - Hellooooooo !
+     * [https://www.youtube.com/watch?v=jR683fqYVOo](https://www.youtube.com/watch?v=jR683fqYVOo)
+     * [https://www.twitch.tv/videos/1143860097](https://www.twitch.tv/videos/1143860097)
+     * [0x01 Lecture Notes](lecturenotes/0x01.md)
+  2. 0x02 | Golang For Hackers - Show Must "Go" on !
+     * [https://www.youtube.com/watch?v=pd1KdCinFA4](https://www.youtube.com/watch?v=pd1KdCinFA4)
+     * [https://www.twitch.tv/videos/1150652332](https://www.twitch.tv/videos/1150652332)
+     * [0x02 Lecture Notes](lecturenotes/0x02.md)
+</details>
