@@ -235,10 +235,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   <summary>Mobile Security</summary>
 
   1. 0x01 | Mobile Security Android Temelleri /w Ahmet Bilal Can @0xabc0
-     * [https://www.twitch.tv/videos/911212809](https://www.twitch.tv/videos/911212809)
+     * [https://www.twitch.tv/videos/911365817](https://www.twitch.tv/videos/911365817)
      * [https://www.youtube.com/watch?v=LZUo09l441s](https://www.youtube.com/watch?v=LZUo09l441s)
   2. 0x02 | App Dev Serisi Part 2 /w Ahmet Bilal Can @0xabc0
-     * [https://www.twitch.tv/videos/916604981](https://www.twitch.tv/videos/916604981)
+     * [https://www.twitch.tv/videos/916823813](https://www.twitch.tv/videos/916823813)
      * [https://www.youtube.com/watch?v=GQ7bwUOmVqk](https://www.youtube.com/watch?v=GQ7bwUOmVqk)
 
 </details>
