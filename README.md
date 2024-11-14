@@ -668,3 +668,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/1150652332](https://www.twitch.tv/videos/1150652332)
      * [0x02 Lecture Notes](lecturenotes/0x02.md)
 </details>
+
+<details>
+  <summary>SOME (<strong>S</strong>emih Gelişli, <strong>O</strong>zan Olalı, <strong>ME</strong>hmet İnce)</summary>
+  
+  1. SOME Bölüm 1 - Merhaba Dünya / Semih Gelişli, Ozan Olalı ve Mehmet İnce
+     * [https://www.twitch.tv/videos/2300992063](https://www.twitch.tv/videos/2300992063)
+</details>
