@@ -674,4 +674,16 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   
   1. SOME Bölüm 1 - Merhaba Dünya / Semih Gelişli, Ozan Olalı ve Mehmet İnce
      * [https://www.twitch.tv/videos/2300992063](https://www.twitch.tv/videos/2300992063)
+     * [https://www.youtube.com/watch?v=LqB7gatEMQs](https://www.youtube.com/watch?v=LqB7gatEMQs)
+     <details>
+       <summary>Konular</summary>
+       
+        - Ozan ve mycompany[.]org hikayesinin devamı.
+           - (mycompany[.]org'un hikayesi: [https://www.youtube.com/watch?v=4IX6gvDe2D0](https://www.youtube.com/watch?v=4IX6gvDe2D0))
+        - Global etkinliklerde konuşmacı olmak ?
+        - Siber güvenlik 20 yıldır aslında aynı! Örnek: "AI Modellerinin Getirdiği Risk ?!"
+        - Yapay Zeka tüm dünyayı değiştirdi tamam! ama şahsi olarak günlük iş hayatınızda neyi değiştirdi ?
+        - Third party kütüphaneler üzerinden yapılan saldırılar ve güvenlik nasıl sağlanır ?
+        - Ofansif Güvenlik alanındaki open-source araç sayısı neden çok daha fazla ?
+     </details>
 </details>
