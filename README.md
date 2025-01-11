@@ -449,7 +449,10 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   29. 0x1D | ChatGPT vs Hacker ! SonarSource Kaynak Kod Analizi ile Zafiyet Tespiti Challenge'ı | Part 3
       * [https://www.twitch.tv/videos/1709509186](https://www.twitch.tv/videos/1709509186)
       * [https://www.youtube.com/watch?v=FKP2RGHDauw](https://www.youtube.com/watch?v=FKP2RGHDauw)
-
+  30. 0x1E | [<strong>Öğrencilere Özel</strong>] Siber Güvenlik uzmanlığının geleceği: Yapay Zeka çağında işsiz mi kalacağız ?
+      * [https://www.twitch.tv/videos/2349683494](https://www.twitch.tv/videos/2349683494)
+      * [https://www.youtube.com/watch?v=TTWipA60PKU](https://www.youtube.com/watch?v=TTWipA60PKU)
+  
 
 </details>
 
