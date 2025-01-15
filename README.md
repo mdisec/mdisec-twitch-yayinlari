@@ -609,6 +609,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=60Z0k1Osxnc](https://www.youtube.com/watch?v=60Z0k1Osxnc)
   9. Kritik bir açık buldun ? Peki ya sonra. CVD (Coordinated Vuln Disclosure) Dünyasına Dair Gerçekler !
      * [https://www.youtube.com/watch?v=VlDFkDJSjZg](https://www.youtube.com/watch?v=VlDFkDJSjZg)
+ 10. MDI'ın Mutfağından! 2024 yılından bir Remote Code Execution Zafiyeti Analizi ve 2025 Yılı Duyuruları
+     * [https://www.youtube.com/watch?v=-v428cGlMjE](https://www.youtube.com/watch?v=-v428cGlMjE)
   
 </details>
 
@@ -689,4 +691,22 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
         - Third party kütüphaneler üzerinden yapılan saldırılar ve güvenlik nasıl sağlanır ?
         - Ofansif Güvenlik alanındaki open-source araç sayısı neden çok daha fazla ?
      </details>
+</details>
+
+<details>
+  <summary>mycve[.]com</summary>
+   
+  1. 0x01 | mycve[.]com Projesine Giriş Merhaba Dünya
+     
+     * [https://www.youtube.com/watch?v=_jzq7SEBBYM](https://www.youtube.com/watch?v=_jzq7SEBBYM)
+</details>
+
+---
+
+<details>
+  <summary>Yol</summary>
+  
+  * Niyazi Koyuncu - Yol 2016©
+    
+    [![Watch the video](https://img.youtube.com/vi/OR2Xj1VzLm4/maxresdefault.jpg)](https://youtu.be/OR2Xj1VzLm4)
 </details>
