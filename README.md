@@ -697,8 +697,11 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   <summary>mycve[.]com</summary>
    
   1. 0x01 | mycve[.]com Projesine Giriş Merhaba Dünya
-     
      * [https://www.youtube.com/watch?v=_jzq7SEBBYM](https://www.youtube.com/watch?v=_jzq7SEBBYM)
+  2. 0x02 | mycve[.]com HTML Yapısı Sonrası Renk Paleti Belirlemesi
+     * [https://www.youtube.com/watch?v=se8QFGtxtZk](https://www.youtube.com/watch?v=se8QFGtxtZk)
+  3. 0x03 | mycve[.]com Cookiecutter Django + WSL2 Windows + Docker Ortamının Hazırlığı
+     * [https://www.youtube.com/watch?v=-dIE50IQAlM](https://www.youtube.com/watch?v=-dIE50IQAlM)
 </details>
 
 ---
