@@ -626,7 +626,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=sRWAuN8MqJM](https://www.youtube.com/watch?v=sRWAuN8MqJM)
      * [https://www.twitch.tv/videos/2102209356](https://www.twitch.tv/videos/2102209356)
   4. Kağan Işıldak Konuk. Threat Zone Malware Analizi Platformu
-     * https://www.youtube.com/watch?v=PWM4R11Wxho
+     * [https://www.youtube.com/watch?v=PWM4R11Wxho](https://www.youtube.com/watch?v=PWM4R11Wxho)
 </details>
 
 <details>
