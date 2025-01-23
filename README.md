@@ -216,7 +216,48 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   10. 0x0A | Derinlemesine :) Cloudflare Pages Remote Code Execution Analizi
       * [https://www.twitch.tv/videos/1478266986](https://www.twitch.tv/videos/1478266986)
       * [https://www.youtube.com/watch?v=QBxXL1ULIRQ](https://www.youtube.com/watch?v=QBxXL1ULIRQ)
-
+  11. 0x0B | 2024'ün en güzel Web Hacking Makaleleri | Top 10 Web Hacking Techniques
+      * [https://www.youtube.com/watch?v=utg-UmC06bQ](https://www.youtube.com/watch?v=utg-UmC06bQ)
+      * Tüm Makalelerin Bulunduğu Kaynak [https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open](https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open)
+        <details>
+          <summary>MDISEC'in Seçtiği Makaleler</summary>
+          
+           - 01:54 User info extraction abusing placeholder injection in Zendesk
+              - [https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06)
+           - 03:13 World of SELECT-only PostgreSQL Injections
+              - [https://phrack.org/issues/71/8](https://phrack.org/issues/71/8)
+           - 04:33 Hacking Millions of Modems (and Investigating Who Hacked My Modem)
+              - [https://samcurry.net/hacking-millions-of-modems](https://samcurry.net/hacking-millions-of-modems)
+           - 05:07 plORMbing your Django ORM
+              - [https://www.elttam.com/blog/plormbing-your-django-orm/](https://www.elttam.com/blog/plormbing-your-django-orm/)
+           - 05:55 Gotta cache 'em all: bending the rules of web cache exploitation
+              - [https://portswigger.net/research/gotta-cache-em-all](https://portswigger.net/research/gotta-cache-em-all)
+           - 07:15 ChatGPT Account Takeover - Wildcard Web Cache Deception
+              - [https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
+           - 07:37 Listen to the whispers: web timing attacks that actually work
+              - [https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work](https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work)
+           - 08:24 Chaining Three Bugs to Access All Your ServiceNow Data
+              - [https://www.assetnote.io/resources/research/chaining-three-bugs-to-access-all-your-servicenow-data](https://www.assetnote.io/resources/research/chaining-three-bugs-to-access-all-your-servicenow-data)
+           - 09:01 POST to XSS: Leveraging Pseudo Protocols to Gain JavaScript Evaluation in SSO Flows
+              - [https://security.lauritz-holtmann.de/post/sso-security-redirect-uri-iii/](https://security.lauritz-holtmann.de/post/sso-security-redirect-uri-iii/)
+           - 09:47 Zoom Session Takeover - Cookie Tossing Payloads, OAuth Dirty Dancing, Browser Permissions Hijacking, and WAF abuse
+              - [https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html](https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html)
+           - 10:11 Encoding Differentials: Why Charset Matters
+              - [https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/](https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/)
+           - 11:40 Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine
+              - [https://www.ambionics.io/blog/iconv-cve-2024-2961-p3](https://www.ambionics.io/blog/iconv-cve-2024-2961-p3)
+           - 13:00 JNDI Injection Remote Code Execution via Path Manipulation in MemoryUserDatabaseFactory
+              - [https://srcincite.io/blog/2024/07/21/jndi-injection-rce-via-path-manipulation-in-memoryuserdatabasefactory.html](https://srcincite.io/blog/2024/07/21/jndi-injection-rce-via-path-manipulation-in-memoryuserdatabasefactory.html)
+              - (NOT: bu makaleyi özümseyip anlayabilmek için application security alanında biraz zaman geçirmek ve tecrübe sahibi olmak gerekmektedir, bu şekilde daha iyi anlaşılacaktır.)
+           - 13:53 A Race to the Bottom - Database Transactions Undermining Your AppSec
+              - [https://blog.doyensec.com/2024/07/11/database-race-conditions.html](https://blog.doyensec.com/2024/07/11/database-race-conditions.html)
+           - 16:05 Beyond the Limit: Expanding single-packet race condition with a first sequence sync for breaking the 65,535 byte limit
+              - [https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/](https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/)
+           - 16:25 Teaching the Old .NET Remoting New Exploitation Tricks
+              - [https://code-white.com/blog/teaching-the-old-net-remoting-new-exploitation-tricks/](https://code-white.com/blog/teaching-the-old-net-remoting-new-exploitation-tricks/)
+           * 17:08 SQL Injection Isn't Dead Smuggling Queries at the Protocol Level
+              - [https://www.youtube.com/watch?v=Tfg1B8u1yvE](https://www.youtube.com/watch?v=Tfg1B8u1yvE)
+        </details>
 </details>
 
 <details>
