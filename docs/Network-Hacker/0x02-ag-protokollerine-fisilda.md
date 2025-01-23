@@ -8,7 +8,7 @@ Bir önceki eğitimde, ağ içerisindeki haberleşme süreçlerini incelemiştik
 
 ## **0x01 : Topoloji Üzerinden ARP-1 Betiği İncelemesi**
 
-![topoloji](/img/0x02/1.png)
+![topoloji](img/0x02/1.png)
 
 ```python
 from scapy.all import * 
@@ -52,7 +52,7 @@ sendp(packet)
   - **Switch:** Ethernet başlığındaki `00:11:22:33:66:34` MAC adresini kaydeder.  
   - **Windows:** ARP başlığındaki `00:11:22:33:66:67` MAC adresini kaydeder.  
 
-![wireshark](/img/0x02/3.png)
+![wireshark](img/0x02/3.png)
 Bunun sebebi windows makine cevap verirken 10.0.40.68 ip'sine ait 00:11:22:33:66:67 mac adresine cevap veriyor ancak switchin arp tablosunda bu ip'ye tanımlı mac adresi 00:11:22:33:66:34 olarak belirlenmiş durumda bu sebepten 00:11:22:33:66:67 mac adresini bulamayarak ağdaki bütün cihazlara broadcast yapıyor. Switch'in kafasını karıştırmış olduk. 
 
 ## **0x03 : Opcode Değişikliği**
@@ -68,9 +68,9 @@ sendp(packet)
 ``` 
 **`op=2`:** Bir ARP Reply paketidir. Hedef cihaza, daha önce sorulmamış olsa bile doğrudan yanıt verir.  
 
-![wireshark](/img/0x02/4.png)
-![wireshark](/img/0x02/5.png)
-![arp-a](/img/0x02/6.png)
+![wireshark](img/0x02/4.png)
+![wireshark](img/0x02/5.png)
+![arp-a](img/0x02/6.png)
 
 Direkt olarak cevap verildiği görülür. Ancak hedef sistemde, 10.0.40.83 IP adresine ait bir kayıt oluşturulmaz.  
 
@@ -89,7 +89,7 @@ sendp(packet)
 ``` 
 Betiği yeniden çalıştırıp gönderelim ve Windows sistemimize dönüp arp tablosuna bakalım. 
 
-![arp-a](/img/0x02/7.png)
+![arp-a](img/0x02/7.png)
 
 Windows cihazında `10.0.40.67` IP adresine ait MAC adresinin değiştirildiği gözlemlenir.  
 
@@ -112,7 +112,7 @@ Bu durumda switch, hedeflenen trafiği yalnızca bir porta değil, tüm bağlı 
 
 ## **0x05 : Katman 2'den yukarıya çıkalım**
 
-![icmp](/img/0x02/8.jpg)
+![icmp](img/0x02/8.jpg)
 
 
 ### ICMP (Internet Control Message Protocol) Kullanımı
@@ -136,13 +136,13 @@ Bu betikte rastgele bir kaynak IP ve MAC adresi kullanılarak bir ICMP paket gö
 Windows makinesi, kaynağın MAC adresini çözmek için broadcast yapmaya başlar.
 Hedefin ARP tablosunda geçerli bir kayıt varsa, echo reply dönecektir.
 
-![wireshark](/img/0x02/9.png)
+![wireshark](img/0x02/9.png)
 
 Echo request karşı tarafa gidiyor ancak reply dönmedi onun yerine 10.0.40.167 cihazı fiziki adresini çözmek adına broadcast üretmeye başlıyor. 3. Konudan bağımsız cihazda da bu broadcasti görebiliriz. 
 
 Peki windows makinenin arp tablosuna 10.0.40.167'ye ait bir kayıt eklesek çalışır mı?
 
-![wireshark](/img/0x02/A.png)
+![wireshark](img/0x02/A.png)
 
 Arp ile ekleyebildiğimizi fark ettik
 Bu sefer echo request gidecek echo reply dönecek. Saldırgan alt katmanda kendi oluşturarak altyapısını kurdu ve sonrasında bu katmanda kullanabileceği hazırlamış olduğu yapıyı network içerisinden sağlamış oldu 3. cihaz habersiz sistem bu mesajı göremedi switch düzgün çalıştığı için.
@@ -168,7 +168,7 @@ Switch bu paketleri farklı yorumlar ve broadcast nedeniyle ağdaki tüm cihazla
 **hwsrc** değerlerini değiştirerek switch ve hedef cihazın farklı yorumlamasını sağlayabiliriz.
 
 ## **0x06 : Özet**
-![özet](/img/0x02/2.png)
+![özet](img/0x02/2.png)
 
 ### Genel Durum
 

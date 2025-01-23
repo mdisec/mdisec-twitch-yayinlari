@@ -7,7 +7,7 @@ Herkese merhaba, bu eğitim serisi boyunca sevgili Mehmet Hocam ve Barkın Hocam
 Ağ güvenliği ve sızma testlerinde kullanılabilecek taktik ve teknik detaylardan bahsedeceğiz.
 
 ## **0x01 : OSI**
-OSI, genellikle referans modeli olarak kullanılır ve bu yüzden başlangıçta hep bu konuya değinilir. Bu durum, bazı insanların bu konudan soğumasına neden olmuştur. OSI katmanlarına erişmek için [tıklayın](/img/0x01/2.png).
+OSI, genellikle referans modeli olarak kullanılır ve bu yüzden başlangıçta hep bu konuya değinilir. Bu durum, bazı insanların bu konudan soğumasına neden olmuştur. OSI katmanlarına erişmek için [tıklayın](img/0x01/2.png).
 
 - **Fiziksel Katman:** Kablolar ve donanımların kendilerini ifade ettiği katmandır. Bu sebeple, bu eğitim serisi boyunca bu konulara fazla değinmeyeceğiz. Benim gibi lisans eğitiminde Data Communications dersinde bu kabloların hesaplamalarıyla uğraşmış olanlar, bu katmanın ne kadar tatsız olduğunu anlayacaklardır.
 - **Data Link:** Bu katmanda bir ağı keşfetmek istiyorsak kullanacağımız en temel protokol nedir?
@@ -15,7 +15,7 @@ OSI, genellikle referans modeli olarak kullanılır ve bu yüzden başlangıçta
   - Fiziki lokasyonlu sistemler, birbirleriyle iletişim kurabilmek için bu protokolü kullanırlar. Örneğin, adresini bildiğiniz bir sisteme paket ulaştırmak istiyorsanız, bu sistemin fiziki konumunu tespit etmeniz gerekir ki paket düzgünce teslim edilebilsin. Katman 2'deki fiziki donanımlar, bu iletişimi kendi içlerinde sağlarlar. Ortada herhangi bir ağ cihazı olmadan, iki bilgisayarı doğrudan bağlayıp haberleşmelerini sağlamak istediğimizde bu protokoller kullanılır.
 
 ## **0x02 : Ağ Topolojisi**
-![Topoloji](/img/0x01/1.png)
+![Topoloji](img/0x01/1.png)
 ### Kabaca yukarıda bulunan görseli ifade edelim:
 R1 router ve sağ tarafındaki kısımlarda yer alan sistemler, kendi içlerinde belirli VLAN (sanal ağlar) tanımlamış olan diğer alt sistemleri ifade eder.
 
@@ -26,7 +26,7 @@ R1 router ve sağ tarafındaki kısımlarda yer alan sistemler, kendi içlerinde
 
 ## **0x03 : Arp & Wireshark**
 
-![arp](/img/0x01/3.png)
+![arp](img/0x01/3.png)
 
 Yukarıda hem ARP başlık bilgisini hem de Ethernet başlık bilgisini görüyoruz. 
 Bir ARP paketi içerisinde, fiziki olarak hangi gönderen MAC adresinin olduğu ve hangi hedefteki MAC adresine gönderileceği bilgisi Ethernet başlığında yer alır.
@@ -36,17 +36,17 @@ Bunu görmek için bir Kali, bir de Ubuntu'yu sanalda ayağa kaldıracağım ve 
 ping -c 1 192.168.50.130
 ```
 
-![wireshark](/img/0x01/4.png)
+![wireshark](img/0x01/4.png)
 Burada 192.168.50.129 kaynağından 192.168.50.130 hedefine gönderilmek istenen bir echo request paketini görüyorsunuz. Bu, haberleşmek istediğim diğer bir sisteme göndereceğim mesaj olarak düşünebilirsiniz. 
 Öncesinde aslında ben bu sisteme ulaşabilmek için çözmem gereken bir fiziki lokasyon var. Bu lokasyonu da ARP protokolü ile karşı tarafa sorarak gerçekleştirdiğim bir süreç. 
 Yani diyorum ki: 
 Ben 192.168.50.129 ile haberleşmek istiyorum. Bana fiziki lokasyonunu söylersen, sana ileteceğim bir mesajım var gibi bir süreç ortaya çıkıyor.  
 
-![arp-a](/img/0x01/5.png)
+![arp-a](img/0x01/5.png)
 
 Bunun sonucunda da kendi tarafımda, fiziki lokasyonunu bildiğim bir IP adresinin kaydı oluşuyor. 
 Daha sonrasında tekrardan bu isteği, mesajı göndermek istediğimde fiziki lokasyon çözme sürecine yeniden girmiyorum. Beklentim Wireshark'ta ARP protokollerini görmemek.
-![wiresharkwithoutarp](/img/0x01/6.png)
+![wiresharkwithoutarp](img/0x01/6.png)
 Görmeme sebebim, benim artık bu sisteme x gibi bir IP'ye mesaj göndermek için fiziki bir lokasyonunu çözme gibi bir durum söz konusu değil. T0 anında haberleşmek istediğim sistemin fiziki lokasyonunu bilmiyordum, sadece kendisine ait IP adresini biliyordum ve paketi göndermek istediğimde fiziki lokasyondaki ARP'ı kullanarak bu IP adresine sahip olan kim bana bilgisini söylesin, benim de ona göndereceğim mesaj var sorusunu ilettiğimde karşı taraf bana cevap veriyor. Benim fiziki lokasyonum yani MAC adresim budur diyerek cevap veriyor ve fiziki lokasyonu kendi tablom üzerine kaydettiğim zaman bu tablo üzerinden bu soruları sormadan süreçleri atlayarak iletişim kurabiliyoruz. Bu bilgi de tabii ki kalıcı değil, belirli bir süre zarfınca sisteme kayıt oluyor. Bundan sonrasında bu sisteme bir paket gönderdiğimde sistemin IP adresi, MAC adresi veya fiziki lokasyonu değişirse başka bir yere takılırsa bu sistemin baştan sağlanması gerekiyor. Dinamik olarak işlenen bir protokol sonucunu çıkarabiliyoruz. ARP statik olarak işletilebildiği gibi dinamik olarak da işletilebilmesi söz konusu.
 
 ## **0x04 : Yapılandırma**
@@ -73,7 +73,7 @@ Bu şekilde hostumu o ağ içerisinden izole etmiş oluyoruz. Şimdi VMware üze
 
 Bu sistemi de bir T0 anında ağa dahil ettiğimde iletişimini sınırlamam lazım, bunu sağlayan çeşitli servisler var. Bunlardan birisi networkmanager. Kali üzerinde sistemi ilk çalıştırdığımız andan itibaren otomatik bağlantıyı sağlama ve arka planda çeşitli protokolleri kendi adına konuşup ayarlamaya görevlendirilmiş bir servis vaziyetinde çalışıyor. Bunu da kapatmamız gerekir. Kali ağa dahil olduğunda otomatik olarak IP almaya çalışıp diğer taraflardaki sistemlere kendini belli etmeye başlamasın, bunu da aşağıdaki görseldeki komut ile yapabiliriz. Kapatsak bile bazen DHCP istemcisi kalmış olabilir, dikkat etmek gerekiyor. Aynı şekilde WPA'yı kontrol etmekte fayda var. Çalışıyor olsaydı da killall ile son 2 komutta da görüldüğü üzere öldürüyor olacaktık.
 
-![networking](/img/0x01/7.png)
+![networking](img/0x01/7.png)
 
 > **Özet:** 
 > 
@@ -94,18 +94,18 @@ echo 1 > /proc/sys/net/ipv6/conf/eth0/disable_ipv6
 
 Bundan sonra topolojinin başındaki Windows Server konuştuğunda, bizle aynı subnette bir makineyse şayet hangi subnette yer aldığını anlama şansım olacak. Makine gelene kadar switch ile konuşuyor olacağım. CISCO cihazlarının üzerinde kullandıkları bir protokol discovery protokolü, bu protokol sayesinde dahil olmuş olduğumuz ağdaki anahtarlama cihazlarının bilgilerini görüntüleyebiliyor, hangi IOS sürümünün koştuğunu görebiliyoruz. IP konfigrasyonu varsa bunların hangileri olduğunu görebiliyor, hangi porta bağlıysa onu görebiliyorum.
 
-![discovery](/img/0x01/8.png)
+![discovery](img/0x01/8.png)
 
 Şimdi switchin ürettiği trafikleri anladıysak, bir de sunucunun ürettiği trafiklere bakmak adına Windows Server'ı yeniden başlatalım.
 
-![reboot](/img/0x01/9.png)
+![reboot](img/0x01/9.png)
 
 Windows açılır açılmaz, ilk etapta ARP ile bir şeyler çözmeye çalışmış. Broadcast basmış, 
 10.0.40.3 IP'sini çözmeye çalışmış. Bunu neden yapmaya çalışmıştır? 
 Kendisi üzerinde statik bir IP konfigrasyonu girdik, üzerindeki statik IP'nin başka bir IP üzerinde olup olmadığını kontrol etmek için kullanılıyor. ARP üzerinden diyor ki 10.0.40.3 IP'sine sahip olan bir makine var mı bana söylesin.
 IP çakışmasını önlemek için. Giden paketin detaylarına bakalım:
 
-![arp](/img/0x01/A.png)
+![arp](img/0x01/A.png)
 
 - Gönderen MAC adresi, kendi MAC adres bilgisi üzerinden paketi üretiyor ve oraya ilgili kendi MAC adresi bilgisini yerleştiriyor. 
 - Gönderen IP adresi olarak yazdığı değer 0.0.0.0, bu bir hosta atanabilecek IP adresi değil. 
@@ -123,9 +123,9 @@ Scapy, bilgisayar ağları için bir paket manipülasyon aracıdır. Ağ paketle
 
 Dahil olduğumuz ağ üzerindeki diğer sistemleri keşfetmeye çalışıyoruz. Scapy'den paketleri oluşturalım:
 
-![scapy](/img/0x01/B.png)
-![scapy](/img/0x01/C.png)
-![scapy](/img/0x01/D.png)
+![scapy](img/0x01/B.png)
+![scapy](img/0x01/C.png)
+![scapy](img/0x01/D.png)
 
 Topolojiye yeniden dönelim. Kali makine bir switche bağlı ve bu switch'e bağlı bir adet Windows Server'ımız da var. Bunlar bu senaryoda aynı alt ağ olarak da ele alınıyorlar. Hem fiziki olarak aynı sunucuda olmaları hem de alt ağ olarak aynı ağda yer almalarından ötürü bunları ARP üzerinden herhangi bir gateway, router sistemine geçiş yaparak keşfetmeye gerek duymadan fiziki bağlantı kısmından keşif işlemini yapabiliyoruz. 
 Ağa dahil olduk ve o ağ içerisinde hangi sistemlerim var sorusunu
