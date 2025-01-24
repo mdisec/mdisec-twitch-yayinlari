@@ -612,6 +612,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=VlDFkDJSjZg](https://www.youtube.com/watch?v=VlDFkDJSjZg)
  10. MDI'ın Mutfağından! 2024 yılından bir Remote Code Execution Zafiyeti Analizi ve 2025 Yılı Duyuruları
      * [https://www.youtube.com/watch?v=-v428cGlMjE](https://www.youtube.com/watch?v=-v428cGlMjE)
+ 11. 2025'te yayınlanan Trend Micro ürünlerini etkileyen kritik zafiyet aslında yeni mi ?!
+     * [https://www.youtube.com/watch?v=9SiUz3yAyPU](https://www.youtube.com/watch?v=9SiUz3yAyPU)
   
 </details>
 
