@@ -216,7 +216,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   10. 0x0A | Derinlemesine :) Cloudflare Pages Remote Code Execution Analizi
       * [https://www.twitch.tv/videos/1478266986](https://www.twitch.tv/videos/1478266986)
       * [https://www.youtube.com/watch?v=QBxXL1ULIRQ](https://www.youtube.com/watch?v=QBxXL1ULIRQ)
-
+  11. 0x0B | 2024'ün en güzel Web Hacking Makaleleri | Top 10 Web Hacking Techniques
+      * [https://www.youtube.com/watch?v=utg-UmC06bQ](https://www.youtube.com/watch?v=utg-UmC06bQ)
 </details>
 
 <details>
@@ -611,6 +612,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=VlDFkDJSjZg](https://www.youtube.com/watch?v=VlDFkDJSjZg)
  10. MDI'ın Mutfağından! 2024 yılından bir Remote Code Execution Zafiyeti Analizi ve 2025 Yılı Duyuruları
      * [https://www.youtube.com/watch?v=-v428cGlMjE](https://www.youtube.com/watch?v=-v428cGlMjE)
+ 11. 2025'te yayınlanan Trend Micro ürünlerini etkileyen kritik zafiyet aslında yeni mi ?!
+     * [https://www.youtube.com/watch?v=9SiUz3yAyPU](https://www.youtube.com/watch?v=9SiUz3yAyPU)
   
 </details>
 
