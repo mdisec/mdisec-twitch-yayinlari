@@ -707,6 +707,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=se8QFGtxtZk](https://www.youtube.com/watch?v=se8QFGtxtZk)
   3. 0x03 | mycve[.]com Cookiecutter Django + WSL2 Windows + Docker Ortamının Hazırlığı
      * [https://www.youtube.com/watch?v=-dIE50IQAlM](https://www.youtube.com/watch?v=-dIE50IQAlM)
+  4. 0x04 | mycve[.]com Dosya Mimarisini Anlamak ve Template Giydirmek
+     * [https://www.youtube.com/watch?v=Vd6aIM-1JOc](https://www.youtube.com/watch?v=Vd6aIM-1JOc)
 </details>
 
 ---
