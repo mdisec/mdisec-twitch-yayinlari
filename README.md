@@ -453,8 +453,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   30. 0x1E | [<strong>Öğrencilere Özel</strong>] Siber Güvenlik uzmanlığının geleceği: Yapay Zeka çağında işsiz mi kalacağız ?
       * [https://www.twitch.tv/videos/2349683494](https://www.twitch.tv/videos/2349683494)
       * [https://www.youtube.com/watch?v=TTWipA60PKU](https://www.youtube.com/watch?v=TTWipA60PKU)
-  
-
+  31. 0x1F | 2025 yılında bu kanalda neler olacak ? topluluk notuna gelen yorumları degerlendirdim.
+      * [https://www.youtube.com/watch?v=li-Sd0HOst8](https://www.youtube.com/watch?v=li-Sd0HOst8)
+      
 </details>
 
 <details>
@@ -709,6 +710,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=-dIE50IQAlM](https://www.youtube.com/watch?v=-dIE50IQAlM)
   4. 0x04 | mycve[.]com Dosya Mimarisini Anlamak ve Template Giydirmek
      * [https://www.youtube.com/watch?v=Vd6aIM-1JOc](https://www.youtube.com/watch?v=Vd6aIM-1JOc)
+  5. 0x05 | mycve[.]com Django Güncel Durum ve Değişiklikler
+     * [https://www.youtube.com/watch?v=oNxsSGtbo-o](https://www.youtube.com/watch?v=oNxsSGtbo-o)
 </details>
 
 ---
