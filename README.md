@@ -453,8 +453,9 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   30. 0x1E | [<strong>Öğrencilere Özel</strong>] Siber Güvenlik uzmanlığının geleceği: Yapay Zeka çağında işsiz mi kalacağız ?
       * [https://www.twitch.tv/videos/2349683494](https://www.twitch.tv/videos/2349683494)
       * [https://www.youtube.com/watch?v=TTWipA60PKU](https://www.youtube.com/watch?v=TTWipA60PKU)
-  
-
+  31. 0x1F | 2025 yılında bu kanalda neler olacak ? topluluk notuna gelen yorumları degerlendirdim.
+      * [https://www.youtube.com/watch?v=li-Sd0HOst8](https://www.youtube.com/watch?v=li-Sd0HOst8)
+      
 </details>
 
 <details>
@@ -685,22 +686,32 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   1. SOME Bölüm 1 - Merhaba Dünya / Semih Gelişli, Ozan Olalı ve Mehmet İnce
      * [https://www.twitch.tv/videos/2300992063](https://www.twitch.tv/videos/2300992063)
      * [https://www.youtube.com/watch?v=LqB7gatEMQs](https://www.youtube.com/watch?v=LqB7gatEMQs)
-     <details>
-       <summary>Konular</summary>
-       
-        - Ozan ve mycompany[.]org hikayesinin devamı.
-           - (mycompany[.]org'un hikayesi: [https://www.youtube.com/watch?v=4IX6gvDe2D0](https://www.youtube.com/watch?v=4IX6gvDe2D0))
-        - Global etkinliklerde konuşmacı olmak ?
-        - Siber güvenlik 20 yıldır aslında aynı! Örnek: "AI Modellerinin Getirdiği Risk ?!"
-        - Yapay Zeka tüm dünyayı değiştirdi tamam! ama şahsi olarak günlük iş hayatınızda neyi değiştirdi ?
-        - Third party kütüphaneler üzerinden yapılan saldırılar ve güvenlik nasıl sağlanır ?
-        - Ofansif Güvenlik alanındaki open-source araç sayısı neden çok daha fazla ?
-     </details>
+         <details>
+          <summary>Konular</summary>
+            
+          - Ozan ve mycompany[.]org hikayesinin devamı.
+              - (mycompany[.]org'un hikayesi: [https://www.youtube.com/watch?v=4IX6gvDe2D0](https://www.youtube.com/watch?v=4IX6gvDe2D0))
+          - Global etkinliklerde konuşmacı olmak ?
+          - Siber güvenlik 20 yıldır aslında aynı! Örnek: "AI Modellerinin Getirdiği Risk ?!"
+          - Yapay Zeka tüm dünyayı değiştirdi tamam! ama şahsi olarak günlük iş hayatınızda neyi değiştirdi ?
+          - Third party kütüphaneler üzerinden yapılan saldırılar ve güvenlik nasıl sağlanır ?
+          - Ofansif Güvenlik alanındaki open-source araç sayısı neden çok daha fazla ?
+        </details>
+  2. SOME Bölüm 2 - Semih Gelişli, Ozan Olalı ve Mehmet İnce
+     * [https://www.youtube.com/watch?v=ae40s4AnzK0](https://www.youtube.com/watch?v=ae40s4AnzK0)
+         <details>
+          <summary>Konular</summary>
+
+          - Siber güvenliği severek yapmalı
+          - Blackhat MEA
+          - CVSS ve CVE eko sistemi
+          - Siber Güvenlik Başkanlığı
+         </details>
 </details>
 
 <details>
   <summary>mycve[.]com</summary>
-   
+  
   1. 0x01 | mycve[.]com Projesine Giriş Merhaba Dünya
      * [https://www.youtube.com/watch?v=_jzq7SEBBYM](https://www.youtube.com/watch?v=_jzq7SEBBYM)
   2. 0x02 | mycve[.]com HTML Yapısı Sonrası Renk Paleti Belirlemesi
@@ -709,6 +720,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=-dIE50IQAlM](https://www.youtube.com/watch?v=-dIE50IQAlM)
   4. 0x04 | mycve[.]com Dosya Mimarisini Anlamak ve Template Giydirmek
      * [https://www.youtube.com/watch?v=Vd6aIM-1JOc](https://www.youtube.com/watch?v=Vd6aIM-1JOc)
+  5. 0x05 | mycve[.]com Django Güncel Durum ve Değişiklikler
+     * [https://www.youtube.com/watch?v=oNxsSGtbo-o](https://www.youtube.com/watch?v=oNxsSGtbo-o)
 </details>
 
 ---
