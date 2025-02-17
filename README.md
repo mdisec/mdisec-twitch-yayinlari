@@ -648,10 +648,15 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=5Ggl6vz4PV4](https://www.youtube.com/watch?v=5Ggl6vz4PV4)
   5. JavaScript En Güzel Hedeflerden \w @usirin
      * [https://www.youtube.com/watch?v=g44Y40SBASM](https://www.youtube.com/watch?v=g44Y40SBASM)
+  6. Hacker Gözünden HTTP 1.1 ve HTTP 2.0 'ı Dinlemek
+     * [https://www.youtube.com/watch?v=spucaNb5RFY](https://www.youtube.com/watch?v=spucaNb5RFY)
+  7. Şeytan Ayrıntıda Gizli ! @usirin 'in Gözünden Kaçan Zafiyet
+     * [https://www.youtube.com/watch?v=Y-Bp1vrg830](https://www.youtube.com/watch?v=Y-Bp1vrg830)
+  8. Gerçek Hayatta Race Condition Zafiyetleri Nasıl Hacklenir ?
+     * [https://www.youtube.com/watch?v=_4ZaKSfk5as](https://www.youtube.com/watch?v=_4ZaKSfk5as)
+  9. Race Condition zafiyetleri nasil engellenebilir ?
+     * [https://www.youtube.com/watch?v=QAwXJUeLDAM](https://www.youtube.com/watch?v=QAwXJUeLDAM)
     
-  Yayınların tam hali
-  * Part - 1 [https://www.twitch.tv/videos/2096493610](https://www.twitch.tv/videos/2096493610)
-  * Part - 2 [https://www.twitch.tv/videos/2116227485](https://www.twitch.tv/videos/2116227485)
 </details>
 
 <details>
