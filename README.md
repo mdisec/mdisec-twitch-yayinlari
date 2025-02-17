@@ -650,7 +650,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=g44Y40SBASM](https://www.youtube.com/watch?v=g44Y40SBASM)
   6. Hacker Gözünden HTTP 1.1 ve HTTP 2.0 'ı Dinlemek
      * [https://www.youtube.com/watch?v=spucaNb5RFY](https://www.youtube.com/watch?v=spucaNb5RFY)
-  7. Şeytan Ayrıntıda Gizli ! ‪@usirin‬ 'in Gözünden Kaçan Zafiyet
+  7. Şeytan Ayrıntıda Gizli ! @usirin 'in Gözünden Kaçan Zafiyet
      * [https://www.youtube.com/watch?v=Y-Bp1vrg830](https://www.youtube.com/watch?v=Y-Bp1vrg830)
   8. Gerçek Hayatta Race Condition Zafiyetleri Nasıl Hacklenir ?
      * [https://www.youtube.com/watch?v=_4ZaKSfk5as](https://www.youtube.com/watch?v=_4ZaKSfk5as)
