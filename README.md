@@ -727,6 +727,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=Vd6aIM-1JOc](https://www.youtube.com/watch?v=Vd6aIM-1JOc)
   5. 0x05 | mycve[.]com Django Güncel Durum ve Değişiklikler
      * [https://www.youtube.com/watch?v=oNxsSGtbo-o](https://www.youtube.com/watch?v=oNxsSGtbo-o)
+  6. 0x06 | mycve[.]com Neredeyse Hazır!! Projenin Teknik Mimarisinin Detaylı Analizi
+     * [https://www.youtube.com/watch?v=zpdbDl6_pA4](https://www.youtube.com/watch?v=zpdbDl6_pA4)
 </details>
 
 ---
