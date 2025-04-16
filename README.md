@@ -455,6 +455,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=TTWipA60PKU](https://www.youtube.com/watch?v=TTWipA60PKU)
   31. 0x1F | 2025 yılında bu kanalda neler olacak ? topluluk notuna gelen yorumları degerlendirdim.
       * [https://www.youtube.com/watch?v=li-Sd0HOst8](https://www.youtube.com/watch?v=li-Sd0HOst8)
+  32. 0x20 | ingiltere özel yetenek vizesi draması. 3 senede ILR alma yolunda, Home Office'i mahkemeye vermek :D
+      * [https://www.youtube.com/watch?v=SDJD0llGlBU](https://www.youtube.com/watch?v=SDJD0llGlBU)
       
 </details>
 
@@ -615,7 +617,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=-v428cGlMjE](https://www.youtube.com/watch?v=-v428cGlMjE)
  11. 2025'te yayınlanan Trend Micro ürünlerini etkileyen kritik zafiyet aslında yeni mi ?!
      * [https://www.youtube.com/watch?v=9SiUz3yAyPU](https://www.youtube.com/watch?v=9SiUz3yAyPU)
-  
+ 12. 0-day Vulnerabilities in Arista Firewall Products: When Edge Networks Meet Cloud Management
+     * [https://www.youtube.com/watch?v=FAOWQd8FE8c](https://www.youtube.com/watch?v=FAOWQd8FE8c)
 </details>
 
 <details>
@@ -631,6 +634,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.twitch.tv/videos/2102209356](https://www.twitch.tv/videos/2102209356)
   4. Kağan Işıldak Konuk. Threat Zone Malware Analizi Platformu
      * [https://www.youtube.com/watch?v=PWM4R11Wxho](https://www.youtube.com/watch?v=PWM4R11Wxho)
+  5. Konuk: İlker Yılmaz | Gerçek hayat hikayesi. 6 Ayda Siber Güvenlik Uzmanı olmak mümkün ?!
+     * [https://www.youtube.com/watch?v=e79luwfAETM](https://www.youtube.com/watch?v=e79luwfAETM)
 </details>
 
 <details>
@@ -729,6 +734,15 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=oNxsSGtbo-o](https://www.youtube.com/watch?v=oNxsSGtbo-o)
   6. 0x06 | mycve[.]com Neredeyse Hazır!! Projenin Teknik Mimarisinin Detaylı Analizi
      * [https://www.youtube.com/watch?v=zpdbDl6_pA4](https://www.youtube.com/watch?v=zpdbDl6_pA4)
+  7. 0x07 | mycve[.]com Crawling dertlerimiz nelerdi ?
+     * [https://www.youtube.com/watch?v=qtKoX6J52GU](https://www.youtube.com/watch?v=qtKoX6J52GU)
+</details>
+
+<details>
+  <summary>Code & Cardio | Spor Yapan Yazılımcılar</summary>
+  
+  1. 0x01 | Konuk: Ender Ahmet Yurt
+     * [https://www.youtube.com/watch?v=yZNiIHAro-E](https://www.youtube.com/watch?v=yZNiIHAro-E)
 </details>
 
 ---
