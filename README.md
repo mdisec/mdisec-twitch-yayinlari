@@ -619,6 +619,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=9SiUz3yAyPU](https://www.youtube.com/watch?v=9SiUz3yAyPU)
  12. 0-day Vulnerabilities in Arista Firewall Products: When Edge Networks Meet Cloud Management
      * [https://www.youtube.com/watch?v=FAOWQd8FE8c](https://www.youtube.com/watch?v=FAOWQd8FE8c)
+ 13. Artık CVE'ler son mu bulacak ? MITRE CVE hayata son anda geri döndü. CVE ekosistemi hakkında her şey!
+     * [https://www.youtube.com/watch?v=uI9jikQpBhM](https://www.youtube.com/watch?v=uI9jikQpBhM)
 </details>
 
 <details>
