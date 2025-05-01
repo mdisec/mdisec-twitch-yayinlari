@@ -695,7 +695,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 <details>
   <summary>SOME (<strong>S</strong>emih Gelişli, <strong>O</strong>zan Olalı, <strong>ME</strong>hmet İnce)</summary>
   
-  1. SOME Bölüm 1 - Merhaba Dünya / Semih Gelişli, Ozan Olalı ve Mehmet İnce
+  1. SOME Bölüm 1 - Merhaba Dünya / Siber Güvenlik Üzerine Yeni Seri Başlıyor
      * [https://www.twitch.tv/videos/2300992063](https://www.twitch.tv/videos/2300992063)
      * [https://www.youtube.com/watch?v=LqB7gatEMQs](https://www.youtube.com/watch?v=LqB7gatEMQs)
          <details>
@@ -709,7 +709,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
           - Third party kütüphaneler üzerinden yapılan saldırılar ve güvenlik nasıl sağlanır ?
           - Ofansif Güvenlik alanındaki open-source araç sayısı neden çok daha fazla ?
         </details>
-  2. SOME Bölüm 2 - Semih Gelişli, Ozan Olalı ve Mehmet İnce
+  2. SOME Bölüm 2 - Blackhat MEA'da Neler oldu ? Her güvenlik açığı önemli midir ? CVSS & CVE Eko sistemi
      * [https://www.youtube.com/watch?v=ae40s4AnzK0](https://www.youtube.com/watch?v=ae40s4AnzK0)
          <details>
           <summary>Konular</summary>
@@ -719,6 +719,19 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
           - CVSS ve CVE eko sistemi
           - Siber Güvenlik Başkanlığı
          </details>
+  3. SOME Bölüm 3 - Yeni Yıl, Aynı Sorunlar
+     * [https://www.youtube.com/watch?v=4GcbuhTin0g](https://www.youtube.com/watch?v=4GcbuhTin0g)
+         <details>
+           <summary>Konular</summary>
+  
+          - Teyit edilmemiş siber güvenlik vakalarını kötü niyetle paylaşmak.
+          - Semih gelişli linkedin newsletters (haber bülteni).
+          - Fidye yazılımları (Ransomware, fatmal 2014).
+          - Red team vs Blue team.
+          - mycve[.]com projesi.
+          - Open source toollar.
+         </details>
+         
 </details>
 
 <details>
