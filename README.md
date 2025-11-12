@@ -107,6 +107,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.twitch.tv/videos/736775441](https://www.twitch.tv/videos/736775441)
   17. 0x11 | Authentication
       * [https://www.twitch.tv/videos/743634792](https://www.twitch.tv/videos/743634792)
+      * [https://www.youtube.com/watch?v=dihFZvaRWJk](https://www.youtube.com/watch?v=dihFZvaRWJk)
   18. 0x12 | CS253 Sınavına Giriyor MDISEC
       * [https://www.twitch.tv/videos/748045222](https://www.twitch.tv/videos/748045222)
       * [https://www.youtube.com/watch?v=6QaJ59AMkDg](https://www.youtube.com/watch?v=6QaJ59AMkDg)
@@ -250,6 +251,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | BTC Stealer Zararlısı ile Mobil Malware Dünyasına Giriş /w Ahmet Bilal Can @0xabc0
      * [https://www.twitch.tv/videos/611273156](https://www.twitch.tv/videos/611273156)
+     * [https://www.youtube.com/watch?v=PPdTpl04yHw](https://www.youtube.com/watch?v=PPdTpl04yHw)
   2. 0x02 | Mobil Zararlı Analizi Araç Gereçleri /w Ahmet Bilal Can @0xabc0
      * [https://www.twitch.tv/videos/673801071](https://www.twitch.tv/videos/673801071)
 
@@ -621,6 +623,12 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=FAOWQd8FE8c](https://www.youtube.com/watch?v=FAOWQd8FE8c)
  13. Artık CVE'ler son mu bulacak ? MITRE CVE hayata son anda geri döndü. CVE ekosistemi hakkında her şey!
      * [https://www.youtube.com/watch?v=uI9jikQpBhM](https://www.youtube.com/watch?v=uI9jikQpBhM)
+ 14. Bu Javascript kodunda ki güvenlik açığını bulabilir misin ?
+     * [https://www.youtube.com/watch?v=YyvnB2GG4mI](https://www.youtube.com/watch?v=YyvnB2GG4mI)
+ 15. Şaka Gibi Ama Değil: 1980’ler Protokolüyle 2025’te Tren Durdurmak (CVE-2025-1727 Analizi)
+     * [https://www.youtube.com/watch?v=xNxyhDoPheo](https://www.youtube.com/watch?v=xNxyhDoPheo)
+ 16. Django CVE-2025-64459 Analizi | Saldırganın gözünden ORM katmanı !
+     * [https://www.youtube.com/watch?v=78e6n02mkYM](https://www.youtube.com/watch?v=78e6n02mkYM)
 </details>
 
 <details>
@@ -638,6 +646,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=PWM4R11Wxho](https://www.youtube.com/watch?v=PWM4R11Wxho)
   5. Konuk: İlker Yılmaz | Gerçek hayat hikayesi. 6 Ayda Siber Güvenlik Uzmanı olmak mümkün ?!
      * [https://www.youtube.com/watch?v=e79luwfAETM](https://www.youtube.com/watch?v=e79luwfAETM)
+  6. Konuk: Kubilay Onur Güngör | Kişisel Challenge'lar !
+     * [https://www.youtube.com/watch?v=JZhX7I4Pxwg](https://www.youtube.com/watch?v=JZhX7I4Pxwg)
 </details>
 
 <details>
@@ -695,7 +705,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 <details>
   <summary>SOME (<strong>S</strong>emih Gelişli, <strong>O</strong>zan Olalı, <strong>ME</strong>hmet İnce)</summary>
   
-  1. SOME Bölüm 1 - Merhaba Dünya / Semih Gelişli, Ozan Olalı ve Mehmet İnce
+  1. SOME Bölüm 1 - Merhaba Dünya / Siber Güvenlik Üzerine Yeni Seri Başlıyor
      * [https://www.twitch.tv/videos/2300992063](https://www.twitch.tv/videos/2300992063)
      * [https://www.youtube.com/watch?v=LqB7gatEMQs](https://www.youtube.com/watch?v=LqB7gatEMQs)
          <details>
@@ -709,7 +719,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
           - Third party kütüphaneler üzerinden yapılan saldırılar ve güvenlik nasıl sağlanır ?
           - Ofansif Güvenlik alanındaki open-source araç sayısı neden çok daha fazla ?
         </details>
-  2. SOME Bölüm 2 - Semih Gelişli, Ozan Olalı ve Mehmet İnce
+  2. SOME Bölüm 2 - Blackhat MEA'da Neler oldu ? Her güvenlik açığı önemli midir ? CVSS & CVE Eko sistemi
      * [https://www.youtube.com/watch?v=ae40s4AnzK0](https://www.youtube.com/watch?v=ae40s4AnzK0)
          <details>
           <summary>Konular</summary>
@@ -719,6 +729,19 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
           - CVSS ve CVE eko sistemi
           - Siber Güvenlik Başkanlığı
          </details>
+  3. SOME Bölüm 3 - Yeni Yıl, Aynı Sorunlar
+     * [https://www.youtube.com/watch?v=4GcbuhTin0g](https://www.youtube.com/watch?v=4GcbuhTin0g)
+         <details>
+           <summary>Konular</summary>
+  
+          - Teyit edilmemiş siber güvenlik vakalarını kötü niyetle paylaşmak.
+          - Semih gelişli linkedin newsletters (haber bülteni).
+          - Fidye yazılımları (Ransomware, fatmal 2014).
+          - Red team vs Blue team.
+          - mycve[.]com projesi.
+          - Open source toollar.
+         </details>
+         
 </details>
 
 <details>
@@ -747,6 +770,12 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=yZNiIHAro-E](https://www.youtube.com/watch?v=yZNiIHAro-E)
 </details>
 
+<details>
+  <summary>Wiz Cloud Security Championship</summary>
+
+  1. 0x01 | MDI direksiyona geçti ! Kanlı canlı Wiz Cloud Security Championship Bölüm 1 - Perimeter Leak
+     * [https://www.youtube.com/watch?v=LGqsOlhwF_c](https://www.youtube.com/watch?v=LGqsOlhwF_c)
+</details>
 ---
 
 <details>
