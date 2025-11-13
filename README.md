@@ -459,6 +459,12 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=li-Sd0HOst8](https://www.youtube.com/watch?v=li-Sd0HOst8)
   32. 0x20 | ingiltere özel yetenek vizesi draması. 3 senede ILR alma yolunda, Home Office'i mahkemeye vermek :D
       * [https://www.youtube.com/watch?v=SDJD0llGlBU](https://www.youtube.com/watch?v=SDJD0llGlBU)
+  33. 0x21 | NPM - Node Package Malware saldırıları neden ve nasıl yapılıyor ? Yazılım Tedarik Zinciri Güvenliği
+      * [https://www.youtube.com/watch?v=MyxCjbLsoBM](https://www.youtube.com/watch?v=MyxCjbLsoBM)
+  34. 0x22 | Yıl oldu 2025 ve Güvenlik Zafiyetleri tarihte hiç olmadığı kadar artmış durumda. Neden mi ? Buyrun.
+      * [https://www.youtube.com/watch?v=0cRhnlsBY8g](https://www.youtube.com/watch?v=0cRhnlsBY8g)
+  35. 0x23 | A.I. ve MCP Dünyasında Race Condition Güvenlik Açıkları Büyük Risk !
+      * [https://www.youtube.com/watch?v=Bc5l133LDgg](https://www.youtube.com/watch?v=Bc5l133LDgg)
       
 </details>
 
