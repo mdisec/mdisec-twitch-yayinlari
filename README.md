@@ -654,6 +654,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=e79luwfAETM](https://www.youtube.com/watch?v=e79luwfAETM)
   6. Konuk: Kubilay Onur Güngör | Kişisel Challenge'lar !
      * [https://www.youtube.com/watch?v=JZhX7I4Pxwg](https://www.youtube.com/watch?v=JZhX7I4Pxwg)
+  7. Konuk: Sena Yakut | ☁️🛡️🚀 AWS Security Hero
+     * [https://www.youtube.com/watch?v=GsPwaqDmBQM](https://www.youtube.com/watch?v=GsPwaqDmBQM)
 </details>
 
 <details>
