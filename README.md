@@ -254,6 +254,7 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=PPdTpl04yHw](https://www.youtube.com/watch?v=PPdTpl04yHw)
   2. 0x02 | Mobil Zararlı Analizi Araç Gereçleri /w Ahmet Bilal Can @0xabc0
      * [https://www.twitch.tv/videos/673801071](https://www.twitch.tv/videos/673801071)
+     * [https://www.youtube.com/watch?v=isVi-8U8700](https://www.youtube.com/watch?v=isVi-8U8700)
 
 </details>
 
@@ -635,6 +636,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=xNxyhDoPheo](https://www.youtube.com/watch?v=xNxyhDoPheo)
  16. Django CVE-2025-64459 Analizi | Saldırganın gözünden ORM katmanı !
      * [https://www.youtube.com/watch?v=78e6n02mkYM](https://www.youtube.com/watch?v=78e6n02mkYM)
+ 17. Geliştiricilerin %99’u Bu Güvenlik Açığını Kodda Fark Edemiyor — Siz Görebilecek misiniz?
+     * [https://www.youtube.com/watch?v=Owz-1fRV4bo](https://www.youtube.com/watch?v=Owz-1fRV4bo)
 </details>
 
 <details>
