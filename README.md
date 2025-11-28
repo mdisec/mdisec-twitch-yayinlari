@@ -466,6 +466,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=0cRhnlsBY8g](https://www.youtube.com/watch?v=0cRhnlsBY8g)
   35. 0x23 | A.I. ve MCP Dünyasında Race Condition Güvenlik Açıkları Büyük Risk !
       * [https://www.youtube.com/watch?v=Bc5l133LDgg](https://www.youtube.com/watch?v=Bc5l133LDgg)
+  36. 0x24 | Her yazılım geliştiriciye siber güvenlik bakış açısını öğretiyorum gün 1475761.
+      * [https://www.youtube.com/watch?v=DJ5QnSUywUs](https://www.youtube.com/watch?v=DJ5QnSUywUs)
       
 </details>
 
