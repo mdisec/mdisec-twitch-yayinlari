@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mdisec-mdisec-twitch-yayinlari-badge.png)](https://mseep.ai/app/mdisec-mdisec-twitch-yayinlari)
+
 
 # MDISEC Twitch Yayınları
 
