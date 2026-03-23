@@ -470,6 +470,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
       * [https://www.youtube.com/watch?v=DJ5QnSUywUs](https://www.youtube.com/watch?v=DJ5QnSUywUs)
   37. 0x25 | Hellooo CHAAT !! Siber güvenlik üzerine konuşacağım. Beklerim. 🇦🇿 🇹🇷
       * [https://www.youtube.com/watch?v=q5BQ_plKxQs](https://www.youtube.com/watch?v=q5BQ_plKxQs)
+  38. 0x26 | Siber Güvenlik oyunu vibe Codingliyoruz | PROD IS LAVA - CVE Patch Panic Royale
+      * [https://www.youtube.com/watch?v=OVcRqNn-L4E](https://www.youtube.com/watch?v=OVcRqNn-L4E)
       
 </details>
 
@@ -665,6 +667,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=JZhX7I4Pxwg](https://www.youtube.com/watch?v=JZhX7I4Pxwg)
   7. Konuk: Sena Yakut | ☁️🛡️🚀 AWS Security Hero
      * [https://www.youtube.com/watch?v=GsPwaqDmBQM](https://www.youtube.com/watch?v=GsPwaqDmBQM)
+  8. Konuk: Batuhan Katırcı | 🛡️🚀 Application Security & JS ninja
+     * [https://www.youtube.com/watch?v=culYkBY4OOE](https://www.youtube.com/watch?v=culYkBY4OOE)
 </details>
 
 <details>
@@ -792,6 +796,14 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
   1. 0x01 | MDI direksiyona geçti ! Kanlı canlı Wiz Cloud Security Championship Bölüm 1 - Perimeter Leak
      * [https://www.youtube.com/watch?v=LGqsOlhwF_c](https://www.youtube.com/watch?v=LGqsOlhwF_c)
+</details>
+
+
+<details>
+  <summary>Chat Soruyor</summary>
+
+  1. 0x01 | HTTP dünyasında HSTS yani Strict-Transport-Security nedir ve ne işe yarar ?
+     * [https://www.youtube.com/watch?v=tXMDXMud9KI](https://www.youtube.com/watch?v=tXMDXMud9KI)
 </details>
 ---
 
