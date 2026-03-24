@@ -646,6 +646,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=Owz-1fRV4bo](https://www.youtube.com/watch?v=Owz-1fRV4bo)
  18. Telnet servisinde bulunan 15 yıllık güvenlik açığı | CVE-2026-24061 şaka mı ?!
      * [https://www.youtube.com/watch?v=45eKAGBH19k](https://www.youtube.com/watch?v=45eKAGBH19k)
+ 19. 20 Yıllık Beyaz Şapkalı Hacker olarak itiraflar: Claude Code Sonrası Hayatım Nasıl ?
+     * [https://www.youtube.com/watch?v=C_97bTYep6A](https://www.youtube.com/watch?v=C_97bTYep6A)
 </details>
 
 <details>
