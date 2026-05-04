@@ -764,6 +764,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
           - mycve[.]com projesi.
           - Open source toollar.
          </details>
+   4. SOME Bölüm 4 - İşimize Göz Koyan Claude Mythos'u Bir de Bizden Dinleyin
+      * [https://www.youtube.com/watch?v=J3BvfsPgbF0](https://www.youtube.com/watch?v=J3BvfsPgbF0)
          
 </details>
 
