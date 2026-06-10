@@ -648,6 +648,8 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
      * [https://www.youtube.com/watch?v=45eKAGBH19k](https://www.youtube.com/watch?v=45eKAGBH19k)
  19. 20 Yıllık Beyaz Şapkalı Hacker olarak itiraflar: Claude Code Sonrası Hayatım Nasıl ?
      * [https://www.youtube.com/watch?v=C_97bTYep6A](https://www.youtube.com/watch?v=C_97bTYep6A)
+ 20. Mid/Senior Siber Güvenlik Uzmanı Meslektaşlarıma Sesleniyorum | TOKEN YAKMAYA BAŞLAYIN !!!
+     * [https://www.youtube.com/watch?v=1FuSnZAQ7ds](https://www.youtube.com/watch?v=1FuSnZAQ7ds)
 </details>
 
 <details>
