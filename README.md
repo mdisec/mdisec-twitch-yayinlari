@@ -811,6 +811,22 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
   1. 0x01 | HTTP dünyasında HSTS yani Strict-Transport-Security nedir ve ne işe yarar ?
      * [https://www.youtube.com/watch?v=tXMDXMud9KI](https://www.youtube.com/watch?v=tXMDXMud9KI)
 </details>
+
+<details>
+  <summary>LatentShift Yapay Zeka Konferansı</summary>
+  
+  Tarih: 17 Ekim 2026 - İstanbul
+  
+  Website: https://LatentShift.ai
+
+  X: https://x.com/LatentShiftAI
+  
+  1. LatentShift.ai Geliyor! İstanbul'un En Büyük Teknik Yapay Zeka Konferansı
+     * [https://www.youtube.com/watch?v=jCHzpEvTQ94](https://www.youtube.com/watch?v=jCHzpEvTQ94)
+  2. Beyaz Şapkalı Hacker'lığın Sonu Geldi mi ? Yapay zeka çağında güvenlik araştırmalıcığına ne olacak ?
+     * [https://www.youtube.com/watch?v=v4IYZ7DeZ_k](https://www.youtube.com/watch?v=v4IYZ7DeZ_k)
+     
+</details>
 ---
 
 <details>
